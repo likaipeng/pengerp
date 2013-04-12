@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <document filename="Aged Trial Balance.pdf">
-   <template pageSize="(842.0,595.0)" title="Aged Trial Balance" author="PengERP S.A.(sales@pengerp.com)" allowSplitting="20">
+   <template pageSize="(842.0,595.0)" title="Aged Trial Balance" author="LKP(sales@pengerp.com)" allowSplitting="20">
     <pageTemplate id="first">
       <frame id="first" x1="28.0" y1="57.0" width="772" height="481"/>
     </pageTemplate>

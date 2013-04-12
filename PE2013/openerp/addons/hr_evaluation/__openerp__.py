@@ -22,7 +22,7 @@
 {
     'name' : 'Employee Appraisals',
     'version': '0.1',
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'category': 'Human Resources',
     'sequence': 31,
     'website': 'http://www.pengerp.com',

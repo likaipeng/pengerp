@@ -318,8 +318,8 @@ msgstr "Knoptype:"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:422
 #, python-format
-msgid "PengERP SA Company"
-msgstr "PengERP SA Company"
+msgid "LKP Company"
+msgstr "LKP Company"
 
 #. module: web
 #. openerp-web
@@ -1754,8 +1754,8 @@ msgstr "Kies velden voor de lijst"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:421
 #, python-format
-msgid "Copyright © 2004-TODAY PengERP SA. All Rights Reserved."
-msgstr "Copyright © 2004-VANDAAG PengERP SA. All Rights Reserved."
+msgid "Copyright © 2004-TODAY LKP. All Rights Reserved."
+msgstr "Copyright © 2004-VANDAAG LKP. All Rights Reserved."
 
 #. module: web
 #. openerp-web

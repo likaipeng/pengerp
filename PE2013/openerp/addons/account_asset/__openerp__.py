@@ -23,7 +23,7 @@
     'name': 'Assets Management',
     'version': '1.0',
     'depends': ['account'],
-    'author': 'PengERP S.A.',
+    'author': 'LKP',
     'description': """
 Financial and accounting asset management.
 ==========================================

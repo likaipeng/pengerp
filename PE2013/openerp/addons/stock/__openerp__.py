@@ -22,7 +22,7 @@
 {
     'name': 'Warehouse Management',
     'version': '1.1',
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'summary': 'Inventory, Logistic, Storage',
     'description' : """
 Manage multi-warehouses, multi- and structured stock locations

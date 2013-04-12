@@ -28,7 +28,7 @@
 The module adds google user in res user.
 ========================================
 """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'website': 'http://www.pengerp.com',
     'depends': ['base'],
     'data': [

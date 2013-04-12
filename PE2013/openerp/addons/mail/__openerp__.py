@@ -2,7 +2,7 @@
 ##############################################################################
 #
 #    PengERP, Open Source Management Solution
-#    Copyright (C) 2010-Today PengERP S.A. (<http://www.pengerp.com>).
+#    Copyright (C) 2010-Today LKP (<http://www.pengerp.com>).
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as
@@ -43,7 +43,7 @@ Main Features
 * Relies on the global outgoing mail server - an integrated email management system - allowing to send emails with a configurable scheduler-based processing engine
 * Includes an extensible generic email composition assistant, that can turn into a mass-mailing assistant and is capable of interpreting simple *placeholder expressions* that will be replaced with dynamic data when each email is actually sent.
     """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'website': 'http://www.pengerp.com',
     'depends': ['base', 'base_setup'],
     'data': [

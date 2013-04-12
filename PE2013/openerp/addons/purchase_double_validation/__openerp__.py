@@ -25,7 +25,7 @@
     'category': 'Purchase Management',
     'images' : ['images/purchase_validation.jpeg'],
     'depends' : ['base','purchase'],
-    'author' : 'PengERP SA',
+    'author' : 'LKP',
     'description': """
 Double-validation for purchases exceeding minimum amount.
 =========================================================

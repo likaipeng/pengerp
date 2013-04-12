@@ -22,7 +22,7 @@
 {
     'name': 'Greece - Accounting',
     'version': '0.2',
-    'author': 'P. Christeas, PengERP SA.',
+    'author': 'P. Christeas, LKP.',
     'website': 'http://openerp.hellug.gr/',
     'category': 'Localization/Account Charts',
     'description': """

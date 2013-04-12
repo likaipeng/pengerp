@@ -28,7 +28,7 @@
 This module is for modifying account analytic view to show some data related to the hr_expense module.
 ======================================================================================================
 """,
-    'author': 'PengERP S.A.',
+    'author': 'LKP',
     'website': 'http://www.pengerp.com/',
     'depends': ['hr_expense','account_analytic_analysis'],
     'data': ['analytic_contract_hr_expense_view.xml'],

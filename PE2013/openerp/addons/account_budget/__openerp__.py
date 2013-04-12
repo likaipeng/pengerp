@@ -47,7 +47,7 @@ Three reports are available:
     3. The last one is available from the Analytic Chart of Accounts. It gives 
        the spreading, for the selected Analytic Accounts of Budgets.
 """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'website': 'http://www.pengerp.com',
     'images': ['images/budget.jpeg','images/budgetary_position.jpeg'],
     'depends': ['account'],

@@ -22,7 +22,7 @@
 {
     'name': 'Cancel Journal Entries',
     'version': '1.1',
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'category': 'Accounting & Finance',
     'description': """
 Allows canceling accounting entries.

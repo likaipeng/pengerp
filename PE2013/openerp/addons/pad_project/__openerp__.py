@@ -27,7 +27,7 @@
 This module adds a PAD in all project kanban views.
 ===================================================
     """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'website': 'http://www.pengerp.com',
     'depends': ['project', 'pad'],
     'data': ['project_task.xml'],

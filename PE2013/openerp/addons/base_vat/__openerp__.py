@@ -52,7 +52,7 @@ Supported countries currently include EU countries, and a few non-EU countries
 such as Chile, Colombia, Mexico, Norway or Russia. For unsupported countries,
 only the country code will be validated.
     """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'depends': ['account'],
     'website': 'http://www.pengerp.com',
     'data': ['base_vat_view.xml'],

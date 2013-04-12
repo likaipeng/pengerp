@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <document filename="Account Follow-up.pdf">
-  <template title="Account Follow-up" author="PengERP S.A. (sales@pengerp.com)" allowSplitting="20">
+  <template title="Account Follow-up" author="LKP (sales@pengerp.com)" allowSplitting="20">
     <pageTemplate id="first">
       <frame id="first" x1="31.0" y1="28.0" width="532" height="786"/>
     </pageTemplate>

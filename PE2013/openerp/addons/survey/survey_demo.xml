@@ -523,7 +523,7 @@
         </record>
         <record id="survey_answer_converted_in_customers" model="survey.answer">
             <field name="in_visible_answer_type">1</field>
-            <field name="answer">How are the leads that you find thanks to PengERP SA be converted in customers?</field>
+            <field name="answer">How are the leads that you find thanks to LKP be converted in customers?</field>
             <field name="question_id" ref="survey_question_Leads" />
             <field name="sequence" eval="2"/>
         </record>
@@ -560,7 +560,7 @@
 
         <record id="survey_question_partners_about" model="survey.question">
             <field name="in_visible_answer_type">1</field>
-            <field name="question">How is PengERP SA's communication with partners about...</field>
+            <field name="question">How is LKP's communication with partners about...</field>
             <field name="page_id" ref="survey_page_communication" />
             <field name="type">matrix_of_choices_only_one_ans</field>
             
@@ -617,7 +617,7 @@
 
         <record id="survey_question_partners_on_which_subjects" model="survey.question">
             <field name="in_visible_answer_type">1</field>
-            <field name="question">In your opinion, how could PengERP SA better communicate with partners and on which subjects?</field>
+            <field name="question">In your opinion, how could LKP better communicate with partners and on which subjects?</field>
             <field name="page_id" ref="survey_page_communication" />
             <field name="type">comment</field>
             <field eval="4" name="sequence"/>
@@ -2983,7 +2983,7 @@
             <field name="date_create" eval="time.strftime('%Y-%m-%d %H:%M:%S')+'.706175'"/>
             <field name="state">done</field>
             <field name="response_id" ref="survey_response_0"/>
-            <field name="single_text">PengERP SA</field>
+            <field name="single_text">LKP</field>
             <field name="question_id" ref="survey.survey_question_company_name"/>
         </record>
     </data>
@@ -3064,7 +3064,7 @@
             <field name="date_create" eval="time.strftime('%Y-%m-%d %H:%M:%S')+'.33203'"/>
             <field name="state">done</field>
             <field name="response_id" ref="survey_response_1"/>
-            <field name="single_text">PengERP SA</field>
+            <field name="single_text">LKP</field>
             <field name="question_id" ref="survey.survey_question_odoo_company_name"/>
         </record>
     </data>

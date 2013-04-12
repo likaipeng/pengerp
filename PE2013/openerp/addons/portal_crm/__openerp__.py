@@ -29,7 +29,7 @@
 This module adds a contact page (with a contact form creating a lead when submitted) to your portal if crm and portal are installed.
 ====================================================================================================================================
     """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'depends': ['crm','portal'],
     'data': [
         'contact_view.xml',

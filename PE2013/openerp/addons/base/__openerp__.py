@@ -29,8 +29,8 @@
 The kernel of PengERP, needed for all installation.
 ===================================================
 """,
-    'author': 'PengERP SA',
-    'maintainer': 'PengERP SA',
+    'author': 'LKP',
+    'maintainer': 'LKP',
     'website': 'http://www.pengerp.com',
     'depends': [],
     'data': [

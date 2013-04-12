@@ -318,8 +318,8 @@ msgstr "按鈕型態"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:422
 #, python-format
-msgid "PengERP SA Company"
-msgstr "PengERP SA 公司"
+msgid "LKP Company"
+msgstr "LKP 公司"
 
 #. module: web
 #. openerp-web
@@ -1746,8 +1746,8 @@ msgstr "請選擇欄位以儲存匯出表列...."
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:421
 #, python-format
-msgid "Copyright © 2004-TODAY PengERP SA. All Rights Reserved."
-msgstr "Copyright © 2004-TODAY PengERP SA. 版權所有."
+msgid "Copyright © 2004-TODAY LKP. All Rights Reserved."
+msgstr "Copyright © 2004-TODAY LKP. 版權所有."
 
 #. module: web
 #. openerp-web

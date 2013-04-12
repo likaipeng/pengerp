@@ -33,7 +33,7 @@ Use automated actions to automatically trigger actions for various screens.
 sales team, or an opportunity which still has status pending after 14 days might
 trigger an automatic reminder email.
     """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'website': 'http://www.pengerp.com',
     'depends': ['base', 'mail'],
     'data': [

@@ -461,7 +461,7 @@ PengERP is an ERP+CRM program for small and medium businesses.
 The whole source code is distributed under the terms of the
 GNU Public Licence.
 
-(c) 2003-TODAY - PengERP SA''')
+(c) 2003-TODAY - LKP''')
 
         if extended:
             return info, release.version

@@ -28,14 +28,14 @@
 <!ENTITY rdAlwaysAttached.label "Always Send Email Attachments to PengERP">
 <!ENTITY rdPromptAttached.label "Prompt Before Sending Email Attachments">
 <!ENTITY rdNeverAttached.label "Never Send Email attachments to PengERP">
-<!ENTITY reserve.value "Copyright © 2006-TODAY PengERP SA All Rights Reserved.
-PengERP is a trademark of the PengERP SA Company. PengERP Web is jointly developed by PengERP SA and Axelor.\n
+<!ENTITY reserve.value "Copyright © 2006-TODAY LKP All Rights Reserved.
+PengERP is a trademark of the LKP Company. PengERP Web is jointly developed by LKP and Axelor.\n
 Licenced under the terms of PengERP Public License (OEPL) v1.1 ">
 <!ENTITY openerp.value "http://www.pengerp.com/">
 <!ENTITY axelor.value "http://www.axelor.com">
 <!ENTITY tinyerp.value "http://tiny.be/">
 
-<!ENTITY openerp.paresent "This Thunderbird Plugin for PengERP presently (2010-today) developed by PengERP SA.">
+<!ENTITY openerp.paresent "This Thunderbird Plugin for PengERP presently (2010-today) developed by LKP.">
 
 <!ENTITY openerp_s.value "PengERP">
 <!ENTITY axelor_s.value "The Axelor Company">

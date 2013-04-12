@@ -4122,7 +4122,7 @@ msgstr "如果没适用的 (计算通过python代码)， 税将不显示在发�
 #. module: account
 #: field:account.config.settings,group_check_supplier_invoice_total:0
 msgid "Check the total of supplier invoices"
-msgstr ""
+msgstr "检查供应商发票总额"
 
 #. module: account
 #: view:account.tax:0
@@ -7406,7 +7406,7 @@ msgstr "客户发票"
 #. module: account
 #: view:account.tax:0
 msgid "Misc"
-msgstr ""
+msgstr "其它"
 
 #. module: account
 #: view:account.analytic.line:0
@@ -7539,7 +7539,7 @@ msgstr "未分配利润科目"
 #. module: account
 #: view:account.invoice:0
 msgid "Customer Reference"
-msgstr ""
+msgstr "推荐单位"
 
 #. module: account
 #: field:account.account.template,parent_id:0
@@ -8529,12 +8529,12 @@ msgstr "不含税合计:"
 #: code:addons/account/wizard/account_report_common.py:158
 #, python-format
 msgid "Select a starting and an ending period."
-msgstr ""
+msgstr "选择起始和结束周期。"
 
 #. module: account
 #: field:account.config.settings,sale_sequence_next:0
 msgid "Next invoice number"
-msgstr ""
+msgstr "下一发票编号"
 
 #. module: account
 #: model:ir.ui.menu,name:account.menu_finance_generic_reporting
@@ -9321,7 +9321,7 @@ msgstr "创建发票"
 #. module: account
 #: model:ir.actions.act_window,name:account.action_account_configuration_installer
 msgid "Configure Accounting Data"
-msgstr ""
+msgstr "配置会计数据"
 
 #. module: account
 #: field:wizard.multi.charts.accounts,purchase_tax_rate:0
@@ -9701,7 +9701,7 @@ msgstr "合并报表"
 #: field:account.config.settings,default_sale_tax:0
 #: field:account.config.settings,sale_tax:0
 msgid "Default sale tax"
-msgstr ""
+msgstr "默认销售税种"
 
 #. module: account
 #: report:account.overdue:0
@@ -10136,7 +10136,7 @@ msgstr "汇率"
 #. module: account
 #: view:account.config.settings:0
 msgid "e.g. sales@pengerp.com"
-msgstr ""
+msgstr "例如，sales@pengerp.com"
 
 #. module: account
 #: field:account.account,tax_ids:0
@@ -10164,7 +10164,7 @@ msgstr "要打印的损益"
 #: code:addons/account/account_invoice.py:379
 #, python-format
 msgid "There is no Sale/Purchase Journal(s) defined."
-msgstr ""
+msgstr "没有定义销售/采购账簿。"
 
 #. module: account
 #: view:account.move.line.reconcile.select:0

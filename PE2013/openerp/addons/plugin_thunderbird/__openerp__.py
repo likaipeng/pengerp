@@ -22,7 +22,7 @@
 {
     'name' : 'Thunderbird Plug-In',
     'version' : '1.0',
-    'author' : ['PengERP SA', 'Axelor'],
+    'author' : ['LKP', 'Axelor'],
     'website' : 'http://www.pengerp.com/',
     'depends' : ['base','mail', 'plugin'],
     'category' : 'Customer Relationship Management',

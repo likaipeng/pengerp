@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #
 # Copyright P. Christeas <p_christ@hol.gr> 2008-2010
-# Copyright 2010 PengERP SA. (http://www.pengerp.com)
+# Copyright 2010 LKP. (http://www.pengerp.com)
 #
 #
 # WARNING: This program as such is intended to be used by professional

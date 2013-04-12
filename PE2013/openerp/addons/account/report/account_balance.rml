@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <document filename="Account Balance.pdf">
-  <template title="Account Balance" author="PengERP S.A.(sales@pengerp.com)" allowSplitting="20">
+  <template title="Account Balance" author="LKP(sales@pengerp.com)" allowSplitting="20">
     <pageTemplate id="first">
       <frame id="first" x1="35.0" y1="35.0" width="525" height="772"/>
     </pageTemplate>

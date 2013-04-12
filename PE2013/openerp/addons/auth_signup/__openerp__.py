@@ -2,7 +2,7 @@
 ##############################################################################
 #
 #    PengERP, Open Source Management Solution
-#    Copyright (C) 2009-today PengERP SA (<http://www.pengerp.com>)
+#    Copyright (C) 2009-today LKP (<http://www.pengerp.com>)
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as
@@ -25,7 +25,7 @@
 Allow users to sign up and reset their password
 ===============================================
     """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'version': '1.0',
     'category': 'Authentication',
     'website': 'http://www.pengerp.com',

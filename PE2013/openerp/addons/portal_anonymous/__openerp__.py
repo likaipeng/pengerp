@@ -4,7 +4,7 @@
 Allow anonymous to Access Portal.
 =================================
  """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'version': '1.0',
     'category': 'Hidden',
     'website': 'http://www.pengerp.com',

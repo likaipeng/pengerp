@@ -28,7 +28,7 @@
 The common interface for plug-in.
 =================================
 """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'website': 'http://www.pengerp.com',
     'depends': ['base'],
     'data': [],

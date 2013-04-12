@@ -320,8 +320,8 @@ msgstr "Typ tlačítka:"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:422
 #, python-format
-msgid "PengERP SA Company"
-msgstr "Společnost PengERP SA"
+msgid "LKP Company"
+msgstr "Společnost LKP"
 
 #. module: web
 #. openerp-web
@@ -1756,8 +1756,8 @@ msgstr "Prosíme vyberte pole k uložení exportovaného seznamu..."
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:421
 #, python-format
-msgid "Copyright © 2004-TODAY PengERP SA. All Rights Reserved."
-msgstr "Copyright © 2004-DNES PengERP SA. Všechna práva vyhrazena"
+msgid "Copyright © 2004-TODAY LKP. All Rights Reserved."
+msgstr "Copyright © 2004-DNES LKP. Všechna práva vyhrazena"
 
 #. module: web
 #. openerp-web

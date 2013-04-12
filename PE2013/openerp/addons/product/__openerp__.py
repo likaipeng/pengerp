@@ -23,7 +23,7 @@
 {
     'name': 'Products & Pricelists',
     'version': '1.1',
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'category': 'Sales Management',
     'depends': ['base', 'process', 'decimal_precision', 'mail'],
     'demo': ['product_demo.xml', 'product_image_demo.xml'],

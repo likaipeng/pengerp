@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <document filename="test.pdf">
-  <template title="Payment By User" author="PengERP S.A. (sales@pengerp.com)" allowSplitting="20">
+  <template title="Payment By User" author="LKP (sales@pengerp.com)" allowSplitting="20">
     <pageTemplate id="first">
       <frame id="first" x1="57.0" y1="57.0" width="481" height="728"/>
     </pageTemplate>

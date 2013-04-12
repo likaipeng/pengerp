@@ -26,7 +26,7 @@
     'depends': ['marketing_campaign',
                  'crm',
     ],
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'category': 'Marketing',
     'description': """
 Demo data for the module marketing_campaign.

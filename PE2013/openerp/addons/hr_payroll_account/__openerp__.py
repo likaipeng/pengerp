@@ -31,7 +31,7 @@ Generic Payroll system Integrated with Accounting.
     * Payment Encoding
     * Company Contribution Management
     """,
-    'author':'PengERP SA',
+    'author':'LKP',
     'website':'http://www.pengerp.com',
     'images': ['images/hr_employee_payslip.jpeg'],
     'depends': [

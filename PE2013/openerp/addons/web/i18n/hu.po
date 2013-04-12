@@ -319,8 +319,8 @@ msgstr "Gomb típusa:"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:422
 #, python-format
-msgid "PengERP SA Company"
-msgstr "PengERP SA Company"
+msgid "LKP Company"
+msgstr "LKP Company"
 
 #. module: web
 #. openerp-web
@@ -1756,8 +1756,8 @@ msgstr "Kérem válasszon mezőket az export lista mentéséhez..."
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:421
 #, python-format
-msgid "Copyright © 2004-TODAY PengERP SA. All Rights Reserved."
-msgstr "Copyright © 2004-TODAY PengERP SA. Minden jog fenntartva."
+msgid "Copyright © 2004-TODAY LKP. All Rights Reserved."
+msgstr "Copyright © 2004-TODAY LKP. Minden jog fenntartva."
 
 #. module: web
 #. openerp-web

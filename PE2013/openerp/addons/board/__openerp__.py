@@ -30,7 +30,7 @@ Lets the user create a custom dashboard.
 
 Allows users to create custom dashboard.
     """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'depends': ['base'],
     'data': [
         'security/ir.model.access.csv',

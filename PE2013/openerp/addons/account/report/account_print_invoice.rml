@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <document filename="Invoices.pdf">
-  <template title="Invoices" author="PengERP S.A.(sales@pengerp.com)" allowSplitting="20">
+  <template title="Invoices" author="LKP(sales@pengerp.com)" allowSplitting="20">
     <pageTemplate id="first">
       <frame id="first" x1="34.0" y1="28.0" width="530" height="786"/>
     </pageTemplate>

@@ -30,7 +30,7 @@ This module is for managing a multicompany environment.
 
 This module is the base module for other multi-company modules.
     """,
-    'author': 'PengERP SA,SYLEAM',
+    'author': 'LKP,SYLEAM',
     'website': 'http://www.pengerp.com/',
     'depends': [
         'base',

@@ -32,7 +32,7 @@ With this module you would not only be able to access documents through PengERP
 but you would also be able to connect with them through the file system using the
 FTP client.
 """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'website': 'http://www.pengerp.com',
     'depends': ['base', 'document'],
     'data': [

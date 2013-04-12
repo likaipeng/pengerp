@@ -71,6 +71,7 @@ msgid ""
 "the\n"
 "                                        customer."
 msgstr ""
+"一旦合同到期或者达到服务单位的最大上限，就会邮件通知财务经理与客户续签合同。\n"
 
 #. module: analytic
 #: selection:account.analytic.account,type:0
@@ -217,7 +218,7 @@ msgstr "日期"
 #. module: analytic
 #: model:mail.message.subtype,name:analytic.mt_account_closed
 msgid "Contract Finished"
-msgstr "完成合同"
+msgstr "完成的合同"
 
 #. module: analytic
 #: view:account.analytic.account:0

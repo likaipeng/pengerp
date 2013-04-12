@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <document filename="test.pdf">
-<template pageSize="(550,280)" title="Code Barcode" author="PengERP S.A. (sales@pengerp.com)" allowSplitting="20">
+<template pageSize="(550,280)" title="Code Barcode" author="LKP (sales@pengerp.com)" allowSplitting="20">
 <pageTemplate id="first">
   <frame id="first" x1="0.1cm" y1="0.1cm" width="530" height="240"/>
 </pageTemplate>

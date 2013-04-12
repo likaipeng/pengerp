@@ -26,7 +26,7 @@
 {
     'name' : 'Venezuela - Accounting',
     'version': '1.0',
-    'author': ['PengERP SA', 'Vauxoo'],
+    'author': ['LKP', 'Vauxoo'],
     'category': 'Localization/Account Charts',
     'description':
 """

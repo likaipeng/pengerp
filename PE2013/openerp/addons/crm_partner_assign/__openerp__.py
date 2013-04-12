@@ -25,7 +25,7 @@
     'version': '1.0',
     'category': 'Customer Relationship Management',
     'description': """
-This is the module used by PengERP SA to redirect customers to its partners, based on geolocalization.
+This is the module used by LKP to redirect customers to its partners, based on geolocalization.
 ======================================================================================================
 
 You can geolocalize your opportunities by using this module.
@@ -36,7 +36,7 @@ Determine the GPS coordinates according to the address of the partner.
 The most appropriate partner can be assigned.
 You can also use the geolocalization without using the GPS coordinates.
     """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'depends': ['crm', 'account'],
     'demo': ['res_partner_demo.xml'],
     'data': [

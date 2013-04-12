@@ -3,7 +3,7 @@
 #
 #    PengERP, Open Source Management Solution
 #    Copyright (C) 2009 Sharoon Thomas
-#    Copyright (C) 2010-Today PengERP SA (<http://www.pengerp.com>)
+#    Copyright (C) 2010-Today LKP (<http://www.pengerp.com>)
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
@@ -23,7 +23,7 @@
 {
     'name' : 'Email Templates',
     'version' : '1.1',
-    'author' : 'PengERP,OpenLabs',
+    'author' : 'LKP,OpenLabs',
     'website' : 'http://pengerp.com',
     'category' : 'Marketing',
     'depends' : ['mail'],

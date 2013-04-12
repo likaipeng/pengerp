@@ -21,7 +21,7 @@
 
 {
     'name': 'Lunch Orders',
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'version': '0.2',
     'depends': ['base'],
     'category' : 'Tools',

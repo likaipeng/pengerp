@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <document filename="Partner VAT Intra.pdf">
-  <template pageSize="(595.0,842.0)" title="Partner VAT Intra" author="PengERP S.A.(sales@pengerp.com)" allowSplitting="20">
+  <template pageSize="(595.0,842.0)" title="Partner VAT Intra" author="LKP(sales@pengerp.com)" allowSplitting="20">
     <pageTemplate id="first">
       <frame id="first" x1="34.0" y1="28.0" width="530" height="786"/>
     </pageTemplate>

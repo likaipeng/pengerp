@@ -318,8 +318,8 @@ msgstr "Button Type:"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:422
 #, python-format
-msgid "PengERP SA Company"
-msgstr "PengERP SA"
+msgid "LKP Company"
+msgstr "LKP"
 
 #. module: web
 #. openerp-web
@@ -1761,8 +1761,8 @@ msgstr "Selecteer aub velden voor opslaan export lijst"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:421
 #, python-format
-msgid "Copyright © 2004-TODAY PengERP SA. All Rights Reserved."
-msgstr "Copyright © 2004-TODAY PengERP SA. All Rights Reserved."
+msgid "Copyright © 2004-TODAY LKP. All Rights Reserved."
+msgstr "Copyright © 2004-TODAY LKP. All Rights Reserved."
 
 #. module: web
 #. openerp-web

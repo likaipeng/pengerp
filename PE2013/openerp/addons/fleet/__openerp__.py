@@ -21,7 +21,7 @@
 {
     'name' : 'Fleet Management',
     'version' : '0.1',
-    'author' : 'PengERP S.A.',
+    'author' : 'LKP',
     'sequence': 110,
     'category': 'Managing vehicles and contracts',
     'website' : 'http://www.pengerp.com',

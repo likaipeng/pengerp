@@ -68,7 +68,7 @@ msgstr "延迟关闭"
 #. module: crm
 #: view:crm.lead:0
 msgid "Available for mass mailing"
-msgstr "Available for mass mailing"
+msgstr "可用于群发邮件的"
 
 #. module: crm
 #: view:crm.case.stage:0

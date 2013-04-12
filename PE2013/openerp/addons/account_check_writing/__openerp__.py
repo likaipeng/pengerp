@@ -21,7 +21,7 @@
 {
     'name': 'Check Writing',
     'version': '1.1',
-    'author': 'PengERP SA, NovaPoint Group',
+    'author': 'LKP, NovaPoint Group',
     'category': 'Generic Modules/Accounting',
     'description': """
 Module for the Check Writing and Check Printing.

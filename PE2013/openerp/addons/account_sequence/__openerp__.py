@@ -37,7 +37,7 @@ You can customize the following attributes of the sequence:
     * Increment Number
     * Number Padding
     """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'website': 'http://www.pengerp.com',
     'images': ['images/internal_sequence_number.jpeg'],
     'depends': ['account'],

@@ -35,7 +35,7 @@ This is a complete document management system.
         * Files by Partner (graph)
         * Files Size by Month (graph)
 """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'website': 'http://www.pengerp.com',
     'depends': ['knowledge'],
     'data': [

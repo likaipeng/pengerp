@@ -37,7 +37,7 @@ Generic Payroll system.
     * Monthly Payroll Register
     * Integrated with Holiday Management
     """,
-    'author':'PengERP SA',
+    'author':'LKP',
     'website':'http://www.pengerp.com',
     'images': ['images/hr_company_contributions.jpeg','images/hr_salary_heads.jpeg','images/hr_salary_structure.jpeg','images/hr_employee_payslip.jpeg'],
     'depends': [

@@ -30,7 +30,7 @@ Remove minimal account chart.
 
 Deactivates minimal chart of accounts.
 """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'website': 'http://www.pengerp.com',
     'depends': ['account'],
     'data': [],

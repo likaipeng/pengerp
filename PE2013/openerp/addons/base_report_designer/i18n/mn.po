@@ -144,12 +144,12 @@ msgstr "Тайлбар"
 msgid ""
 "This is the template of your requested report.\n"
 "Save it as a .SXW file and open it with OpenOffice.\n"
-"Don't forget to install the PengERP SA OpenOffice package to modify it.\n"
+"Don't forget to install the LKP OpenOffice package to modify it.\n"
 "Once it is modified, re-upload it in PengERP using this wizard."
 msgstr ""
 "Энэ таны тайлангийн загвар. \n"
 "Үүнийг .SXW файл хэлбэрээр хадгалж OpenOffice програмаар нээнэ үү.\n"
-"Өөрчлөлт хийхийн тулд PengERP SA OpenOffice багцийг суулгахаа бүү мартаарай."
+"Өөрчлөлт хийхийн тулд LKP OpenOffice багцийг суулгахаа бүү мартаарай."
 
 #. module: base_report_designer
 #: model:ir.actions.act_window,name:base_report_designer.action_view_base_report_sxw

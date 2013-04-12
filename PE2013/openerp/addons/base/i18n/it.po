@@ -5329,7 +5329,7 @@ msgstr "no"
 #: model:ir.module.module,description:base.module_crm_partner_assign
 msgid ""
 "\n"
-"This is the module used by PengERP SA to redirect customers to its partners, "
+"This is the module used by LKP to redirect customers to its partners, "
 "based on geolocalization.\n"
 "============================================================================="
 "=========================\n"

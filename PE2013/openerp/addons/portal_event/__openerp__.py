@@ -29,7 +29,7 @@
 This module adds event menu and features to your portal if event and portal are installed.
 ==========================================================================================
     """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'depends': ['event','portal'],
     'data': [
         'event_view.xml',

@@ -1,6 +1,6 @@
 #####################################################################################
 #
-# Copyright (c) 2004-TODAY PengERP S.A. (http://www.pengerp.com) All Rights Reserved.
+# Copyright (c) 2004-TODAY LKP (http://www.pengerp.com) All Rights Reserved.
 #
 # WARNING: This program as such is intended to be used by professional
 # programmers who take the whole responsability of assessing all potential
@@ -29,7 +29,7 @@
 !include 'LogicLib.nsh'
 !include 'Sections.nsh'
 
-!define PUBLISHER 'PengERP S.A.'
+!define PUBLISHER 'LKP'
 
 !ifndef VERSION
     !define VERSION '0'

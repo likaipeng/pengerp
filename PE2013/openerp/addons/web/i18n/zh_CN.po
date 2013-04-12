@@ -318,7 +318,7 @@ msgstr "按钮类型："
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:422
 #, python-format
-msgid "PengERP SA Company"
+msgid "LKP Company"
 msgstr "PengERP"
 
 #. module: web
@@ -1753,8 +1753,8 @@ msgstr "请选择要保存成导出列表的字段..."
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:421
 #, python-format
-msgid "Copyright © 2004-TODAY PengERP SA. All Rights Reserved."
-msgstr "版权所有 © 2004-TODAY PengERP SA。保留所有权利。"
+msgid "Copyright © 2004-TODAY LKP. All Rights Reserved."
+msgstr "版权所有 © 2004-TODAY LKP。保留所有权利。"
 
 #. module: web
 #. openerp-web

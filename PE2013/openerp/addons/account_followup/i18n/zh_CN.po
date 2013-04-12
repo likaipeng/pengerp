@@ -121,7 +121,7 @@ msgstr "This is the next action to be taken.  It will automatically be set when 
 #. module: account_followup
 #: view:res.partner:0
 msgid "No Responsible"
-msgstr "No Responsible"
+msgstr "无负责人"
 
 #. module: account_followup
 #: model:account_followup.followup.line,description:account_followup.demo_followup_line2
@@ -523,12 +523,12 @@ msgstr "Optionally you can assign a user to this field, which will make him resp
 #. module: account_followup
 #: view:res.partner:0
 msgid "Partners with Overdue Credits"
-msgstr "Partners with Overdue Credits"
+msgstr "有逾期债务的合作伙伴"
 
 #. module: account_followup
 #: model:ir.model,name:account_followup.model_account_followup_sending_results
 msgid "Results from the sending of the different letters and emails"
-msgstr "Results from the sending of the different letters and emails"
+msgstr "来自不同信件和邮件的发送结果"
 
 #. module: account_followup
 #: constraint:account_followup.followup.line:0

@@ -28,7 +28,7 @@ Indian Accounting: Chart of Account.
 
 Indian accounting chart and localization.
     """,
-    'author': ['PengERP SA', 'Axelor'],
+    'author': ['LKP', 'Axelor'],
     'category': 'Localization/Account Charts',
     'depends': [
         'account',

@@ -22,7 +22,7 @@
 {
     'name': 'Google Docs integration',
     'version': '0.2',
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'website': 'http://pengerp.com',
     'category': 'Tools',
     'installable': True,

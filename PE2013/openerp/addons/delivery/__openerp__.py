@@ -31,7 +31,7 @@ Allows you to add delivery methods in sale orders and picking.
 You can define your own carrier and delivery grids for prices. When creating 
 invoices from picking, PengERP is able to add and compute the shipping line.
 """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'depends': ['sale', 'purchase', 'stock'],
     'data': [
         'security/ir.model.access.csv',

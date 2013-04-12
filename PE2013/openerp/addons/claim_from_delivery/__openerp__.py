@@ -20,7 +20,7 @@
 {
     'name' : 'Claim on Deliveries',
     'version' : '1.0',
-    'author' : 'PengERP SA',
+    'author' : 'LKP',
     'category' : 'Warehouse Management',
     'depends' : ['base', 'crm_claim', 'stock'],
     'demo' : [],

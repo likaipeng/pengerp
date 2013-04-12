@@ -2,7 +2,7 @@
 ##############################################################################
 #
 #    PengERP, Open Source Management Solution
-#    Copyright (C) 2012-today PengERP SA (<http://pengerp.com>)
+#    Copyright (C) 2012-today LKP (<http://pengerp.com>)
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as
@@ -30,7 +30,7 @@ This module handles state and stage. It is derived from the crm_base and crm_cas
     * ``base_state``: state management
     * ``base_stage``: stage management
     """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'website': 'http://www.pengerp.com',
     'depends': ['base'],
     'data': [],

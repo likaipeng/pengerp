@@ -61,7 +61,7 @@ confirmation email to communicate the login/password of moodle to your subscribe
 
 **PASSWORD:** ${object.moodle_user_password}
 """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'depends': ['event'],
     'data': [
         'wizard_moodle.xml',

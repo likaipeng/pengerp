@@ -20,7 +20,7 @@
 {
     'name': 'Products Manufacturers',
     'version': '1.0',
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'category': 'Purchase Management',
     'depends': ['stock'],
     'demo': [],

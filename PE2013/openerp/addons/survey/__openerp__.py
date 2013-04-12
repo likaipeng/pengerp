@@ -2,7 +2,7 @@
 ##############################################################################
 #
 #    PengERP, Open Source Management Solution
-#    Copyright (C) 2004-TODAY PengERP S.A. <http://www.pengerp.com>
+#    Copyright (C) 2004-TODAY LKP <http://www.pengerp.com>
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as
@@ -33,7 +33,7 @@ question may have multiple answers. Different users may give different answers o
 question and according to that survey is done. Partners are also sent mails with
 user name and password for the invitation of the survey.
     """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'depends': ['mail'],
     'data': [
         'survey_report.xml',

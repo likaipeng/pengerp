@@ -29,7 +29,7 @@
 This module adds access rules to your portal if stock and portal are installed.
 ==========================================================================================
     """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'depends': ['sale_stock','portal'],
     'data': [
         'security/portal_security.xml',

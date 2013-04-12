@@ -31,7 +31,7 @@ Module to trigger warnings in PengERP objects.
 Warning messages can be displayed for objects like sale order, purchase order,
 picking and invoice. The message is triggered by the form's onchange event.
     """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'depends': ['base', 'sale', 'purchase'],
     'data': ['warning_view.xml'],
     'demo': [],

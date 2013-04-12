@@ -22,7 +22,7 @@
 {
     'name': 'Multi Language Chart of Accounts',
     'version': '1.1',
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'category': 'Hidden/Dependency',
     'description': """
     * Multi language support for Chart of Accounts, Taxes, Tax Codes, Journals,

@@ -2,7 +2,7 @@
 ##############################################################################
 #
 #    PengERP, Open Source Management Solution
-#    Copyright (C) 2011 PengERP SA (<http://pengerp.com>). All Rights Reserved
+#    Copyright (C) 2011 LKP (<http://pengerp.com>). All Rights Reserved
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as published by

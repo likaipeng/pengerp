@@ -37,7 +37,7 @@ by ‘XXX’ characters). Then you can send the anonymized database to the migra
 team. Once you get back your migrated database, you restore it and reverse the
 anonymization process to recover your previous data.
     """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'website': 'http://www.pengerp.com',
     'depends': ['base'],
     'demo': ['anonymization_demo.xml'],

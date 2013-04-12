@@ -38,7 +38,7 @@ With this module:
 -----------------
     A + B + C -> D + E
     """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'website': 'http://www.pengerp.com',
     'images': ['images/bom_byproduct.jpeg'],
     'depends': ['base', 'mrp'],

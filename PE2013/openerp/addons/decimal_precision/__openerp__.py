@@ -27,7 +27,7 @@ Configure the price accuracy you need for different kinds of usage: accounting, 
 
 The decimal precision is configured per company.
 """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'version': '0.1',
     'depends': ['base'],
     'category' : 'Hidden/Dependency',

@@ -4871,7 +4871,7 @@ msgstr "No"
 #: model:ir.module.module,description:base.module_crm_partner_assign
 msgid ""
 "\n"
-"This is the module used by PengERP SA to redirect customers to its partners, "
+"This is the module used by LKP to redirect customers to its partners, "
 "based on geolocalization.\n"
 "============================================================================="
 "=========================\n"
@@ -12784,14 +12784,14 @@ msgstr ""
 #: view:ir.model.data:0
 #: model:ir.ui.menu,name:base.ir_model_data_menu
 msgid "External Identifiers"
-msgstr ""
+msgstr "外部标识符"
 
 #. module: base
 #. openerp-web
 #: code:addons/base/static/src/js/apps.js:103
 #, python-format
 msgid "Showing locally available modules"
-msgstr ""
+msgstr "显示本地可用的模块"
 
 #. module: base
 #: selection:base.language.install,lang:0

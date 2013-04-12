@@ -35,7 +35,7 @@ meeting minutes.
 
 Notes can be found in the 'Home' menu.
 """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'website': 'http://pengerp.com',
     'summary': 'Sticky notes, Collaborative, Memos',
     'sequence': 9,

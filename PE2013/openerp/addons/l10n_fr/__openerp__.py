@@ -28,7 +28,7 @@
 {
     'name': 'France - Accounting',
     'version': '1.1',
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'website': 'http://www.pengerp.com',
     'category': 'Localization/Account Charts',
     'description': """

@@ -4272,7 +4272,7 @@ msgstr ""
 #. module: base
 #: model:ir.module.module,description:base.module_crm_partner_assign
 msgid "\n"
-"This is the module used by PengERP SA to redirect customers to its partners, based on geolocalization.\n"
+"This is the module used by LKP to redirect customers to its partners, based on geolocalization.\n"
 "======================================================================================================\n"
 "\n"
 "You can geolocalize your opportunities by using this module.\n"

@@ -2,7 +2,7 @@
 ##############################################################################
 #
 #    PengERP, Open Source Management Solution
-#    Copyright (C) 2004-2012 PengERP S.A (<http://www.pengerp.com>).
+#    Copyright (C) 2004-2012 LKP(<http://www.pengerp.com>).
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as
@@ -27,7 +27,7 @@
         'share',
         'auth_signup',
     ],
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'category': 'Portal',
     'description': """
 Customize access to your PengERP database to external users by creating portals.

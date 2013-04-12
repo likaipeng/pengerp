@@ -88,7 +88,7 @@ declaration file:
     {
         'name' : "OpenAcademy",
         'version' : "1.0",
-        'author' : "PengERP SA",
+        'author' : "LKP",
         'category' : "Tools",
         'depends' : ['mail'],
         'data' : [

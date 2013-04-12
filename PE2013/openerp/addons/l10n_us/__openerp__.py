@@ -21,7 +21,7 @@
 {
     'name': 'United States - Chart of accounts',
     'version': '1.1',
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'category': 'Localization/Account Charts',
     'description': """
 United States - Chart of accounts.

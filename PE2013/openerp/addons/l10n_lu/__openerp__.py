@@ -5,7 +5,7 @@
 #    Copyright (C) 2004-2010 Tiny SPRL (<http://tiny.be>).
 #    Copyright (C) 2011 Thamini S.à.R.L (<http://www.thamini.com>)
 #    Copyright (C) 2011 ADN Consultants S.à.R.L (<http://www.adn-luxembourg.com>)
-#    Copyright (C) 2012-today PengERP SA (<http://pengerp.com>)
+#    Copyright (C) 2012-today LKP (<http://pengerp.com>)
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as
@@ -35,7 +35,7 @@ This is the base module to manage the accounting chart for Luxembourg.
     * the Tax Code Chart for Luxembourg
     * the main taxes used in Luxembourg
     * default fiscal position for local, intracom, extracom """,
-    'author': 'PengERP SA & ADN',
+    'author': 'LKP & ADN',
     'website': 'http://www.pengerp.com http://www.adn-luxembourg.com',
     'depends': ['account', 'base_vat', 'base_iban'],
     'data': [

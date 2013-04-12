@@ -2208,7 +2208,7 @@ msgstr "价格"
 #. module: stock
 #: field:stock.config.settings,module_stock_invoice_directly:0
 msgid "Create and open the invoice when the user finish a delivery order"
-msgstr ""
+msgstr "当用户完成送货单时创建并打开发票"
 
 #. module: stock
 #: model:ir.model,name:stock.model_stock_return_picking_memory
@@ -2218,7 +2218,7 @@ msgstr ""
 #. module: stock
 #: field:stock.config.settings,group_stock_inventory_valuation:0
 msgid "Generate accounting entries per stock movement"
-msgstr ""
+msgstr "每一库存调拨都生成会计分录"
 
 #. module: stock
 #: code:addons/stock/product.py:449
@@ -2379,7 +2379,7 @@ msgstr ""
 #. module: stock
 #: view:stock.config.settings:0
 msgid "Accounting"
-msgstr ""
+msgstr "会计"
 
 #. module: stock
 #: model:ir.ui.menu,name:stock.menu_warehouse_config
@@ -3441,7 +3441,7 @@ msgstr "通道(X)"
 #. module: stock
 #: field:stock.config.settings,group_stock_packaging:0
 msgid "Allow to define several packaging methods on products"
-msgstr ""
+msgstr "允许给产品定义多种包装方式"
 
 #. module: stock
 #: model:stock.location,name:stock.stock_location_7
@@ -4370,7 +4370,7 @@ msgstr "请指定至少一个非零数字。"
 #. module: stock
 #: field:stock.fill.inventory,set_stock_zero:0
 msgid "Set to zero"
-msgstr "设为0."
+msgstr "设置为 0"
 
 #. module: stock
 #: model:res.groups,name:stock.group_stock_user
@@ -4380,7 +4380,7 @@ msgstr "用户"
 #. module: stock
 #: field:stock.config.settings,module_stock_location:0
 msgid "Create push/pull logistic rules"
-msgstr "创建 推／拉 逻辑规则"
+msgstr "创建 推/拉 逻辑规则"
 
 #. module: stock
 #: code:addons/stock/wizard/stock_invoice_onshipping.py:98
@@ -4408,7 +4408,7 @@ msgstr "连锁公司"
 #. module: stock
 #: view:stock.picking.out:0
 msgid "Check Availability"
-msgstr "检查可用"
+msgstr "检查可用性"
 
 #. module: stock
 #: selection:report.stock.inventory,month:0

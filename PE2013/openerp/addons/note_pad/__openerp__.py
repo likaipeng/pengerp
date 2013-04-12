@@ -30,7 +30,7 @@ This module update memos inside PengERP for using an external pad
 Use for update your text memo in real time with the following user that you invite.
 
 """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'website': 'http://pengerp.com',
     'summary': 'Sticky memos, Collaborative',
     'depends': [

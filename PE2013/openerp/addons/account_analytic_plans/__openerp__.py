@@ -63,7 +63,7 @@ So when this line of invoice will be confirmed, it will generate 3 analytic line
 
 The analytic plan validates the minimum and maximum percentage at the time of creation of distribution models.
         """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'website': 'http://www.pengerp.com',
     'images': ['images/analytic_plan.jpeg'],
     'depends': ['account', 'account_analytic_default'],

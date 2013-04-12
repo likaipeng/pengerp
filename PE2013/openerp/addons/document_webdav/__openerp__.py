@@ -31,7 +31,7 @@
 {
     'name': 'Shared Repositories (WebDAV)',
     'version': '2.3',
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'category': 'Knowledge Management',
     'website': 'http://www.pengerp.com',
     'description': """

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <document filename="Taxes.pdf">
-   <template title="Taxes" author="PengERP S.A.(sales@pengerp.com)" allowSplitting="20">
+   <template title="Taxes" author="LKP(sales@pengerp.com)" allowSplitting="20">
     <pageTemplate id="first">
       <frame id="first" x1="42.0" y1="62.0" width="511" height="728"/>
     </pageTemplate>

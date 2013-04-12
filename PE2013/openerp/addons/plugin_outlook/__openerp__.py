@@ -23,7 +23,7 @@
 {
     'name' : 'Outlook Plug-In',
     'version' : '1.0',
-    'author' : 'PengERP SA',
+    'author' : 'LKP',
     'website' : 'http://www.pengerp.com/',
     'depends' : ['base', 'mail','plugin'],
     'category' : 'Customer Relationship Management',

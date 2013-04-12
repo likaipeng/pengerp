@@ -76,8 +76,8 @@
 			<description><html:a href="&tinyerp.value;">&tinyerp.value;</html:a></description>
 			<description> </description>
 			<description> </description>
-			<description>Copyright © 2006-TODAY PengERP SA All Rights Reserved.</description>
-			<description>PengERP is a trademark of the PengERP SA Company. PengERP Web is jointly developed by PengERP SA &amp; Axelor.</description>
+			<description>Copyright © 2006-TODAY LKP All Rights Reserved.</description>
+			<description>PengERP is a trademark of the LKP Company. PengERP Web is jointly developed by LKP &amp; Axelor.</description>
 			<description>Licenced under the terms of <html:a href="https://tiny.odoo.com/LICENSE.txt"> PengERP Public License (OEPL) v1.1 (https://tiny.odoo.com/LICENSE.txt)</html:a> </description>
 		</groupbox>
     </tabpanel>

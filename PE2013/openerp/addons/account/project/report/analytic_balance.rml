@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <document filename="Analytic Balance.pdf">
-  <template title="Analytic Balance" author="PengERP S.A.(sales@pengerp.com)" allowSplitting="20">
+  <template title="Analytic Balance" author="LKP(sales@pengerp.com)" allowSplitting="20">
     <pageTemplate id="first">
       <frame id="first" x1="31.0" y1="30.0" width="531" height="779"/>
     </pageTemplate>

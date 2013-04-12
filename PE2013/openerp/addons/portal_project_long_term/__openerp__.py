@@ -2,7 +2,7 @@
 ##############################################################################
 #
 #    PengERP, Open Source Management Solution
-#    Copyright (C) 2010-Today PengERP S.A. (<http://www.pengerp.com>).
+#    Copyright (C) 2010-Today LKP (<http://www.pengerp.com>).
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as
@@ -29,7 +29,7 @@
 This module adds necessary security rules and access rights for project long term and portal.
 =============================================================================================
     """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'depends': ['project_long_term', 'portal'],
     'data': [
         'security/portal_security.xml',

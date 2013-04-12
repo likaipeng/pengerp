@@ -37,7 +37,7 @@ The following topics should be covered by this module:
     * Repair quotation report
     * Notes for the technician and for the final customer
 """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'images': ['images/repair_order.jpeg'],
     'depends': ['mrp', 'sale', 'account'],
     'data': [

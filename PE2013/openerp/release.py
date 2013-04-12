@@ -2,7 +2,7 @@
 ##############################################################################
 #
 #    PengERP, Open Source Management Solution
-#    Copyright (C) 2004-TODAY PengERP S.A. <http://www.pengerp.com>
+#    Copyright (C) 2004-TODAY LKP <http://www.pengerp.com>
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as
@@ -46,7 +46,7 @@ License :: OSI Approved :: GNU Affero General Public License v3
 Programming Language :: Python
 """
 url = 'http://www.pengerp.com'
-author = 'PengERP S.A.'
+author = 'LKP'
 author_email = 'info@pengerp.com'
 license = 'AGPL-3'
 

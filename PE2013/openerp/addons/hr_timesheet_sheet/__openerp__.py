@@ -43,7 +43,7 @@ The validation can be configured in the company:
 * Period size (Day, Week, Month)
 * Maximal difference between timesheet and attendances
     """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'website': 'http://www.pengerp.com',
     'images': ['images/hr_my_current_timesheet.jpeg','images/hr_timesheet_analysis.jpeg','images/hr_timesheet_sheet_analysis.jpeg','images/hr_timesheet_activity.jpeg'],
     'depends': ['hr_timesheet', 'hr_timesheet_invoice', 'process'],

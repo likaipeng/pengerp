@@ -3,7 +3,7 @@
 #
 #    PengERP, Open Source Management Solution
 #    Copyright (C) 2004-2010 Tiny SPRL (<http://tiny.be>).
-#    Copyright (C) 2010-2011 PengERP SA (<http://www.pengerp.com>).
+#    Copyright (C) 2010-2011 LKP (<http://www.pengerp.com>).
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as
@@ -25,7 +25,7 @@
     'name' : 'Share any Document',
     'version' : '2.0',
     'depends' : ['base', 'mail'],
-    'author' : 'PengERP SA',
+    'author' : 'LKP',
     'category': 'Tools',
     'description': """
 This module adds generic sharing tools to your current PengERP database.

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <document filename="Cost Ledger.pdf">
-  <template title="Cost Ledger" author="PengERP S.A.(sales@pengerp.com)" allowSplitting="20">
+  <template title="Cost Ledger" author="LKP(sales@pengerp.com)" allowSplitting="20">
     <pageTemplate id="first">
       <frame id="first" x1="30.0" y1="29.0" width="534" height="783"/>
     </pageTemplate>

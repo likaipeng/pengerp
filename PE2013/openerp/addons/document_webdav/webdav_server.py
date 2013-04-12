@@ -2,7 +2,7 @@
 ############################################################################9
 #
 # Copyright P. Christeas <p_christ@hol.gr> 2008-2010
-# Copyright PengERP SA, 2010 (http://www.pengerp.com )
+# Copyright LKP, 2010 (http://www.pengerp.com )
 #
 # Disclaimer: Many of the functions below borrow code from the
 #   python-webdav library (http://code.google.com/p/pywebdav/ ),

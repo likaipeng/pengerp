@@ -33,7 +33,7 @@ This application allows you to track your customers/suppliers claims and grievan
 It is fully integrated with the email gateway so that you can create
 automatically new claims based on incoming emails.
     """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'website': 'http://www.pengerp.com',
     'depends': ['crm'],
     'data': [

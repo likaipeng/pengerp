@@ -23,7 +23,7 @@
     'version' : '1.0',
     'depends' : ['base'],
     'images' : ['images/ldap_configuration.jpeg'],
-    'author' : 'PengERP SA',
+    'author' : 'LKP',
     'description': """
 Adds support for authentication by LDAP server.
 ===============================================

@@ -23,7 +23,7 @@
 {
     'name' : 'Procurements',
     'version' : '1.0',
-    'author' : 'PengERP SA',
+    'author' : 'LKP',
     'website' : 'http://www.pengerp.com',
     'category' : 'Hidden/Dependency',
     'depends' : ['base','process', 'product', 'stock'],

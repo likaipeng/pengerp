@@ -35,7 +35,7 @@ It supports:
 
 If you need to manage your meetings, you should install the CRM module.
     """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'category': 'Hidden/Dependency',
     'website': 'http://www.pengerp.com',
     'demo': ['crm_meeting_demo.xml'],

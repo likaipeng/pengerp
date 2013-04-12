@@ -32,7 +32,7 @@ Module to generate invoices based on costs (human resources, expenses, ...).
 
 You can define price lists in analytic account, make some theoretical revenue
 reports.""",
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'website': 'http://www.pengerp.com',
     'images': ['images/hr_bill_task_work.jpeg','images/hr_type_of_invoicing.jpeg'],
     'depends': ['account', 'hr_timesheet'],

@@ -24,7 +24,7 @@
     'name' : 'Email Gateway',
     'version' : '1.0',
     'depends' : ['mail'],
-    'author' : 'PengERP SA',
+    'author' : 'LKP',
     'category': 'Tools',
     'description': """
 Retrieve incoming email on POP/IMAP servers.

@@ -34,7 +34,7 @@ You can add the following additional dates to a sales order:
     * Commitment Date
     * Effective Date
 """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'website': 'http://www.pengerp.com',
     'images': ['images/sale_order_dates.jpeg'],
     'depends': ['sale_stock'],

@@ -318,8 +318,8 @@ msgstr "버튼 유형:"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:422
 #, python-format
-msgid "PengERP SA Company"
-msgstr "PengERP SA Company"
+msgid "LKP Company"
+msgstr "LKP Company"
 
 #. module: web
 #. openerp-web
@@ -1748,8 +1748,8 @@ msgstr "내보내기 목록을 저장할 필드를 선택하세요..."
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:421
 #, python-format
-msgid "Copyright © 2004-TODAY PengERP SA. All Rights Reserved."
-msgstr "Copyright © 2004-TODAY PengERP SA. 모든 권리 보유."
+msgid "Copyright © 2004-TODAY LKP. All Rights Reserved."
+msgstr "Copyright © 2004-TODAY LKP. 모든 권리 보유."
 
 #. module: web
 #. openerp-web

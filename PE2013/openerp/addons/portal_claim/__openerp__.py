@@ -29,7 +29,7 @@
 This module adds claim menu and features to your portal if claim and portal are installed.
 ==========================================================================================
     """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'depends': ['crm_claim','portal'],
     'data': [
         'portal_claim_view.xml',

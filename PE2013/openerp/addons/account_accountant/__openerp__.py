@@ -21,7 +21,7 @@
 {
     'name' : 'Accounting and Finance',
     'version' : '1.1',
-    'author' : 'PengERP SA',
+    'author' : 'LKP',
     'category': 'Accounting & Finance',
     'sequence': 10,
     'summary': 'Financial and Analytic Accounting',

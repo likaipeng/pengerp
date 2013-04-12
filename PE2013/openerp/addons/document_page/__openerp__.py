@@ -28,7 +28,7 @@ Pages
 =====
 Web pages
     """,
-    'author': ['PengERP SA'],
+    'author': ['LKP'],
     'website': 'http://www.pengerp.com/',
     'depends': ['knowledge'],
     'data': [

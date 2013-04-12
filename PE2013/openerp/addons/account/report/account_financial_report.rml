@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <document filename="Financial Report.pdf">
-  <template title="Financial Report" author="PengERP S.A. (sales@pengerp.com)" allowSplitting="20">
+  <template title="Financial Report" author="LKP (sales@pengerp.com)" allowSplitting="20">
     <pageTemplate id="first">
       <frame id="first" x1="28.0" y1="28.0" width="539" height="786"/>
     </pageTemplate>

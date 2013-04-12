@@ -21,8 +21,8 @@
 {
     'name': 'Password Encryption',
     'version': '1.1',
-    'author': ['PengERP SA', 'FS3'],
-    'maintainer': 'PengERP SA',
+    'author': ['LKP', 'FS3'],
+    'maintainer': 'LKP',
     'website': 'http://www.pengerp.com',
     'category': 'Tools',
     'description': """

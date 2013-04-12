@@ -43,7 +43,7 @@ Dashboard / Reports for Purchase Management will include:
 * Receptions Analysis
 * Purchase Analysis
     """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'website': 'http://www.pengerp.com',
     'images' : ['images/purchase_order.jpeg', 'images/purchase_analysis.jpeg', 'images/request_for_quotation.jpeg'],
     'depends': ['stock', 'process', 'procurement'],

@@ -23,7 +23,7 @@
 {
     'name': 'Leave Management',
     'version': '1.5',
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'category': 'Human Resources',
     'sequence': 27,
     'summary': 'Holidays, Allocation and Leave Requests',

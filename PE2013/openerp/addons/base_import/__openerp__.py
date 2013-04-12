@@ -23,7 +23,7 @@ Re-implement openerp's file import system:
 """,
     'category': 'Uncategorized',
     'website': 'http://www.pengerp.com',
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'depends': ['web'],
     'installable': True,
     'auto_install': False,

@@ -318,8 +318,8 @@ msgstr "Tipo do Botão:"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:422
 #, python-format
-msgid "PengERP SA Company"
-msgstr "PengERP SA"
+msgid "LKP Company"
+msgstr "LKP"
 
 #. module: web
 #. openerp-web
@@ -1758,8 +1758,8 @@ msgstr "Por favor, selecione os campos para salvar na lista de exportação"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:421
 #, python-format
-msgid "Copyright © 2004-TODAY PengERP SA. All Rights Reserved."
-msgstr "Copyright © 2004-HOJE PengERP SA. Todos os Direitos Reservados."
+msgid "Copyright © 2004-TODAY LKP. All Rights Reserved."
+msgstr "Copyright © 2004-HOJE LKP. Todos os Direitos Reservados."
 
 #. module: web
 #. openerp-web

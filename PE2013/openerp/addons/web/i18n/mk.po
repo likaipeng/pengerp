@@ -320,8 +320,8 @@ msgstr "Тип на копче:"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:422
 #, python-format
-msgid "PengERP SA Company"
-msgstr "PengERP SA Company"
+msgid "LKP Company"
+msgstr "LKP Company"
 
 #. module: web
 #. openerp-web
@@ -1762,8 +1762,8 @@ msgstr "Por favor, selecione os campos para salvar na lista de exportação"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:421
 #, python-format
-msgid "Copyright © 2004-TODAY PengERP SA. All Rights Reserved."
-msgstr "Авторски права на © 2004-TODAY PengERP SA. Сите права се задржани."
+msgid "Copyright © 2004-TODAY LKP. All Rights Reserved."
+msgstr "Авторски права на © 2004-TODAY LKP. Сите права се задржани."
 
 #. module: web
 #. openerp-web

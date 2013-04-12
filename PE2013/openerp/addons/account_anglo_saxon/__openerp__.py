@@ -21,7 +21,7 @@
 {
     'name': 'Anglo-Saxon Accounting',
     'version': '1.2',
-    'author': 'PengERP SA, Veritos',
+    'author': 'LKP, Veritos',
     'website': 'http://pengerp.com - http://veritos.nl',
     'description': """
 This module supports the Anglo-Saxon accounting methodology by changing the accounting logic with stock transactions.

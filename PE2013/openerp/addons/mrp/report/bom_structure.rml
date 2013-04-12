@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <document filename="BOM Structure.pdf">
-  <template title="BOM Structure" author="PengERP S.A.(sales@pengerp.com)" allowSplitting="20">
+  <template title="BOM Structure" author="LKP(sales@pengerp.com)" allowSplitting="20">
     <pageTemplate id="first">
       <frame id="first" x1="31.0" y1="30.0" width="532" height="781"/>
     </pageTemplate>

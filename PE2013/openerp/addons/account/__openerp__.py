@@ -21,7 +21,7 @@
 {
     'name' : 'eInvoicing',
     'version' : '1.1',
-    'author' : 'PengERP SA',
+    'author' : 'LKP',
     'category' : 'Accounting & Finance',
     'description' : """
 Accounting and Financial Management.

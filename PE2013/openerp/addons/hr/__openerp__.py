@@ -22,7 +22,7 @@
 {
     'name': 'Employee Directory',
     'version': '1.1',
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'category': 'Human Resources',
     'sequence': 21,
     'website': 'http://www.pengerp.com',
@@ -40,7 +40,7 @@ You can manage:
 * HR Departments
 * HR Jobs
     """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'website': 'http://www.pengerp.com',
     'images': [
         'images/hr_department.jpeg',

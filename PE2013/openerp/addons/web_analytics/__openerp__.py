@@ -29,7 +29,7 @@ Google Analytics.
 
 Collects web application usage with Google Analytics.
     """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'website': 'http://pengerp.com',
     'depends': ['web'],
     'data': [],

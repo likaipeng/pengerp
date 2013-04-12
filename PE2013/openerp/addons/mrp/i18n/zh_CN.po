@@ -2375,7 +2375,7 @@ msgstr "生产订单"
 #. module: mrp
 #: field:mrp.config.settings,group_mrp_properties:0
 msgid "Allow several bill of materials per products using properties"
-msgstr "使用属性，每个产品允许几个bom"
+msgstr "使用属性，每个产品允许多个物料清单(BOM)"
 
 #. module: mrp
 #: model:ir.actions.act_window,name:mrp.mrp_property_group_action

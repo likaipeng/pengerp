@@ -22,7 +22,7 @@
 {
     'name' : 'Resource',
     'version' : '1.1',
-    'author' : 'PengERP SA',
+    'author' : 'LKP',
     'category' : 'Hidden/Dependency',
     'website' : 'http://www.pengerp.com',
     'description': """
@@ -33,7 +33,7 @@ A resource represent something that can be scheduled (a developer on a task or a
 work center on manufacturing orders). This module manages a resource calendar
 associated to every resource. It also manages the leaves of every resource.
     """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'website': 'http://www.pengerp.com',
     'depends': ['process'],
     'data': [

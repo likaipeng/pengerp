@@ -2,7 +2,7 @@
 ##############################################################################
 #
 #    PengERP, Open Source Business Applications
-#    Copyright (c) 2011 PengERP S.A. <http://pengerp.com>
+#    Copyright (c) 2011 LKP <http://pengerp.com>
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as
@@ -32,7 +32,7 @@ different systems, and provides generic mechanisms to import and export them.
 More details about PengERP's EDI format may be found in the technical PengERP 
 documentation at http://doc.pengerp.com.
     """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'website': 'http://www.pengerp.com',
     'depends': ['base', 'email_template'],
     'icon': '/edi/static/src/img/knowledge.png',

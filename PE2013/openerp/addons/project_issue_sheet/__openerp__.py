@@ -30,7 +30,7 @@ This module adds the Timesheet support for the Issues/Bugs Management in Project
 
 Worklogs can be maintained to signify number of hours spent by users to handle an issue.
                 """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'website': 'http://www.pengerp.com',
     'images': ['images/project_issue_sheet_worklog.jpeg'],
     'depends': [

@@ -51,7 +51,7 @@ Wizards provided by this module:
         **Path to access :** Invoicing/Reporting/Legal Reports/Belgium Statements/Annual Listing Of VAT-Subjected Customers
 
     """,
-    'author': 'Noviat & PengERP SA',
+    'author': 'Noviat & LKP',
     'depends': [
         'account',
         'base_vat',

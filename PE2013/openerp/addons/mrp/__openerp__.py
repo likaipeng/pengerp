@@ -23,7 +23,7 @@
 {
     'name': 'MRP',
     'version': '1.1',
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'website': 'http://www.pengerp.com',
     'category': 'Manufacturing',
     'sequence': 18,

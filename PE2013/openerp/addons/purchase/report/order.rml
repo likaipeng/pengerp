@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <document filename="Purchase Order.pdf">
-  <template title="Purchase Order" author="PengERP S.A.(sales@pengerp.com)" allowSplitting="20">
+  <template title="Purchase Order" author="LKP(sales@pengerp.com)" allowSplitting="20">
     <pageTemplate id="first">
       <frame id="first" x1="18.0" y1="42.0" width="535" height="758"/>
     </pageTemplate>

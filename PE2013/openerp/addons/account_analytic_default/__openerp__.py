@@ -35,7 +35,7 @@ Allows to automatically select analytic accounts based on criterions:
     * Company
     * Date
     """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'website': 'http://www.pengerp.com',
     'images': ['images/analytic_defaults.jpeg'],
     'depends': ['sale_stock'],

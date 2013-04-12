@@ -20,7 +20,7 @@
 {
     'name': 'Purchase Requisitions',
     'version': '0.1',
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'category': 'Purchase Management',
     'images': ['images/purchase_requisitions.jpeg'],
     'website': 'http://www.pengerp.com',

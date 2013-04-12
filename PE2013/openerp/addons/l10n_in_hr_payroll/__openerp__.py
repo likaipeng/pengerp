@@ -22,7 +22,7 @@
     'name': 'Indian Payroll',
     'category': 'Localization',
     'init_xml': [],
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'website':'http://www.pengerp.com',
     'depends': ['hr_payroll'],
     'version': '1.0',

@@ -31,7 +31,7 @@ This module is used along with PengERP OpenOffice Plugin.
 This module adds wizards to Import/Export .sxw report that you can modify in OpenOffice. 
 Once you have modified it you can upload the report using the same wizard.
 """,
-    'author': 'PengERP SA',
+    'author': 'LKP',
     'website': 'http://www.pengerp.com',
     'depends': ['base'],
     'data': ['wizard/base_report_design_view.xml' , 'base_report_designer_installer.xml'],
