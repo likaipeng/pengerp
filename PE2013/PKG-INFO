@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: openerp
+Version: 7.0-20130402-231639
+Summary: PengERP Server
+Home-page: http://www.pengerp.com
+Author: PengERP S.A.
+Author-email: info@pengerp.com
+License: AGPL-3
+Description: PengERP is a complete ERP and CRM. The main features are accounting (analytic
+        and financial), stock management, sales and purchases management, tasks
+        automation, marketing campaigns, help desk, POS, etc. Technical features include
+        a distributed server, flexible workflows, an object database, a dynamic GUI,
+        customizable reports, and XML-RPC interfaces.
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3
+Classifier: Programming Language :: Python

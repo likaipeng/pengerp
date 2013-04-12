@@ -1,0 +1,29 @@
+# Translation of PengERP Server.
+# This file contains the translation of the following modules:
+#	* contacts
+#
+#. module: contacts
+#: model:ir.actions.act_window,help:contacts.action_contacts
+msgid ""
+"<p class=\"oe_view_nocontent_create\">\n"
+"            Click to add a contact in your address book.\n"
+"          </p><p>\n"
+"            PengERP helps you easily track all activities related to\n"
+"            a customer; discussions, history of business opportunities,\n"
+"            documents, etc.\n"
+"          </p>\n"
+"        "
+msgstr ""
+"<p class=\"oe_view_nocontent_create\">\n"
+"            单击以在你的地址簿中添加一个联系人。\n"
+"          </p><p>\n"
+"            PengERP 更便捷地帮助你跟踪所有客户相关的活动，讨论，商机日志，单据等等。\n"
+"          </p>\n"
+"        "
+
+#. module: contacts
+#: model:ir.actions.act_window,name:contacts.action_contacts
+#: model:ir.ui.menu,name:contacts.menu_contacts
+msgid "Contacts"
+msgstr "联系人列表"
+
