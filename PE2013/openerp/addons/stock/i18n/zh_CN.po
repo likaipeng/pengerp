@@ -1878,7 +1878,7 @@ msgstr "取消可用"
 #: code:addons/stock/wizard/stock_location_product.py:49
 #, python-format
 msgid "Current Inventory"
-msgstr ""
+msgstr "当前库存"
 
 #. module: stock
 #: help:product.template,property_stock_production:0
@@ -2339,7 +2339,7 @@ msgstr "供货商库位"
 #. module: stock
 #: view:stock.location.product:0
 msgid "View Products Inventory"
-msgstr ""
+msgstr "查看产品库存"
 
 #. module: stock
 #: view:stock.move:0

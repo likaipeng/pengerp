@@ -759,7 +759,7 @@ msgstr "应收款科目"
 #. module: account
 #: view:account.config.settings:0
 msgid "Configure your company bank accounts"
-msgstr "配置你公司银行账户"
+msgstr "配置您公司银行账户"
 
 #. module: account
 #: view:account.invoice.refund:0
@@ -1502,7 +1502,7 @@ msgstr "报表选项"
 #. module: account
 #: field:account.fiscalyear.close.state,fy_id:0
 msgid "Fiscal Year to Close"
-msgstr "财政年度结束"
+msgstr "要关闭的会计年度"
 
 #. module: account
 #: field:account.config.settings,sale_sequence_prefix:0
@@ -1539,7 +1539,7 @@ msgstr "发票状态"
 #: model:ir.actions.act_window,name:account.action_account_open_closed_fiscalyear
 #: model:ir.ui.menu,name:account.menu_wizard_account_open_closed_fiscalyear
 msgid "Cancel Closing Entries"
-msgstr "取消关闭的分录"
+msgstr "取消结帐分录"
 
 #. module: account
 #: view:account.bank.statement:0
@@ -2112,7 +2112,7 @@ msgstr "Email撰写向导"
 #. module: account
 #: model:ir.model,name:account.model_account_period_close
 msgid "period close"
-msgstr "关闭一个会计期间"
+msgstr "关闭会计期间"
 
 #. module: account
 #: code:addons/account/account.py:1049
@@ -2239,7 +2239,7 @@ msgstr "过期的试算表"
 #. module: account
 #: view:account.fiscalyear.close.state:0
 msgid "Close Fiscal Year"
-msgstr "关闭财政年度"
+msgstr "关闭会计年度"
 
 #. module: account
 #. openerp-web
@@ -3822,7 +3822,7 @@ msgstr "转移"
 #. module: account
 #: field:account.config.settings,expects_chart_of_accounts:0
 msgid "This company has its own chart of accounts"
-msgstr ""
+msgstr "公司有自己的会计科目表"
 
 #. module: account
 #: view:account.chart:0
@@ -4258,7 +4258,7 @@ msgstr "伙伴 ID"
 #: help:account.bank.statement,message_ids:0
 #: help:account.invoice,message_ids:0
 msgid "Messages and communication history"
-msgstr ""
+msgstr "消息和通信记录"
 
 #. module: account
 #: help:account.journal,analytic_journal_id:0
@@ -4387,7 +4387,7 @@ msgstr "资产"
 #. module: account
 #: view:account.config.settings:0
 msgid "Accounting & Finance"
-msgstr ""
+msgstr "会计与财务"
 
 #. module: account
 #: view:account.invoice.confirm:0
@@ -4414,7 +4414,7 @@ msgstr "(如果你想打开它发票要反核销)"
 #. module: account
 #: field:account.tax,account_analytic_collected_id:0
 msgid "Invoice Tax Analytic Account"
-msgstr ""
+msgstr "发票税辅助核算科目"
 
 #. module: account
 #: field:account.chart,period_from:0
@@ -4631,7 +4631,7 @@ msgstr "科目类型"
 #. module: account
 #: selection:account.journal,type:0
 msgid "Bank and Checks"
-msgstr "银行和支票"
+msgstr "银行与支票"
 
 #. module: account
 #: field:account.account.template,note:0
@@ -4916,7 +4916,7 @@ msgstr "定期模型"
 #. module: account
 #: view:account.tax:0
 msgid "Children/Sub Taxes"
-msgstr ""
+msgstr "子税"
 
 #. module: account
 #: xsl:account.transfer:0
@@ -5220,7 +5220,7 @@ msgstr "计算"
 #. module: account
 #: view:account.invoice:0
 msgid "Additional notes..."
-msgstr ""
+msgstr "其它事项..."
 
 #. module: account
 #: field:account.tax,type_tax_use:0
@@ -5234,6 +5234,8 @@ msgid ""
 "Please verify the price of the invoice !\n"
 "The encoded total does not match the computed total."
 msgstr ""
+"请核对发票的价格！\n"
+"计算出的总额与输入的总额不匹配。"
 
 #. module: account
 #: field:account.account,active:0
@@ -5249,7 +5251,7 @@ msgstr "启用"
 #: view:account.bank.statement:0
 #: field:account.journal,cash_control:0
 msgid "Cash Control"
-msgstr ""
+msgstr "现金管理"
 
 #. module: account
 #: field:account.analytic.balance,date2:0
@@ -5477,7 +5479,7 @@ msgstr "年"
 #. module: account
 #: help:account.invoice,sent:0
 msgid "It indicates that the invoice has been sent."
-msgstr ""
+msgstr "说明发票已经被发送。"
 
 #. module: account
 #: field:account.tax.template,description:0
@@ -5496,7 +5498,7 @@ msgstr ""
 #. module: account
 #: view:account.invoice:0
 msgid "Pro Forma Invoice "
-msgstr ""
+msgstr "形式发票"
 
 #. module: account
 #: selection:account.subscription,period_type:0
@@ -5682,13 +5684,13 @@ msgstr "account.installer"
 #. module: account
 #: view:account.invoice:0
 msgid "Recompute taxes and total"
-msgstr ""
+msgstr "重计税额和金额"
 
 #. module: account
 #: code:addons/account/account.py:1103
 #, python-format
 msgid "You cannot modify/delete a journal with entries for this period."
-msgstr ""
+msgstr "您不能修改或者删除该会计期间的分类账"
 
 #. module: account
 #: field:account.tax.template,include_base_amount:0
@@ -5716,7 +5718,7 @@ msgstr "计算金额"
 #: code:addons/account/account_move_line.py:1108
 #, python-format
 msgid "You can not add/modify entries in a closed period %s of journal %s."
-msgstr ""
+msgstr "不能添加或者修改一个关闭的会计期间（%s）中的科目（来自账簿%s)。"
 
 #. module: account
 #: view:account.journal:0
@@ -6062,7 +6064,7 @@ msgstr "明细"
 #: model:ir.actions.act_window,name:account.action_account_fiscalyear_close
 #: model:ir.ui.menu,name:account.menu_wizard_fy_close
 msgid "Generate Opening Entries"
-msgstr "产生开启分录"
+msgstr "生成开账分录"
 
 #. module: account
 #: help:account.tax,type:0
@@ -6169,7 +6171,7 @@ msgstr "财务结构"
 #. module: account
 #: view:account.config.settings:0
 msgid "Select Company"
-msgstr ""
+msgstr "选择公司"
 
 #. module: account
 #: model:ir.actions.act_window,name:account.action_account_state_open
@@ -6238,7 +6240,7 @@ msgstr "# 明细"
 #. module: account
 #: view:account.invoice:0
 msgid "(update)"
-msgstr ""
+msgstr "(更新)"
 
 #. module: account
 #: field:account.aged.trial.balance,filter:0
@@ -6546,12 +6548,12 @@ msgstr "平行显示下级科目"
 #. module: account
 #: view:account.config.settings:0
 msgid "Bank & Cash"
-msgstr ""
+msgstr "银行与现金"
 
 #. module: account
 #: help:account.fiscalyear.close.state,fy_id:0
 msgid "Select a fiscal year to close"
-msgstr "关闭一个会计年度"
+msgstr "关闭会计年度"
 
 #. module: account
 #: help:account.chart.template,tax_template_ids:0
@@ -6688,7 +6690,7 @@ msgstr "百分比"
 #. module: account
 #: selection:account.config.settings,tax_calculation_rounding_method:0
 msgid "Round globally"
-msgstr ""
+msgstr "整体舍入"
 
 #. module: account
 #: selection:account.report.general.ledger,sortby:0
@@ -7095,7 +7097,7 @@ msgstr "创建分录"
 #. module: account
 #: view:account.open.closed.fiscalyear:0
 msgid "Cancel Fiscal Year Closing Entries"
-msgstr "取消财务年度关闭的分录"
+msgstr "取消会计年度结帐分录"
 
 #. module: account
 #: selection:account.account.type,report_type:0
@@ -7107,7 +7109,7 @@ msgstr "损益(费用账户)"
 #. module: account
 #: field:account.bank.statement,total_entry_encoding:0
 msgid "Total Transactions"
-msgstr ""
+msgstr "交易总数"
 
 #. module: account
 #: code:addons/account/account.py:636
@@ -7362,12 +7364,12 @@ msgstr ""
 #. module: account
 #: field:account.invoice,paypal_url:0
 msgid "Paypal Url"
-msgstr ""
+msgstr "Paypal 网址"
 
 #. module: account
 #: field:account.config.settings,module_account_voucher:0
 msgid "Manage customer payments"
-msgstr ""
+msgstr "管理客户付款"
 
 #. module: account
 #: help:report.invoice.created,origin:0
@@ -7659,7 +7661,7 @@ msgstr "期初余额收入科目"
 #. module: account
 #: field:account.config.settings,group_proforma_invoices:0
 msgid "Allow pro-forma invoices"
-msgstr ""
+msgstr "允许形式发票"
 
 #. module: account
 #: view:account.bank.statement:0
@@ -7727,7 +7729,7 @@ msgstr "账簿"
 #. module: account
 #: field:account.config.settings,tax_calculation_rounding_method:0
 msgid "Tax calculation rounding method"
-msgstr ""
+msgstr "计税舍入方法"
 
 #. module: account
 #: model:process.node,name:account.process_node_paidinvoice0
@@ -8041,7 +8043,7 @@ msgstr "登账"
 #: code:addons/account/account_invoice.py:353
 #, python-format
 msgid "Customer"
-msgstr "客户"
+msgstr "客户名称"
 
 #. module: account
 #: field:account.financial.report,name:0
@@ -8088,7 +8090,7 @@ msgstr "序列"
 #. module: account
 #: field:account.config.settings,paypal_account:0
 msgid "Paypal account"
-msgstr ""
+msgstr "Paypal 账户"
 
 #. module: account
 #: selection:account.print.journal,sort_selection:0
@@ -8234,12 +8236,12 @@ msgstr "警告 !"
 #: help:account.bank.statement,message_unread:0
 #: help:account.invoice,message_unread:0
 msgid "If checked new messages require your attention."
-msgstr ""
+msgstr "如果选中则新消息就需要您关注。"
 
 #. module: account
 #: field:res.company,tax_calculation_rounding_method:0
 msgid "Tax Calculation Rounding Method"
-msgstr ""
+msgstr "计税舍入方法"
 
 #. module: account
 #: field:account.entries.report,move_line_state:0
@@ -8577,7 +8579,7 @@ msgstr "税/不含税金额"
 msgid ""
 "This wizard will remove the end of year journal entries of selected fiscal "
 "year. Note that you can run this wizard many times for the same fiscal year."
-msgstr ""
+msgstr "该向导将删除被选中的会计年度的分录的结束年份。您可以为同一会计年度多次运行该向导。"
 
 #. module: account
 #: report:account.invoice:0
@@ -8606,7 +8608,7 @@ msgstr "公司本位币"
 #: field:account.vat.declaration,chart_account_id:0
 #: field:accounting.report,chart_account_id:0
 msgid "Chart of Account"
-msgstr "科目一览表"
+msgstr "会计科目表"
 
 #. module: account
 #: model:process.node,name:account.process_node_paymententries0
@@ -9182,7 +9184,7 @@ msgstr "发票草稿待检查，生效和打印。"
 #: field:account.bank.statement,message_is_follower:0
 #: field:account.invoice,message_is_follower:0
 msgid "Is a Follower"
-msgstr ""
+msgstr "是否关注者"
 
 #. module: account
 #: view:account.move:0
@@ -9476,7 +9478,7 @@ msgstr "应收款科目"
 #. module: account
 #: field:account.config.settings,purchase_refund_sequence_prefix:0
 msgid "Supplier credit note sequence"
-msgstr ""
+msgstr "供应商贷记通知单序列"
 
 #. module: account
 #: code:addons/account/wizard/account_state_open.py:37
@@ -9665,7 +9667,7 @@ msgstr "根据现在选定的模板创建一个科目"
 #. module: account
 #: report:account.invoice:0
 msgid "Source"
-msgstr ""
+msgstr "源单据"
 
 #. module: account
 #: selection:account.model.line,date_maturity:0
@@ -10359,7 +10361,7 @@ msgstr ""
 #. module: account
 #: field:account.tax,account_analytic_paid_id:0
 msgid "Refund Tax Analytic Account"
-msgstr ""
+msgstr "退税辅助核算科目"
 
 #. module: account
 #: view:account.move.bank.reconcile:0
@@ -11039,7 +11041,7 @@ msgstr "这个标签将放在报表上用来显示根据比较过滤条件计算
 #. module: account
 #: selection:account.config.settings,tax_calculation_rounding_method:0
 msgid "Round per line"
-msgstr ""
+msgstr "按明细舍入"
 
 #. module: account
 #: help:account.move.line,amount_residual_currency:0

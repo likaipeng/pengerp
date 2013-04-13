@@ -28,8 +28,8 @@
 Allow users to login through OpenID.
 ====================================
 """,
-    'author': 'PengERP s.a.',
-    'maintainer': 'PengERP s.a.',
+    'author': 'LKP',
+    'maintainer': 'LKP',
     'website': 'http://www.pengerp.com',
     'depends': ['base', 'web'],
     'data': ['res_users.xml'],

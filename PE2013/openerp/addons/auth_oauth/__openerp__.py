@@ -28,8 +28,8 @@
 Allow users to login through OAuth2 Provider.
 =============================================
 """,
-    'author': 'PengERP s.a.',
-    'maintainer': 'PengERP s.a.',
+    'author': 'LKP',
+    'maintainer': 'LKP',
     'website': 'http://www.pengerp.com',
     'depends': ['base', 'web', 'base_setup'],
     'data': [
