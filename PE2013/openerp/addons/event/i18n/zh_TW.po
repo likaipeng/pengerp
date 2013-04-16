@@ -752,7 +752,7 @@ msgstr ""
 msgid ""
 "Warning: This Event has not reached its Minimum Registration Limit. Are you "
 "sure you want to confirm it?"
-msgstr "警告：這事件沒有達到最低登記記錄的規定，你肯定要確認它？"
+msgstr "警告：這事件沒有達到最低登記記錄的規定，您肯定要確認它？"
 
 #. module: event
 #: view:event.event:0

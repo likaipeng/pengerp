@@ -370,7 +370,7 @@ msgstr "警告！"
 msgid ""
 "If the active field is set to          true, it will allow you to hide the "
 "event alarm information without removing it."
-msgstr "若啟用欄位設為真，則你可以隱藏事件的警告訊息而不需將其刪除。"
+msgstr "若啟用欄位設為真，則您可以隱藏事件的警告訊息而不需將其刪除。"
 
 #. module: base_calendar
 #: field:calendar.alarm,repeat:0

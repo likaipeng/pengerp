@@ -232,7 +232,7 @@ msgstr "面试表格"
 #. module: hr_recruitment
 #: help:hr.job,survey_id:0
 msgid "Choose an interview form for this job position and you will be able to print/answer this interview from all applicants who apply for this job"
-msgstr "选择一个此岗位的面试表格，你可以把它打印出来让所有此岗位的应聘者回答这个表格的问题"
+msgstr "选择一个此岗位的面试表格，您可以把它打印出来让所有此岗位的应聘者回答这个表格的问题"
 
 #. module: hr_recruitment
 #: model:ir.ui.menu,name:hr_recruitment.menu_hr_recruitment_recruitment
@@ -751,7 +751,7 @@ msgid "<p class=\"oe_view_nocontent_create\">\n"
 msgstr "<p class=\"oe_view_nocontent_create\">\n"
 "            点击添加招聘流程片段。\n"
 "          </p><p>\n"
-"            如果你的招聘流程与工作岗位要求不符时请不要忘记指定部门。\n"
+"            如果您的招聘流程与工作岗位要求不符时请不要忘记指定部门。\n"
 "          </p>\n"
 "        "
 
@@ -829,7 +829,7 @@ msgstr "增加筛选条件"
 #. module: hr_recruitment
 #: model:ir.actions.act_window,help:hr_recruitment.hr_recruitment_stage_form_installer
 msgid "Check if the following stages are matching your recruitment process. Don't forget to specify the department if your recruitment process is different according to the job position."
-msgstr "检查以下阶段是否复核你的招聘流程。如果您每个岗位的招聘过程不同，别忘了输入部门"
+msgstr "检查以下阶段是否复核您的招聘流程。如果您每个岗位的招聘过程不同，别忘了输入部门"
 
 #. module: hr_recruitment
 #: view:hr.config.settings:0
@@ -900,10 +900,10 @@ msgid "<p class=\"oe_view_nocontent_create\">\n"
 msgstr "<p class=\"oe_view_nocontent_create\">\n"
 "                点击添加求职者信息。\n"
 "              </p><p>\n"
-"                招聘管理系统帮助你跟踪招聘流程中的求职者信息，以及其它招聘业务信息（如招聘会、面试等）。\n"
+"                招聘管理系统帮助您跟踪招聘流程中的求职者信息，以及其它招聘业务信息（如招聘会、面试等）。\n"
 "              </p><p>\n"
-"                如果你设置了邮件网关，那么当邮件发送到招聘邮箱(jobs@yourcompany.com)时，求职者信息以\n"
-"		 及他们的简历将会自动创建。如果安装了文档管理模块，则所有的简历将被自动索引，这样你就可以\n"
+"                如果您设置了邮件网关，那么当邮件发送到招聘邮箱(jobs@yourcompany.com)时，求职者信息以\n"
+"		 及他们的简历将会自动创建。如果安装了文档管理模块，则所有的简历将被自动索引，这样您就可以\n"
 "		 轻松通过索引来搜索。\n"
 "              </p>\n"
 "            "
@@ -1022,7 +1022,7 @@ msgstr "在视图中是否显示"
 msgid "Manage your CV's and motivation letter related to all applicants.\n"
 "                This installs the module document_ftp. This will install the knowledge management  module in order to allow you to search using specific keywords through  the content of all documents (PDF, .DOCx...)"
 msgstr "管理所有申请人的简历和求职信。\n"
-"                这将安装以下模块：document_ftp. 这将安装知识管理模块以允许你通过来自所有文档(PDF, .DOCx...)的特定关键词搜索"
+"                这将安装以下模块：document_ftp. 这将安装知识管理模块以允许您通过来自所有文档(PDF, .DOCx...)的特定关键词搜索"
 
 #. module: hr_recruitment
 #: selection:hr.applicant,state:0

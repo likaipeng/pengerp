@@ -83,11 +83,11 @@ msgid ""
 "invoice automatically.\n"
 "            It installs the account_analytic_analysis module."
 msgstr ""
-"允许定义你的客户合同条款：\n"
+"允许定义您的客户合同条款：\n"
 "开票方法(固定价格，根据计工单，预付款发票),\n"
 "准确价格（每天每个开发人员650欧元）\n"
 "期间（一年的支持合同）\n"
-"你能跟踪合同的进程和自动开票。\n"
+"您能跟踪合同的进程和自动开票。\n"
 "\n"
 "为此要安装模块  account_analytic_analysis module 。"
 
@@ -352,7 +352,7 @@ msgstr "Email撰写向导"
 #. module: sale
 #: help:sale.order,message_unread:0
 msgid "If checked new messages require your attention."
-msgstr "如果要求你关注新消息，勾选此项"
+msgstr "如果要求您关注新消息，勾选此项"
 
 #. module: sale
 #: selection:sale.order,state:0
@@ -477,7 +477,7 @@ msgstr "传真:"
 #, python-format
 msgid ""
 "In order to delete a confirmed sales order, you must cancel it before !"
-msgstr "要删除已经确认的订单，你必须先取消"
+msgstr "要删除已经确认的订单，您必须先取消"
 
 #. module: sale
 #: view:sale.order:0
@@ -568,7 +568,7 @@ msgstr "准备基于计工单的发票"
 #: code:addons/sale/sale.py:820
 #, python-format
 msgid "You cannot cancel a sales order line that has already been invoiced."
-msgstr "你不能取消已经开票的销售订单明细"
+msgstr "您不能取消已经开票的销售订单明细"
 
 #. module: sale
 #: view:account.invoice.report:0
@@ -644,7 +644,7 @@ msgstr "总价"
 #. module: sale
 #: help:account.config.settings,group_analytic_account_for_sales:0
 msgid "Allows you to specify an analytic account on sales orders."
-msgstr "允许你在销售订单指定一个辅助核算项"
+msgstr "允许您在销售订单指定一个辅助核算项"
 
 #. module: sale
 #: help:sale.config.settings,module_sale_journal:0
@@ -654,7 +654,7 @@ msgid ""
 "                and perform batch operations on journals.\n"
 "                This installs the module sale_journal."
 msgstr ""
-"允许你对你的销售和发运（分拣单）在不同的分类账之间进行分类, 并且在分类账上进行批量操作。\n"
+"允许您对您的销售和发运（分拣单）在不同的分类账之间进行分类, 并且在分类账上进行批量操作。\n"
 "为此要安装模块  sale_journal。"
 
 #. module: sale
@@ -782,7 +782,7 @@ msgstr ""
 #, python-format
 msgid ""
 "You cannot group sales having different currencies for the same partner."
-msgstr "你不能对有不同货币结算的同一个业务伙伴的销售订单进行分组。"
+msgstr "您不能对有不同货币结算的同一个业务伙伴的销售订单进行分组。"
 
 #. module: sale
 #: view:sale.config.settings:0
@@ -872,7 +872,7 @@ msgstr "支付"
 #: help:sale.config.settings,group_uom:0
 msgid ""
 "Allows you to select and maintain different units of measure for products."
-msgstr "允许你选择和维护产品的不同计量单位"
+msgstr "允许您选择和维护产品的不同计量单位"
 
 #. module: sale
 #: view:sale.report:0
@@ -1274,7 +1274,7 @@ msgid ""
 "Select a product of type service which is called 'Advance Product'.\n"
 "                You may have to create it and set it as a default value on "
 "this field."
-msgstr "选择一个叫做“预付款产品”的服务类型的产品，。你可以在这个字段创建并且设置默认值。"
+msgstr "选择一个叫做“预付款产品”的服务类型的产品，。您可以在这个字段创建并且设置默认值。"
 
 #. module: sale
 #: selection:sale.report,month:0
@@ -1327,12 +1327,12 @@ msgstr "查看发票"
 #. module: sale
 #: field:sale.advance.payment.inv,advance_payment_method:0
 msgid "What do you want to invoice?"
-msgstr "你要开什么发票？"
+msgstr "您要开什么发票？"
 
 #. module: sale
 #: field:sale.config.settings,group_sale_pricelist:0
 msgid "Use pricelists to adapt your price per customers"
-msgstr "为每个客户使用价格表来适配你的价格"
+msgstr "为每个客户使用价格表来适配您的价格"
 
 #. module: sale
 #: model:process.transition,note:sale.process_transition_confirmquotation0
@@ -1348,7 +1348,7 @@ msgid ""
 "You have to select a pricelist or a customer in the sales form !\n"
 "Please set one before choosing a product."
 msgstr ""
-"你必须在销售界面选一个客户或价格表！\n"
+"您必须在销售界面选一个客户或价格表！\n"
 "请在选择产品前设置。"
 
 #. module: sale
@@ -1470,7 +1470,7 @@ msgstr "销售"
 msgid ""
 "If you change the pricelist of this order (and eventually the currency), "
 "prices of existing order lines will not be updated."
-msgstr "如果你修改这订单的价格表（货币），现有订单明细的价格不会修改。"
+msgstr "如果您修改这订单的价格表（货币），现有订单明细的价格不会修改。"
 
 #. module: sale
 #: view:sale.order.line:0
@@ -1578,8 +1578,8 @@ msgid ""
 msgstr ""
 "<p>\n"
 "                这里列出的是要开具发票的每一个销售订单。\n"
-"                你可以通过选择销售订单来为那些你想开发票的销售订单开发票。\n"
-"                如果你是从发货单生成发票或者你整体开具销售发票，那么就不需要这里列出的销售订单。\n"
+"                您可以通过选择销售订单来为那些您想开发票的销售订单开发票。\n"
+"                如果您是从发货单生成发票或者您整体开具销售发票，那么就不需要这里列出的销售订单。\n"
 "              </p>\n"
 "            "
 
@@ -1620,7 +1620,7 @@ msgid ""
 "You have to change either the product, the quantity or the pricelist."
 msgstr ""
 "找不到匹配这个产品和数量的价格表。\n"
-"你必须修改 产品、数量，或者价格表"
+"您必须修改 产品、数量，或者价格表"
 
 #. module: sale
 #: code:addons/sale/sale.py:185
@@ -1835,8 +1835,8 @@ msgid ""
 "having invoiced yet. If you want to analyse your turnover, you should use "
 "the Invoice Analysis report in the Accounting application."
 msgstr ""
-"这个报表会对你的报价单和销售订单进行分析。分析检查你的销售收入，并且按照不同的标准分组（业务员，合作伙伴，产品等）。用这个报表对还没有开票的销售订单进行分"
-"析。 如果你想分析你的营业额，你应该用会计模块里的发票分析报表。"
+"这个报表会对您的报价单和销售订单进行分析。分析检查您的销售收入，并且按照不同的标准分组（业务员，合作伙伴，产品等）。用这个报表对还没有开票的销售订单进行分"
+"析。 如果您想分析您的营业额，您应该用会计模块里的发票分析报表。"
 
 #. module: sale
 #: model:ir.actions.report.xml,name:sale.report_sale_order
@@ -1851,7 +1851,7 @@ msgstr "电话:"
 #. module: sale
 #: view:sale.make.invoice:0
 msgid "Do you really want to create the invoice(s)?"
-msgstr "你真的要生成发票吗 ？"
+msgstr "您真的要生成发票吗 ？"
 
 #. module: sale
 #: model:ir.actions.act_window,help:sale.action_quotations
@@ -1875,10 +1875,10 @@ msgstr ""
 "<p class=\"oe_view_nocontent_create\">\n"
 "                点击创建报价单，这是销售的第一步。\n"
 "              </p><p>\n"
-"                系统将帮助你高效地处理整个销售流程：\n"
+"                系统将帮助您高效地处理整个销售流程：\n"
 "                从报价到销售订单、发货、开发票、回款。\n"
 "              </p><p>\n"
-"                社交功能可以帮助你组织管理每一个销售订单的相关讨论，并且也可以让你的客户跟踪销售订单的进展。\n"
+"                社交功能可以帮助您组织管理每一个销售订单的相关讨论，并且也可以让您的客户跟踪销售订单的进展。\n"
 "              </p>\n"
 "            "
 
@@ -1949,7 +1949,7 @@ msgstr ""
 "<p class=\"oe_view_nocontent_create\">\n"
 "                点击创建一个可以转化成销售订单的报价单。\n"
 "              </p><p>\n"
-"                系统将帮助你高效地处理整个销售流程：\n"
+"                系统将帮助您高效地处理整个销售流程：\n"
 "                报价单，销售订单，发货，开发票和付款等。\n"
 "              </p>\n"
 "            "
@@ -2044,7 +2044,7 @@ msgstr ""
 "<p class=\"oe_view_nocontent_create\">\n"
 "                点击为该客户创建一个报价单或者销售订单。\n"
 "              </p><p>\n"
-"                系统瘵帮助你高效地处理整个销售流程：\n"
+"                系统瘵帮助您高效地处理整个销售流程：\n"
 "                报价，销售订单，发货，开发票和付款等。\n"
 "              </p><p>\n"
 "                社交功能可以帮助您组织管理每一个销售订单的相关讨论，同时也允许您的客户跟踪销售订单的进展情况。\n"
@@ -2080,7 +2080,7 @@ msgid ""
 "                        multiple invoicing as part of the same contract "
 "with\n"
 "                        your customer."
-msgstr "使用合同 管理 多次开票的服务作为你的客户的相同合同的一部分。"
+msgstr "使用合同 管理 多次开票的服务作为您的客户的相同合同的一部分。"
 
 #. module: sale
 #: view:sale.report:0

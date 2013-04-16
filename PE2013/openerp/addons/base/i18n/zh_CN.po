@@ -129,7 +129,7 @@ msgstr ""
 "在产品Form增加了制造商和属性的模块\n"
 "=================================================================\n"
 "\n"
-"安装了这个模块你能在产品Form定义下面内容\n"
+"安装了这个模块您能在产品Form定义下面内容\n"
 "\n"
 "   *制造商\n"
 "   *制造商产品名\n"
@@ -211,7 +211,7 @@ msgstr ""
 "\n"
 "生成基于成本的发票模块（人力资源，费用，......).\n"
 "\n"
-"你可以在财务分析中定义价格列表，制作理论收入报表。"
+"您可以在财务分析中定义价格列表，制作理论收入报表。"
 
 #. module: base
 #: code:addons/base/ir/ir_sequence.py:104
@@ -407,11 +407,11 @@ msgid ""
 "line.\n"
 msgstr ""
 "\n"
-"销售订单和包装单可以让你添加的交货方式。\n"
+"销售订单和包装单可以让您添加的交货方式。\n"
 "\n"
 "==============================================================\n"
 "\n"
-"当从调拨创建发票时，你可以自定义的物流路线的价格。openerp能够按定义好路线的来计算。\n"
+"当从调拨创建发票时，您可以自定义的物流路线的价格。openerp能够按定义好路线的来计算。\n"
 
 #. module: base
 #: code:addons/base/ir/ir_filters.py:80
@@ -659,7 +659,7 @@ msgstr "按工时开发票"
 #. module: base
 #: view:base.module.upgrade:0
 msgid "Your system will be updated."
-msgstr "你的系统将会被更新。"
+msgstr "您的系统将会被更新。"
 
 #. module: base
 #: field:ir.actions.todo,note:0
@@ -1620,7 +1620,7 @@ msgstr ""
 "\n"
 "===============================================================\n"
 "\n"
-"你可以使用任何兼容的浏览器远程看到openobject的附件。\n"
+"您可以使用任何兼容的浏览器远程看到openobject的附件。\n"
 "\n"
 "安装后，在WebDAV服务上的[Webdav]部分的配置可以被管理。\n"
 "\n"
@@ -1696,7 +1696,7 @@ msgid ""
 "use the accounting application of PengERP, journals and accounts will be "
 "created automatically based on these data."
 msgstr ""
-"配置贵公司的银行帐户，并选择那些出现在报表页脚的信息。从列表视图中，您可以重新排列的银行帐户。如果你使用的的PengERP会计应用，凭证簿和科目基于将这些"
+"配置贵公司的银行帐户，并选择那些出现在报表页脚的信息。从列表视图中，您可以重新排列的银行帐户。如果您使用的的PengERP会计应用，凭证簿和科目基于将这些"
 "数据被自动创建。"
 
 #. module: base
@@ -2302,7 +2302,7 @@ msgstr "%U - 一年中的周数（周日是每周的第一天）[00,53]。在新
 #. module: base
 #: view:base.language.export:0
 msgid "PO(T) format: you should edit it with a PO editor such as"
-msgstr "PO(T) 格式: 你可以通过下列的PO编辑器来编辑"
+msgstr "PO(T) 格式: 您可以通过下列的PO编辑器来编辑"
 
 #. module: base
 #: model:ir.ui.menu,name:base.menu_administration
@@ -2636,7 +2636,7 @@ msgstr ""
 "客服管理\n"
 "===================\n"
 "\n"
-"例如记录和处理问题，客服是跟踪你处理过程的\n"
+"例如记录和处理问题，客服是跟踪您处理过程的\n"
 "良好工具。这个菜单更适合口头沟通，并不需要\n"
 "和具体的问题相关。选择一个客户，添加日志并\n"
 "用渠道和优先级对问题进行分类。\n"
@@ -2717,7 +2717,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"为你的分析帐目设定缺省值。\n"
+"为您的分析帐目设定缺省值。\n"
 "==============================================\n"
 "\n"
 "基于以下规则时，允许自动选择分析帐目：\n"
@@ -2798,7 +2798,7 @@ msgstr ""
 "管理销售订单的成本科目\n"
 "=================================================================\n"
 "\n"
-"用此模块你可以为销售订单指定成本科目\n"
+"用此模块您可以为销售订单指定成本科目\n"
 "    "
 
 #. module: base
@@ -4851,7 +4851,7 @@ msgstr "模型"
 msgid ""
 "The selected language has been successfully installed. You must change the "
 "preferences of the user and open a new menu to view the changes."
-msgstr "所选的语言已经成功安装。你必须改变用户偏好并开启新菜单去查看改变"
+msgstr "所选的语言已经成功安装。您必须改变用户偏好并开启新菜单去查看改变"
 
 #. module: base
 #: field:ir.actions.act_window.view,view_id:0
@@ -5199,7 +5199,7 @@ msgstr "莱索托"
 #. module: base
 #: view:base.language.export:0
 msgid ", or your preferred text editor"
-msgstr "或使用你喜欢的文本编辑器"
+msgstr "或使用您喜欢的文本编辑器"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_crm_partner_assign
@@ -5894,8 +5894,8 @@ msgid ""
 "              <p>You should try others search criteria.</p>\n"
 "            "
 msgstr ""
-"<p><b>没有模块找到!</b></p>\n"
-"              <p>你试试其他查询条件.</p>\n"
+"<p><b>没有找到未安装的模块!</b></p>\n"
+"              <p>您可以尝试一下其他查询条件。</p>\n"
 "            "
 
 #. module: base
@@ -6218,7 +6218,7 @@ msgid ""
 "If you uncheck the active field, it will disable the record rule without "
 "deleting it (if you delete a native record rule, it may be re-created when "
 "you reload the module."
-msgstr "如果你为选中有效（ active  ）字段，将 禁用该记录而无需删除（如果你真正删除了一条记录规则， 可能在你重新安装模块时被重建）"
+msgstr "如果您为选中有效（ active  ）字段，将 禁用该记录而无需删除（如果您真正删除了一条记录规则， 可能在您重新安装模块时被重建）"
 
 #. module: base
 #: selection:base.language.install,lang:0
@@ -6834,7 +6834,7 @@ msgid ""
 "FTP client.\n"
 msgstr ""
 "\n"
-"此模块为文档管理增加了FTP支持。安装了这个模块你不仅可以在PengERP里访问文档还能通过FTP客户端在文件系统上访问这些文件。\n"
+"此模块为文档管理增加了FTP支持。安装了这个模块您不仅可以在PengERP里访问文档还能通过FTP客户端在文件系统上访问这些文件。\n"
 
 #. module: base
 #: field:ir.model.fields,size:0
@@ -7736,7 +7736,7 @@ msgid ""
 "printed reports. It is important to set a value for this field. You should "
 "use the same timezone that is otherwise used to pick and render date and "
 "time values: your computer's timezone."
-msgstr "业务伙伴的时区，用来在打印的报表上面输出适当的日期和事件。设置这个字段非常重要. 选择和使用日期和时间 你将用和你电脑相同的时区。"
+msgstr "业务伙伴的时区，用来在打印的报表上面输出适当的日期和事件。设置这个字段非常重要. 选择和使用日期和时间 您将用和您电脑相同的时区。"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_account_analytic_default
@@ -8086,7 +8086,7 @@ msgstr "Launchpad"
 msgid ""
 "Allow you to define your own currency rate types, like 'Average' or 'Year to "
 "Date'. Leave empty if you simply want to use the normal 'spot' rate type"
-msgstr "允许你定义自己的汇率类型，例如‘平均值’或‘年平均’。如果要使用默认的‘时点’汇率类型，这里留空。"
+msgstr "允许您定义自己的汇率类型，例如‘平均值’或‘年平均’。如果要使用默认的‘时点’汇率类型，这里留空。"
 
 #. module: base
 #: selection:ir.module.module.dependency,state:0
@@ -8201,9 +8201,9 @@ msgid ""
 "            "
 msgstr ""
 "<p class=\"oe_view_nocontent_create\">\n"
-"                点击此处在你的地址本中增加一个新的联系人。\n"
+"                点击此处在您的地址本中增加一个新的联系人。\n"
 "              </p><p>\n"
-"                PengERP系统可以帮助你轻松地跟踪所有与客户相关的活动：\n"
+"                PengERP系统可以帮助您轻松地跟踪所有与客户相关的活动：\n"
 "                例如讨论，商业机会的历史记录，文档，等等。\n"
 "              </p>\n"
 "            "
@@ -8228,7 +8228,7 @@ msgstr "可选的 SMTP 验证密码"
 #: code:addons/base/ir/ir_model.py:728
 #, python-format
 msgid "Sorry, you are not allowed to modify this document."
-msgstr "对不起，你未被允许修改此单据。"
+msgstr "对不起，您未被允许修改此单据。"
 
 #. module: base
 #: code:addons/base/res/res_config.py:350
@@ -8691,7 +8691,7 @@ msgstr "2.  %a ,%A ==> 周五, 星期五"
 msgid ""
 "Translation features are unavailable until you install an extra PengERP "
 "translation."
-msgstr "翻译特性不可用，知道你安装了额外的Openerp翻译语言。"
+msgstr "翻译特性不可用，知道您安装了额外的Openerp翻译语言。"
 
 #. module: base
 #: model:ir.module.module,description:base.module_l10n_nl
@@ -9023,7 +9023,7 @@ msgid ""
 "\n"
 "(Document type: %s)"
 msgstr ""
-"对这种类型的单据，你只能访问你自己创建的记录。\n"
+"对这种类型的单据，您只能访问您自己创建的记录。\n"
 "（单据类型：%s）"
 
 #. module: base
@@ -9074,7 +9074,7 @@ msgstr "%b - 月份缩写。"
 #: code:addons/base/ir/ir_model.py:730
 #, python-format
 msgid "Sorry, you are not allowed to delete this document."
-msgstr "对不起，你不允许删除这个单据！"
+msgstr "对不起，您不允许删除这个单据！"
 
 #. module: base
 #: constraint:ir.rule:0
@@ -9740,7 +9740,7 @@ msgstr "osv_memory.autovacuum"
 #: code:addons/base/ir/ir_model.py:729
 #, python-format
 msgid "Sorry, you are not allowed to create this kind of document."
-msgstr "对不起，你不允许创建这种类型的单据。"
+msgstr "对不起，您不允许创建这种类型的单据。"
 
 #. module: base
 #: field:base.language.export,lang:0
@@ -10008,8 +10008,8 @@ msgid ""
 "at the next update or upgrade to a future version of PengERP."
 msgstr ""
 "当定制工作流的时候，千万不要修改一个已有的节点或者箭头符号，宁可增加一个新的 节点或者箭头符号。\r\n"
-"如果你非要修改节点或者箭头符号，你只能改变空的字段，或者设置默认值。\r\n"
-"如果你不这样做，你的定制将被下一次更新或者未来版本的Openerp升级所覆盖。"
+"如果您非要修改节点或者箭头符号，您只能改变空的字段，或者设置默认值。\r\n"
+"如果您不这样做，您的定制将被下一次更新或者未来版本的Openerp升级所覆盖。"
 
 #. module: base
 #: report:ir.module.reference:0
@@ -10239,9 +10239,9 @@ msgid ""
 "            "
 msgstr ""
 "<p class=\"oe_view_nocontent_create\">\n"
-"                点击向你的地址薄中添加联系人。\n"
+"                点击向您的地址薄中添加联系人。\n"
 "              </p><p>\n"
-"                PengERP 可以帮助你轻松地跟踪与供应商相关的所有活动：如讨论、采购历史记录、单据等。\n"
+"                PengERP 可以帮助您轻松地跟踪与供应商相关的所有活动：如讨论、采购历史记录、单据等。\n"
 "              </p>\n"
 "            "
 
@@ -10633,7 +10633,7 @@ msgstr "PostgreSQL 约束或者 FK 名称"
 #. module: base
 #: view:res.company:0
 msgid "Click to set your company logo."
-msgstr ""
+msgstr " 点击设置您的公司标志。"
 
 #. module: base
 #: view:res.lang:0
@@ -10900,7 +10900,7 @@ msgstr ""
 #, python-format
 msgid ""
 "Please contact your system administrator if you think this is an error."
-msgstr "如果你认为这是一个错误，请联系系统管理员。"
+msgstr "如果您认为这是一个错误，请联系系统管理员。"
 
 #. module: base
 #: code:addons/base/module/module.py:545
@@ -10947,7 +10947,7 @@ msgstr "OpenID 认证"
 msgid ""
 "One of the documents you are trying to access has been deleted, please try "
 "again after refreshing."
-msgstr "一个你试图访问的单据已经被删除，请刷新后重试。"
+msgstr "一个您试图访问的单据已经被删除，请刷新后重试。"
 
 #. module: base
 #: model:ir.model,name:base.model_ir_mail_server
@@ -11097,7 +11097,7 @@ msgstr "图标"
 msgid ""
 "Helps you manage your human resources by encoding your employees structure, "
 "generating work sheets, tracking attendance and more."
-msgstr "帮助你管理你的人力资源。输入员工架构，生成工作计工单，考勤等"
+msgstr "帮助您管理您的人力资源。输入员工架构，生成工作计工单，考勤等"
 
 #. module: base
 #: help:res.partner,ean13:0
@@ -11232,7 +11232,7 @@ msgstr "打开模块"
 #. module: base
 #: model:ir.actions.act_window,help:base.action_res_bank_form
 msgid "Manage bank records you want to be used in the system."
-msgstr "你想用于管理银行记录在系统中."
+msgstr "您想用于管理银行记录在系统中."
 
 #. module: base
 #: view:base.module.import:0
@@ -11515,7 +11515,7 @@ msgid ""
 "deactivated should there be a period of time during which they will/should "
 "not connect to the system. You can assign them groups in order to give them "
 "specific access to the applications they need to use in the system."
-msgstr "为系统创建和管理用户。在一段时间内用该系统的用户可以暂不激活。你还可以给用户分配某一个组，以便他们能用到系统的指定功能"
+msgstr "为系统创建和管理用户。在一段时间内用该系统的用户可以暂不激活。您还可以给用户分配某一个组，以便他们能用到系统的指定功能"
 
 #. module: base
 #: selection:res.request,priority:0
@@ -11937,7 +11937,7 @@ msgid ""
 "If you uncheck the active field, it will disable the ACL without deleting it "
 "(if you delete a native ACL, it will be re-created when you reload the "
 "module."
-msgstr "如果你不选中“有效”字段，将停用这条ACL而无需删除（如果你删除了，将在重新装入模块的时候被重建）。"
+msgstr "如果您不选中“有效”字段，将停用这条ACL而无需删除（如果您删除了，将在重新装入模块的时候被重建）。"
 
 #. module: base
 #: model:ir.model,name:base.model_ir_fields_converter
@@ -12453,7 +12453,7 @@ msgstr "动作类型"
 msgid ""
 "You try to install module '%s' that depends on module '%s'.\n"
 "But the latter module is not available in your system."
-msgstr "你要安装的模块'%s'依赖于‘%s’,但后者在你系统中不可用."
+msgstr "您要安装的模块'%s'依赖于‘%s’,但后者在您系统中不可用."
 
 #. module: base
 #: view:base.language.import:0
@@ -13300,7 +13300,7 @@ msgstr "这个对象将接收工作量信号（必须有关联的工作流）"
 msgid ""
 "Allows you to create your invoices and track the payments. It is an easier "
 "version of the accounting module for managers who are not accountants."
-msgstr "允许你创建发票并跟踪付款,这是一个面向没有会计知识的管理人员的简化版会计模块"
+msgstr "允许您创建发票并跟踪付款,这是一个面向没有会计知识的管理人员的简化版会计模块"
 
 #. module: base
 #: model:res.country,name:base.eh
@@ -13890,7 +13890,7 @@ msgid ""
 "software,\n"
 "                                the rightmost column (value) contains the "
 "translations"
-msgstr "CSV 格式: 你可以用你的电子表格软件直接修改。最右边一列（值）包括了翻译。"
+msgstr "CSV 格式: 您可以用您的电子表格软件直接修改。最右边一列（值）包括了翻译。"
 
 #. module: base
 #: model:ir.module.module,description:base.module_account_chart
@@ -14539,7 +14539,7 @@ msgid ""
 "of each line and then delete it through the button that appeared. Items can "
 "be assigned to specific groups in order to make them accessible to some "
 "users within the system."
-msgstr "管理和自定义用户的菜单项。你可以用勾选一些菜单项，然后删除。菜单项可以分配给某些特定的用户组，以便他们使用系统的某些特定的功能"
+msgstr "管理和自定义用户的菜单项。您可以用勾选一些菜单项，然后删除。菜单项可以分配给某些特定的用户组，以便他们使用系统的某些特定的功能"
 
 #. module: base
 #: field:ir.ui.view,field_parent:0
@@ -14578,7 +14578,7 @@ msgstr "workflow.workitem"
 msgid ""
 "Lets you install various interesting but non-essential tools like Survey, "
 "Lunch and Ideas box."
-msgstr "让你安装各种有趣的但非必需的工具如： 调查, 午餐 和 创意"
+msgstr "让您安装各种有趣的但非必需的工具如： 调查, 午餐 和 创意"
 
 #. module: base
 #: selection:ir.module.module,state:0
@@ -14737,7 +14737,7 @@ msgid ""
 "\n"
 "(Document type: %s, Operation: %s)"
 msgstr ""
-"由于安全限制，请求的操作不能被完成。请联系你的系统管理员。\n"
+"由于安全限制，请求的操作不能被完成。请联系您的系统管理员。\n"
 "\n"
 "(单据类型: %s, 操作: %s)"
 
@@ -15131,7 +15131,7 @@ msgstr "技术设置"
 msgid ""
 "Helps you handle your accounting needs, if you are not an accountant, we "
 "suggest you to install only the Invoicing."
-msgstr "帮你处理需要的账单，如果你是不是会计人员，我们建议你只安装开票模块。"
+msgstr "帮您处理需要的账单，如果您是不是会计人员，我们建议您只安装开票模块。"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_plugin_thunderbird
@@ -15480,7 +15480,7 @@ msgstr "克罗地亚"
 msgid ""
 "Do you confirm the uninstallation of this module? This will permanently "
 "erase all data currently stored by the module!"
-msgstr "你确信要卸载这个模块？将永久性删除所有存储在这个模型的数据！"
+msgstr "您确信要卸载这个模块？将永久性删除所有存储在这个模型的数据！"
 
 #. module: base
 #: field:ir.actions.server,mobile:0
@@ -15778,6 +15778,12 @@ msgid ""
 "              </p>\n"
 "            "
 msgstr ""
+"<p class=\"oe_view_nocontent_create\">\n"
+"            单击以在您的地址簿中添加一个联系人。\n"
+"          </p><p>\n"
+"            PengERP 可以更便捷地帮助您跟踪所有客户相关的活动，讨论，商机日志，单据等等。\n"
+"          </p>\n"
+"        "
 
 #. module: base
 #: model:res.partner.category,name:base.res_partner_category_2

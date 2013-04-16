@@ -1014,6 +1014,10 @@
   background-image: -o-linear-gradient(top, #646060, #262626);
   background-image: linear-gradient(to bottom, #646060, #262626);
 }
+.openerp .oe_topbar {
+    position: fixed;
+    z-index: 9999;
+}
 .openerp .oe_topbar .oe_topbar_anonymous_login {
   background-color: #dc5f59;
   color: #eeeeee;
@@ -1197,6 +1201,9 @@
   text-shadow: 0 1px 1px white;
   padding-bottom: 16px;
 }
+.openerp .oe_leftbar {
+    padding-top: 32px;
+}
 .openerp a.oe_logo {
   position: relative;
   width: 220px;
@@ -1253,6 +1260,11 @@ background-image: linear-gradient(to bottom, #646060, #262626);
   font-weight: bold;
   margin-left: 8px;
   color: #7c7bad;
+  
+
+position: relative;
+margin: 0;
+padding: 2px 4px 2px 4px;
 }
 .openerp .oe_secondary_submenu {
   padding: 2px 0 8px 0;
@@ -1411,6 +1423,9 @@ background-image: linear-gradient(to bottom, #646060, #262626);
 .openerp .oe_application {
   width: 100%;
   height: 100%;
+}
+.openerp .oe_application {
+    padding-top: 32px;
 }
 .openerp .oe_application a {
   color: #7c7bad;

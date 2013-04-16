@@ -10,7 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2013-03-07 08:39+0000\n"
 "PO-Revision-Date: 2012-12-21 23:00+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language-Team: Chinese (Simplified) <lkp@likaipeng.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -134,7 +134,7 @@ msgstr "文档号码"
 msgid ""
 "If the active field is set to False, it will allow you to hide the "
 "subscription document without removing it."
-msgstr "如果有效字段为false，它将允许你隐藏订阅这文档，并随后删除它。"
+msgstr "如果有效字段为false，它将允许您隐藏订阅这文档，并随后删除它。"
 
 #. module: subscription
 #: field:subscription.document,name:0
@@ -146,7 +146,7 @@ msgstr "名称"
 #: code:addons/subscription/subscription.py:136
 #, python-format
 msgid "You cannot delete an active subscription !"
-msgstr "你不能删除一个活动的订阅"
+msgstr "您不能删除一个活动的订阅"
 
 #. module: subscription
 #: field:subscription.document,field_ids:0
@@ -221,7 +221,7 @@ msgstr "订阅文档"
 msgid ""
 "If the active field is set to False, it will allow you to hide the "
 "subscription without removing it."
-msgstr "如果有效字段设为false，允许你隐藏这订阅并随后删除它。"
+msgstr "如果有效字段设为false，允许您隐藏这订阅并随后删除它。"
 
 #. module: subscription
 #: help:subscription.document.fields,value:0

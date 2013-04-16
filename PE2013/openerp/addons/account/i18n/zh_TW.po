@@ -94,7 +94,7 @@ msgid ""
 "You cannot create recursive account templates."
 msgstr ""
 "錯誤！\n"
-"你不能建立遞迴式帳目模板。"
+"您不能建立遞迴式帳目模板。"
 
 #. module: account
 #. openerp-web
@@ -331,7 +331,7 @@ msgid ""
 "You can set up here the format you want this record to be displayed. If you "
 "leave the automatic formatting, it will be computed based on the financial "
 "reports hierarchy (auto-computed field 'level')."
-msgstr "這裡可以設置你想要記錄顯示格式.如果保留自動,它將基於財務報表結構計算(自動計算欄位\"level\")"
+msgstr "這裡可以設置您想要記錄顯示格式.如果保留自動,它將基於財務報表結構計算(自動計算欄位\"level\")"
 
 #. module: account
 #: field:account.config.settings,group_multi_currency:0
@@ -342,7 +342,7 @@ msgstr "允許多幣別"
 #: code:addons/account/account_invoice.py:74
 #, python-format
 msgid "You must define an analytic journal of type '%s'!"
-msgstr "你必須定義一個類型為 '%s'的輔助核算帳簿！"
+msgstr "您必須定義一個類型為 '%s'的輔助核算帳簿！"
 
 #. module: account
 #: selection:account.entries.report,month:0
@@ -757,7 +757,7 @@ msgstr "建立退款"
 msgid ""
 "The date of your Journal Entry is not in the defined period! You should "
 "change the date or remove this constraint from the journal."
-msgstr "帳簿分錄日期不在所選期間內！你應該去修改帳簿日期或在帳簿上去掉這個檢查項。"
+msgstr "帳簿分錄日期不在所選期間內！您應該去修改帳簿日期或在帳簿上去掉這個檢查項。"
 
 #. module: account
 #: model:ir.model,name:account.model_account_report_general_ledger
@@ -772,7 +772,7 @@ msgstr "重開"
 #. module: account
 #: view:account.use.model:0
 msgid "Are you sure you want to create entries?"
-msgstr "你確定要建立分錄?"
+msgstr "您確定要建立分錄?"
 
 #. module: account
 #: code:addons/account/account_invoice.py:1330
@@ -1592,7 +1592,7 @@ msgid ""
 "                    have been reconciled, your partner balance is clean."
 msgstr ""
 "無可調節。 所有發票及付款\n"
-"                    已經調節完畢，你的夥伴廠商已經結清了。"
+"                    已經調節完畢，您的夥伴廠商已經結清了。"
 
 #. module: account
 #: field:account.chart.template,code_digits:0
@@ -1892,7 +1892,7 @@ msgstr "稅申報單"
 msgid ""
 "If the active field is set to False, it will allow you to hide the journal "
 "period without removing it."
-msgstr "如果此欄位設置為False，你可以讓他隱藏而不刪除它。"
+msgstr "如果此欄位設置為False，您可以讓他隱藏而不刪除它。"
 
 #. module: account
 #: field:account.report.general.ledger,sortby:0
@@ -2277,7 +2277,7 @@ msgid ""
 "The selected account of your Journal Entry forces to provide a secondary "
 "currency. You should remove the secondary currency on the account or select "
 "a multi-currency view on the journal."
-msgstr "分錄上的科目要求輸入一個外幣。你可以在科目設置中去掉這個外幣或在帳簿設置選擇一個支持多幣別的輸入界面。"
+msgstr "分錄上的科目要求輸入一個外幣。您可以在科目設置中去掉這個外幣或在帳簿設置選擇一個支持多幣別的輸入界面。"
 
 #. module: account
 #: view:account.invoice:0
@@ -3309,7 +3309,7 @@ msgid ""
 "software system you may have to use the rate at date. Incoming transactions "
 "always use the rate at date."
 msgstr ""
-"將選擇要兌換貨幣的當前匯率。在大多數國家法定為「平均」，但只有少數軟件系統能夠管理。 所以如果你要導入另一個軟件系統，你可能需要使用當日匯率。"
+"將選擇要兌換貨幣的當前匯率。在大多數國家法定為「平均」，但只有少數軟件系統能夠管理。 所以如果您要導入另一個軟件系統，您可能需要使用當日匯率。"
 
 #. module: account
 #: code:addons/account/account.py:2640
@@ -4364,7 +4364,7 @@ msgstr "顯示科目列表"
 #. module: account
 #: view:account.state.open:0
 msgid "(Invoice should be unreconciled if you want to open it)"
-msgstr "(如果你想打開它發票要反調節)"
+msgstr "(如果您想打開它發票要反調節)"
 
 #. module: account
 #: field:account.tax,account_analytic_collected_id:0
@@ -4657,7 +4657,7 @@ msgstr "月區間"
 #. module: account
 #: help:account.analytic.balance,empty_acc:0
 msgid "Check if you want to display Accounts with 0 balance too."
-msgstr "檢查,如果你想顯示平衡科目"
+msgstr "檢查,如果您想顯示平衡科目"
 
 #. module: account
 #: field:account.move.reconcile,opening_reconciliation:0
@@ -4698,7 +4698,7 @@ msgstr ""
 #. module: account
 #: model:ir.actions.act_window,name:account.action_wizard_multi_chart
 msgid "Set Your Accounting Options"
-msgstr "設定你的會計選項"
+msgstr "設定您的會計選項"
 
 #. module: account
 #: model:ir.model,name:account.model_account_chart
@@ -4811,7 +4811,7 @@ msgid ""
 "wizard that generate Chart of Accounts from templates, this is useful when "
 "you want to generate accounts of this template only when loading its child "
 "template."
-msgstr "如果你不想在根據模組產生科目表的精靈裡用這個模組，不要勾選這個欄位。用於你僅需要在用到本模組的子模組時才生成這個模組的會計科目。"
+msgstr "如果您不想在根據模組產生科目表的精靈裡用這個模組，不要勾選這個欄位。用於您僅需要在用到本模組的子模組時才生成這個模組的會計科目。"
 
 #. module: account
 #: view:account.use.model:0
@@ -5401,7 +5401,7 @@ msgid ""
 "This boolean helps you to choose if you want to propose to the user to "
 "encode the sale and purchase rates or choose from list of taxes. This last "
 "choice assumes that the set of tax defined on this template is complete"
-msgstr "這個選項用於確定你是否希望提示使用者輸入銷售和採購的稅率，或者是從下拉列表選擇稅。這是設置稅模版的最後一步。"
+msgstr "這個選項用於確定您是否希望提示使用者輸入銷售和採購的稅率，或者是從下拉列表選擇稅。這是設置稅模版的最後一步。"
 
 #. module: account
 #: view:account.financial.report:0
@@ -6133,7 +6133,7 @@ msgid ""
 "From this view, have an analysis of your different financial accounts. The "
 "document shows your debit and credit taking in consideration some criteria "
 "you can choose by using the search tool."
-msgstr "在這個界面上，你可以對不同的科目做分析。按照您輸入的條件出具報表顯示這些科目的借貸方發生額。"
+msgstr "在這個界面上，您可以對不同的科目做分析。按照您輸入的條件出具報表顯示這些科目的借貸方發生額。"
 
 #. module: account
 #: help:account.partner.reconcile.process,progress:0
@@ -6456,7 +6456,7 @@ msgid ""
 "encode the sales and purchase rates or use the usual m2o fields. This last "
 "choice assumes that the set of tax defined for the chosen template is "
 "complete"
-msgstr "這個選項用於確定你是否希望提示使用者輸入銷售和採購的稅率，或者是打開稅選擇列表。這是設置稅模版的最後一步。"
+msgstr "這個選項用於確定您是否希望提示使用者輸入銷售和採購的稅率，或者是打開稅選擇列表。這是設置稅模版的最後一步。"
 
 #. module: account
 #: report:account.vat.declaration:0
@@ -6757,7 +6757,7 @@ msgid ""
 "This wizard will generate the end of year journal entries of selected fiscal "
 "year. Note that you can run this wizard many times for the same fiscal year: "
 "it will simply replace the old opening entries with the new ones."
-msgstr "此精靈將生成選定會計年度的年結憑證。注意你可以針對相同年度多次運行這個精靈：新生成的憑證會覆蓋原有憑證。"
+msgstr "此精靈將生成選定會計年度的年結憑證。注意您可以針對相同年度多次運行這個精靈：新生成的憑證會覆蓋原有憑證。"
 
 #. module: account
 #: model:ir.ui.menu,name:account.menu_finance_bank_and_cash
@@ -6789,7 +6789,7 @@ msgstr "非強制建立"
 msgid ""
 "You cannot change the owner company of an account that already contains "
 "journal items."
-msgstr "你不能修改已經存在借貸項的公司帳戶。"
+msgstr "您不能修改已經存在借貸項的公司帳戶。"
 
 #. module: account
 #: report:account.invoice:0
@@ -7124,7 +7124,7 @@ msgid ""
 "If you selected to filter by date or period, this field allow you to add a "
 "row to display the amount of debit/credit/balance that precedes the filter "
 "you've set."
-msgstr "如果你選擇了按日期或期間篩選，可以用這個欄位按所選條件添加一行顯示借方、貸方、餘額。"
+msgstr "如果您選擇了按日期或期間篩選，可以用這個欄位按所選條件添加一行顯示借方、貸方、餘額。"
 
 #. module: account
 #: view:account.bank.statement:0
@@ -7381,7 +7381,7 @@ msgid ""
 "creditors for the past month, past two months, and so on. "
 msgstr ""
 "業務夥伴過期試算表是某個時間段內應收帳款的詳細的報表。打開這個報表後請輸入公司名稱、會計期間、分析的時間段（按天）。PengERP會按期間計算應收帳款餘額"
-"。如果你輸入了30天，PengERP生成業務夥伴前一個月，再前一個月的金額。 "
+"。如果您輸入了30天，PengERP生成業務夥伴前一個月，再前一個月的金額。 "
 
 #. module: account
 #: field:account.invoice,origin:0
@@ -7459,12 +7459,12 @@ msgstr "稅模板"
 #. module: account
 #: view:account.journal.select:0
 msgid "Are you sure you want to open Journal Entries?"
-msgstr "你確定要顯示這個帳簿的分錄嗎？"
+msgstr "您確定要顯示這個帳簿的分錄嗎？"
 
 #. module: account
 #: view:account.state.open:0
 msgid "Are you sure you want to open this invoice ?"
-msgstr "你確定要打開這發票?"
+msgstr "您確定要打開這發票?"
 
 #. module: account
 #: field:account.chart.template,property_account_expense_opening:0
@@ -7854,7 +7854,7 @@ msgid ""
 "few new accounts (You don't need to define the whole structure that is "
 "common to both several times)."
 msgstr ""
-"這個可選欄位的功能是，你可以把一個科目模版鏈接到另一個與當前根所屬模版不一樣的科目模版。這樣你就可以擴展另一個科目模版，只需要定義本模板裡要新增的會計科目"
+"這個可選欄位的功能是，您可以把一個科目模版鏈接到另一個與當前根所屬模版不一樣的科目模版。這樣您就可以擴展另一個科目模版，只需要定義本模板裡要新增的會計科目"
 "即可，不用全部重來。"
 
 #. module: account
@@ -8308,7 +8308,7 @@ msgstr "相關業務夥伴"
 #: code:addons/account/account_invoice.py:1434
 #, python-format
 msgid "You must first select a partner !"
-msgstr "你必須首先選擇一個業務夥伴!"
+msgstr "您必須首先選擇一個業務夥伴!"
 
 #. module: account
 #: field:account.invoice,comment:0
@@ -8675,7 +8675,7 @@ msgid ""
 "process after having resolved the eventual exceptions it may have created."
 msgstr ""
 "這個按鈕只在發票的狀態是『已付款』的時候才顯示（意味著發票已經全部調節了），只讀欄位『已調節』卻是沒有勾選的（實際上不應該這樣）。換句話說，這張發票被反調"
-"節了，不應該在『已付款』狀態。你應該單擊這個按鈕來更改發票狀態到『未付款』。這樣解決了異常問題後就可以按正常流程繼續處理這張發票了。"
+"節了，不應該在『已付款』狀態。您應該單擊這個按鈕來更改發票狀態到『未付款』。這樣解決了異常問題後就可以按正常流程繼續處理這張發票了。"
 
 #. module: account
 #: model:ir.actions.act_window,help:account.action_account_journal_form
@@ -9076,8 +9076,8 @@ msgid ""
 "accounts that are typically more credited than debited and that you would "
 "like to print as positive amounts in your reports; e.g.: Income account."
 msgstr ""
-"對於貸方發生額大於借方發生額的會計科目，你希望在列印報表時顯示餘額的絕對值，你可以對科目的餘額取反；例如：收入科目。對於借方發生額大於貸方發生額的會計科目"
-"，你希望在列印報表時顯示餘額的絕對值，你可以對科目的餘額取反；例如：費用科目。"
+"對於貸方發生額大於借方發生額的會計科目，您希望在列印報表時顯示餘額的絕對值，您可以對科目的餘額取反；例如：收入科目。對於借方發生額大於貸方發生額的會計科目"
+"，您希望在列印報表時顯示餘額的絕對值，您可以對科目的餘額取反；例如：費用科目。"
 
 #. module: account
 #: field:res.partner,contract_ids:0

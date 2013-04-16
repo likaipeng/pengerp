@@ -10,7 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2013-03-07 08:37+0000\n"
 "PO-Revision-Date: 2013-03-21 14:16+0000\n"
 "Last-Translator: 开阖软件     Jeff Wang <jeff@osbzr.com>\n"
-"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language-Team: Chinese (Simplified) <lkp@likaipeng.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -271,7 +271,7 @@ msgstr "无效"
 #: help:stock.picking.in,message_unread:0
 #: help:stock.picking.out,message_unread:0
 msgid "If checked new messages require your attention."
-msgstr "如果要求你关注新消息，勾选此项"
+msgstr "如果要求您关注新消息，勾选此项"
 
 #. module: stock
 #: help:stock.tracking,serial:0
@@ -555,7 +555,7 @@ msgid ""
 "The average delay in days between the confirmation of the customer order and "
 "the delivery of the finished products. It's the time you promise to your "
 "customers."
-msgstr "在客户订单确认和完工产品交付之间的平均的延期日子。这是你承诺给客户的日期。"
+msgstr "在客户订单确认和完工产品交付之间的平均的延期日子。这是您承诺给客户的日期。"
 
 #. module: stock
 #: code:addons/stock/product.py:196
@@ -607,7 +607,7 @@ msgstr ""
 "<p class=\"oe_view_nocontent_create\">\n"
 "                单击创建内部调拨单。 \n"
 "              </p><p>\n"
-"                许多操作是根据你预设的物流规则，由系统自动生成的，但是你也可以手工添加仓库产品调拨记录。\n"
+"                许多操作是根据您预设的物流规则，由系统自动生成的，但是您也可以手工添加仓库产品调拨记录。\n"
 "              </p>\n"
 "            "
 
@@ -631,7 +631,7 @@ msgstr "调拨统计"
 #: help:stock.config.settings,group_uom:0
 msgid ""
 "Allows you to select and maintain different units of measure for products."
-msgstr "允许你选择和维护产品的不同计量单位"
+msgstr "允许您选择和维护产品的不同计量单位"
 
 #. module: stock
 #: model:ir.model,name:stock.model_stock_report_tracklots
@@ -1038,7 +1038,7 @@ msgstr "盘点库位"
 #. module: stock
 #: constraint:stock.move:0
 msgid "You must assign a serial number for this product."
-msgstr "你必须为该产品分配一个序列号。"
+msgstr "您必须为该产品分配一个序列号。"
 
 #. module: stock
 #: code:addons/stock/stock.py:2255
@@ -1248,10 +1248,10 @@ msgid ""
 "                      "
 msgstr ""
 "* 供应商库位 : 虚拟的库位代表产品从供应商来源位置.\n"
-"* 视图 : 虚拟库位用于在你仓库建立一个分层的结构,下级库位是合计不能直接有产品.\n"
-"* 内部库位 : 你仓库内部的实际的库位.\n"
-"* 客户库位 : 虚拟库位代表产品在你客户的目标位置.\n"
-"* 盘点: 虚拟库位为对你盘点操作服务,用于确认库存量(实物盘点表)\n"
+"* 视图 : 虚拟库位用于在您仓库建立一个分层的结构,下级库位是合计不能直接有产品.\n"
+"* 内部库位 : 您仓库内部的实际的库位.\n"
+"* 客户库位 : 虚拟库位代表产品在您客户的目标位置.\n"
+"* 盘点: 虚拟库位为对您盘点操作服务,用于确认库存量(实物盘点表)\n"
 "* 需求 : 虚拟库位为一个临时需求作业服务其来源是(供应商或生产)还不得而知,当完成运行需求调度这应该为空.\n"
 "* 生产 : 虚拟生产作业的库位: 这库位可以有消耗品,原材料,成品\n"
 "                      "
@@ -1308,7 +1308,7 @@ msgstr "供应商"
 msgid ""
 "In order to cancel this inventory, you must first unpost related journal "
 "entries."
-msgstr "为取消这个盘存，你必须要先取消相关的分录。"
+msgstr "为取消这个盘存，您必须要先取消相关的分录。"
 
 #. module: stock
 #: code:addons/stock/product.py:113
@@ -1786,7 +1786,7 @@ msgstr "单位成本的币别"
 #: selection:stock.picking.in,move_type:0
 #: selection:stock.picking.out,move_type:0
 msgid "Partial"
-msgstr ""
+msgstr "部分"
 
 #. module: stock
 #: selection:report.stock.inventory,month:0
@@ -1797,7 +1797,7 @@ msgstr "9月"
 #. module: stock
 #: view:product.product:0
 msgid "days"
-msgstr ""
+msgstr "天"
 
 #. module: stock
 #: model:ir.model,name:stock.model_report_stock_inventory
@@ -2003,7 +2003,7 @@ msgstr "日期"
 #: field:stock.picking.in,message_is_follower:0
 #: field:stock.picking.out,message_is_follower:0
 msgid "Is a Follower"
-msgstr ""
+msgstr "是否关注者"
 
 #. module: stock
 #: view:report.stock.inventory:0
@@ -2087,8 +2087,8 @@ msgstr ""
 "<p class=\"oe_view_nocontent_create\">\n"
 "                点击创建产品入库单。 \n"
 "              </p><p>\n"
-"                在这里你可以接收各种不同的产品，不管是来自采购订单的，还是来自领料单的。\n"
-"                你会在这里看到所有产品的清单列表。一旦你收到订单，你可以通过与之相关联的\n"
+"                在这里您可以接收各种不同的产品，不管是来自采购订单的，还是来自领料单的。\n"
+"                您会在这里看到所有产品的清单列表。一旦您收到订单，您可以通过与之相关联的\n"
 "                采购订单或者供应商的名字过滤产品；然后通过每一行右侧的按钮来确认接收到的\n"
 "                所有产品。\n"
 "              </p>\n"
@@ -2297,7 +2297,7 @@ msgstr "客户库位"
 #: code:addons/stock/stock.py:2858
 #, python-format
 msgid "User Error!"
-msgstr ""
+msgstr "用户错误！"
 
 #. module: stock
 #: view:stock.partial.picking:0
@@ -2307,14 +2307,14 @@ msgstr ""
 #. module: stock
 #: view:stock.picking:0
 msgid "Create Invoice/Refund"
-msgstr ""
+msgstr "创建发票/红字发票"
 
 #. module: stock
 #: help:stock.picking,message_ids:0
 #: help:stock.picking.in,message_ids:0
 #: help:stock.picking.out,message_ids:0
 msgid "Messages and communication history"
-msgstr ""
+msgstr "消息和通信记录"
 
 #. module: stock
 #: view:report.stock.inventory:0
@@ -2560,7 +2560,7 @@ msgstr "移库单类型"
 #. module: stock
 #: view:stock.move:0
 msgid "Process Partially"
-msgstr ""
+msgstr "部分处理"
 
 #. module: stock
 #: view:stock.move:0
@@ -2679,7 +2679,7 @@ msgid ""
 "Inventory Analysis allows you to easily check and analyse your company stock "
 "levels. Sort and group by selection criteria in order to better analyse and "
 "manage your company  activities."
-msgstr "盘点分析方便您检查和分析公司的库存水平.对单据排序和设定分组标准以更好分析和管理你公司的运作."
+msgstr "盘点分析方便您检查和分析公司的库存水平.对单据排序和设定分组标准以更好分析和管理您公司的运作."
 
 #. module: stock
 #: help:report.stock.move,location_id:0
@@ -3027,7 +3027,7 @@ msgstr ""
 #. module: stock
 #: view:stock.partial.move.line:0
 msgid "Stock Partial Move Line"
-msgstr ""
+msgstr "库存部分调拨明细"
 
 #. module: stock
 #: field:stock.move,product_uos_qty:0
@@ -3256,7 +3256,7 @@ msgstr "如果想生成发票，请在分拣单上填写上业务伙伴."
 #. module: stock
 #: view:stock.picking.in:0
 msgid "Confirm & Receive"
-msgstr ""
+msgstr "确认与接收"
 
 #. module: stock
 #: field:stock.picking,origin:0
@@ -3273,12 +3273,12 @@ msgstr "不紧急"
 #. module: stock
 #: view:stock.move:0
 msgid "Scheduled"
-msgstr ""
+msgstr "预定的"
 
 #. module: stock
 #: view:stock.picking:0
 msgid "Add an internal note..."
-msgstr ""
+msgstr "添加内部说明..."
 
 #. module: stock
 #: model:ir.actions.act_window,name:stock.action_warehouse_form
@@ -3294,7 +3294,7 @@ msgstr "负责人"
 #. module: stock
 #: view:stock.move:0
 msgid "Process Entirely"
-msgstr ""
+msgstr "整体处理"
 
 #. module: stock
 #: help:product.template,property_stock_procurement:0
@@ -3374,7 +3374,7 @@ msgstr ""
 "<p class=\"oe_view_nocontent_create\">\n"
 "                点击创建实物盘点单。 \n"
 "              </p><p>\n"
-"                实物盘点被用于计算每个库位的产品数量。你可以每年进行一次整体库存盘点，\n"
+"                实物盘点被用于计算每个库位的产品数量。您可以每年进行一次整体库存盘点，\n"
 "                或者其它任何有需要的时候都可以进行库存盘点，以便于对产品的当前库存水平\n"
 "                做出调整。\n"
 "              </p>\n"
@@ -3979,7 +3979,7 @@ msgstr "这选项允许这库位能不能放置废料"
 #: field:stock.picking.in,message_follower_ids:0
 #: field:stock.picking.out,message_follower_ids:0
 msgid "Followers"
-msgstr ""
+msgstr "关注者"
 
 #. module: stock
 #: code:addons/stock/stock.py:2585
@@ -4321,7 +4321,7 @@ msgstr ""
 #. module: stock
 #: view:stock.inventory.merge:0
 msgid "Do you want to merge theses inventories?"
-msgstr "你真的要合并盘点?"
+msgstr "您真的要合并盘点?"
 
 #. module: stock
 #: view:stock.picking.out:0
@@ -4427,7 +4427,7 @@ msgid ""
 "This allows you to manage products by using serial numbers. When you select "
 "a serial number on product moves, you can get the upstream or downstream "
 "traceability of that product."
-msgstr "该功能允许你通过序列号来管理产品。当你选中调拨途中的产品时，你可以向前或者向后追溯该产品。"
+msgstr "该功能允许您通过序列号来管理产品。当您选中调拨途中的产品时，您可以向前或者向后追溯该产品。"
 
 #. module: stock
 #: code:addons/stock/wizard/stock_fill_inventory.py:124
@@ -4489,7 +4489,7 @@ msgstr ""
 "<p class=\"oe_view_nocontent_create\">\n"
 "                点击为该产品添加送货单。\n"
 "              </p><p>\n"
-"                在这里你会找到该产品的所有以往送货单，以及包括你要发送给客户的所有产品送货单。\n"
+"                在这里您会找到该产品的所有以往送货单，以及包括您要发送给客户的所有产品送货单。\n"
 "              </p>\n"
 "            "
 
@@ -4677,7 +4677,7 @@ msgstr "连锁库位类型"
 #: help:stock.picking.in,min_date:0
 #: help:stock.picking.out,min_date:0
 msgid "Scheduled time for the shipment to be processed"
-msgstr ""
+msgstr "要处理的装运预定时间"
 
 #. module: stock
 #: selection:report.stock.inventory,location_type:0
@@ -4721,8 +4721,8 @@ msgstr ""
 "<p class=\"oe_view_nocontent_create\">\n"
 "                点击添加新的序列号。\n"
 "              </p><p>\n"
-"                这里显示的是你所记录的所有的产品的批次。选中一个产品批次，你就可以向前或者向后追溯该批次中\n"
-"                的产品。默认情况下，按照你的仓库中有效的产品序列号过滤显示列表的，但是你可以不选‘可用’选项\n"
+"                这里显示的是您所记录的所有的产品的批次。选中一个产品批次，您就可以向前或者向后追溯该批次中\n"
+"                的产品。默认情况下，按照您的仓库中有效的产品序列号过滤显示列表的，但是您可以不选‘可用’选项\n"
 "                来获取所有生产的、接收的或者发送给客户的产品的批次\n"
 "              </p>\n"
 "            "
@@ -4885,8 +4885,8 @@ msgstr ""
 "                点击创建产品送货单。\n"
 "              </p>\n"
 "              <p>\n"
-"                该列表显示的是所你需要发送给你的客户的产品的列表。\n"
-"                你可以通过每一行右侧的按钮直接处理送货单。你也可以通过客户、产品或者订单来过滤要发送的产品\n"
+"                该列表显示的是所您需要发送给您的客户的产品的列表。\n"
+"                您可以通过每一行右侧的按钮直接处理送货单。您也可以通过客户、产品或者订单来过滤要发送的产品\n"
 "              </p>\n"
 "            "
 

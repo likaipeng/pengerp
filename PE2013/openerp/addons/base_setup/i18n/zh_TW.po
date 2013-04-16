@@ -356,7 +356,7 @@ msgstr "套用"
 #. module: base_setup
 #: view:base.setup.terminology:0
 msgid "Specify Your Terminology"
-msgstr "設定你的術語"
+msgstr "設定您的術語"
 
 #. module: base_setup
 #: view:base.config.settings:0

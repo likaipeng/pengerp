@@ -488,7 +488,7 @@ msgstr "付款"
 #. module: account_voucher
 #: view:account.voucher:0
 msgid "Are you sure to unreconcile and cancel this record ?"
-msgstr "你確定要反核銷並作廢這條記錄嗎?"
+msgstr "您確定要反核銷並作廢這條記錄嗎?"
 
 #. module: account_voucher
 #: view:account.voucher:0

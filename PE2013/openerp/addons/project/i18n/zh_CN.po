@@ -88,7 +88,7 @@ msgstr "警告！"
 #: help:project.project,message_unread:0
 #: help:project.task,message_unread:0
 msgid "If checked new messages require your attention."
-msgstr "如果要求你关注新消息，勾选此项"
+msgstr "如果要求您关注新消息，勾选此项"
 
 #. module: project
 #: model:process.node,name:project.process_node_donetask0
@@ -173,7 +173,7 @@ msgstr "打开项目菜单"
 #. module: project
 #: model:ir.actions.act_window,help:project.action_project_task_user_tree
 msgid "This report allows you to analyse the performance of your projects and users. You can analyse the quantities of tasks, the hours spent compared to the planned hours, the average number of days to open or close a task, etc."
-msgstr "这个报表用于分析你项目和成员的效率。可以分析任务数量、计划工时和实际工时的对比、任务的平均花费天数"
+msgstr "这个报表用于分析您项目和成员的效率。可以分析任务数量、计划工时和实际工时的对比、任务的平均花费天数"
 
 #. module: project
 #: view:project.task.delegate:0
@@ -435,7 +435,7 @@ msgstr "任务阻止"
 #. module: project
 #: model:process.node,note:project.process_node_opentask0
 msgid "Encode your working hours."
-msgstr "你工作小时编码"
+msgstr "您工作小时编码"
 
 #. module: project
 #: field:project.project,alias_id:0
@@ -555,7 +555,7 @@ msgstr "非常紧急"
 #: help:project.task.delegate,project_id:0
 #: help:project.task.delegate,user_id:0
 msgid "User you want to delegate this task to"
-msgstr "你要分派这个任务给哪个用户"
+msgstr "您要分派这个任务给哪个用户"
 
 #. module: project
 #: view:project.project:0
@@ -637,12 +637,12 @@ msgid "<p class=\"oe_view_nocontent_create\">\n"
 msgstr "<p class=\"oe_view_nocontent_create\">\n"
 "                  点击生成一个新项目.\n"
 "                </p><p>\n"
-"                  此项目用来组织你的活动及计划\n"
-"                  任务、问题跟踪、发票表单，你可以定义\n"
+"                  此项目用来组织您的活动及计划\n"
+"                  任务、问题跟踪、发票表单，您可以定义\n"
 "                  内部项目 (研发及改善销售流程,),\n"
 "                  私有项目 (My Todos) 或者客户项目.\n"
 "                </p><p>\n"
-"                  你可以基于项目整合内部用户\n"
+"                  您可以基于项目整合内部用户\n"
 "                  或者邀请客户将自己的行动分享给他们.\n"
 "                </p>\n"
 "            "
@@ -917,7 +917,7 @@ msgstr "取消项目"
 #. module: project
 #: help:project.project,analytic_account_id:0
 msgid "Link this project to an analytic account if you need financial management on projects. It enables you to connect projects with budgets, planning, cost and revenue analysis, timesheets on projects, etc."
-msgstr "如果你需要项目的财务管理链接到这项目的辅助核算项目行,它能让你在链接的项目的有预算、计划、成本和收益分析、项目的计工单等."
+msgstr "如果您需要项目的财务管理链接到这项目的辅助核算项目行,它能让您在链接的项目的有预算、计划、成本和收益分析、项目的计工单等."
 
 #. module: project
 #: model:process.transition.action,name:project.process_transition_action_draftcanceltask0
@@ -1133,7 +1133,7 @@ msgstr "无效的动作！"
 #. module: project
 #: help:project.task.type,state:0
 msgid "The status of your document is automatically changed regarding the selected stage. For example, if a stage is related to the status 'Close', when your document reaches this stage, it is automatically closed."
-msgstr "您的文档的状态将自动更改选定的阶段。例如，如果某个阶段相关状态为“关闭”，当你的文档达到这个阶段，它会自动关闭。"
+msgstr "您的文档的状态将自动更改选定的阶段。例如，如果某个阶段相关状态为“关闭”，当您的文档达到这个阶段，它会自动关闭。"
 
 #. module: project
 #: view:project.task:0
@@ -1348,7 +1348,7 @@ msgstr "任务历史"
 #. module: project
 #: help:project.task.delegate,state:0
 msgid "New state of your own task. Pending will be reopened automatically when the delegated task is closed"
-msgstr "你的任务进入了新的阶段。等待状态将在分派的任务结束后重启任务"
+msgstr "您的任务进入了新的阶段。等待状态将在分派的任务结束后重启任务"
 
 #. module: project
 #: help:project.config.settings,group_manage_delegation_task:0
@@ -1534,7 +1534,7 @@ msgstr "合计"
 #. module: project
 #: model:process.node,note:project.process_node_taskbydelegate0
 msgid "Delegate your task to the other user"
-msgstr "委派你的任务给其它用户"
+msgstr "委派您的任务给其它用户"
 
 #. module: project
 #: model:mail.message.subtype,description:project.mt_task_started
@@ -1600,7 +1600,7 @@ msgid "This allows you to transfer the entries under tasks defined for Project M
 "                the timesheet line entries for particular date and user, with the effect of creating,\n"
 "                editing and deleting either ways.\n"
 "                This installs the module project_timesheet."
-msgstr "允许你将用于项目管理的任务下的条目转移到时间表下的条目，特别是时间和用户。这将影响无论哪种方式生成、编辑、删除\n"
+msgstr "允许您将用于项目管理的任务下的条目转移到时间表下的条目，特别是时间和用户。这将影响无论哪种方式生成、编辑、删除\n"
 "这会安装项目时间表模块"
 
 #. module: project
@@ -1676,7 +1676,7 @@ msgid "<p class=\"oe_view_nocontent_create\">\n"
 msgstr "<p class=\"oe_view_nocontent_create\">\n"
 "                点击生成新任务.\n"
 "              </p><p>\n"
-"                OE的项目管理允许你管理任务流水线，这可提高工作效率。你可以跟踪过程、讨论问题、添加附件文档等.\n"
+"                OE的项目管理允许您管理任务流水线，这可提高工作效率。您可以跟踪过程、讨论问题、添加附件文档等.\n"
 "              </p>\n"
 "            "
 
@@ -1933,7 +1933,7 @@ msgstr "一月"
 #. module: project
 #: field:project.task.delegate,prefix:0
 msgid "Your Task Title"
-msgstr "你的任务主题"
+msgstr "您的任务主题"
 
 #. module: project
 #: view:project.task.reevaluate:0
@@ -2067,7 +2067,7 @@ msgstr "任务工作"
 #. module: project
 #: help:project.task.delegate,planned_hours_me:0
 msgid "Estimated time for you to validate the work done by the user to whom you delegate this task"
-msgstr "你复核分派任务的工作成果需要的工时数"
+msgstr "您复核分派任务的工作成果需要的工时数"
 
 #. module: project
 #: view:report.project.task.user:0

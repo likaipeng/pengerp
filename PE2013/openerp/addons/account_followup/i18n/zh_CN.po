@@ -406,17 +406,17 @@ msgstr "输入序列用于显示催款列表"
 #. module: account_followup
 #: view:account_followup.followup.line:0
 msgid ": User's Company Name"
-msgstr ": User's Company Name"
+msgstr ": 用户的公司名称"
 
 #. module: account_followup
 #: model:ir.actions.act_window,name:account_followup.action_account_followup_definition_form
 msgid "Payment Follow-ups"
-msgstr "Payment Follow-ups"
+msgstr "客户款项催收"
 
 #. module: account_followup
 #: field:account_followup.followup.line,delay:0
 msgid "Due Days"
-msgstr "Due Days"
+msgstr "逾期天数"
 
 #. module: account_followup
 #: field:account.move.line,followup_line_id:0
@@ -603,7 +603,7 @@ msgstr "Print overdue payments report independent of follow-up line"
 #. module: account_followup
 #: help:account_followup.print,date:0
 msgid "This field allow you to select a forecast date to plan your follow-ups"
-msgstr "这字段允许你选择一个预定计划日期去催款"
+msgstr "这字段允许您选择一个预定计划日期去催款"
 
 #. module: account_followup
 #: field:account_followup.print,date:0
@@ -707,7 +707,7 @@ msgstr "When processing, it will set the manual action to be taken for that cust
 msgid "Below is the history of the transactions of this\n"
 "                            customer. You can check \"No Follow-up\" in\n"
 "                            order to exclude it from the next follow-up actions."
-msgstr "下面是该客户的历史交易。你可以通过选中 \"无催收款项\" 将其从催款行动中排除。\n"
+msgstr "下面是该客户的历史交易。您可以通过选中 \"无催收款项\" 将其从催款行动中排除。\n"
 
 #. module: account_followup
 #: view:res.partner:0
@@ -906,7 +906,7 @@ msgstr "最高催款等级"
 #. module: account_followup
 #: help:account_followup.print,test_print:0
 msgid "Check if you want to print follow-ups without changing follow-up level."
-msgstr "如果你想不变更催款等级就打印催收项目，就选中它。"
+msgstr "如果您想不变更催款等级就打印催收项目，就选中它。"
 
 #. module: account_followup
 #: model:ir.ui.menu,name:account_followup.menu_finance_followup
@@ -1013,7 +1013,7 @@ msgstr "\n"
 #. module: account_followup
 #: help:account_followup.print,partner_lang:0
 msgid "Do not change message text, if you want to send email in partner language, or configure from company"
-msgstr "如果你想按合作伙伴语言发送电子邮件，请配置公司语言不要改变消息的文本."
+msgstr "如果您想按合作伙伴语言发送电子邮件，请配置公司语言不要改变消息的文本."
 
 #. module: account_followup
 #: view:account_followup.followup.line:0

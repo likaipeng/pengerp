@@ -35,7 +35,7 @@ msgid ""
 "in the sales cycle by helping them to ask the right questions. The "
 "segmentation tool allows you to automatically assign a partner to a category "
 "according to his answers to the different questionnaires."
-msgstr "你能建立特定主題的問卷調查去指導你的團隊在銷售週期向客戶詢問合適的問題。這細分工具能根據不同問題的答案自動劃分業務夥伴到不同的類型。"
+msgstr "您能建立特定主題的問卷調查去指導您的團隊在銷售週期向客戶詢問合適的問題。這細分工具能根據不同問題的答案自動劃分業務夥伴到不同的類型。"
 
 #. module: crm_profiling
 #: field:crm_profiling.answer,question_id:0
@@ -135,7 +135,7 @@ msgid ""
 "Check                             this box if you want to use this tab as "
 "part of the                              segmentation rule. If not checked, "
 "the criteria beneath will be ignored"
-msgstr "勾選這選項，如果你想使用這標籤作為細分規則的一部分。如果勾選，這規則將被忽略"
+msgstr "勾選這選項，如果您想使用這標籤作為細分規則的一部分。如果勾選，這規則將被忽略"
 
 #. module: crm_profiling
 #: field:crm.segmentation,profiling_active:0

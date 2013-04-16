@@ -10,7 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2013-03-07 08:38+0000\n"
 "PO-Revision-Date: 2012-12-21 23:00+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language-Team: Chinese (Simplified) <lkp@likaipeng.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -196,7 +196,7 @@ msgid ""
 "the destination of the relationship."
 msgstr ""
 "从相关单据模型中选择目标字段。\n"
-"如果这是个关系型字段，你可以选择关系型字段的目标字段。"
+"如果这是个关系型字段，您可以选择关系型字段的目标字段。"
 
 #. module: email_template
 #: view:email.template:0
@@ -479,7 +479,7 @@ msgstr "默认值"
 msgid ""
 "You may attach files to this template, to be added to all emails created "
 "from this template"
-msgstr "你可以对这个模版附加文件，可以附加到所有基于此模版生成的邮件中"
+msgstr "您可以对这个模版附加文件，可以附加到所有基于此模版生成的邮件中"
 
 #. module: email_template
 #: help:email.template,body_html:0

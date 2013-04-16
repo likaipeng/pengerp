@@ -1202,14 +1202,14 @@ msgstr "預期結束日期"
 msgid ""
 "If the active field is set to true, it will allow you to hide the sales team "
 "without removing it."
-msgstr "如果啟用欄位設為真，它將允許你隱藏銷售團隊而不需要刪除它。"
+msgstr "如果啟用欄位設為真，它將允許您隱藏銷售團隊而不需要刪除它。"
 
 #. module: crm
 #: help:crm.case.stage,case_default:0
 msgid ""
 "If you check this field, this stage will be proposed by default on each "
 "sales team. It will not assign this stage to existing teams."
-msgstr "如果你勾選了這裡，這個階段會作為每個銷售團隊的預設階段。對已有的銷售團隊無效。"
+msgstr "如果您勾選了這裡，這個階段會作為每個銷售團隊的預設階段。對已有的銷售團隊無效。"
 
 #. module: crm
 #: help:crm.case.stage,type:0
@@ -1229,7 +1229,7 @@ msgstr ""
 msgid ""
 "Check if you want to use this tab as part of the segmentation rule. If not "
 "checked, the criteria beneath will be ignored"
-msgstr "勾選此項, 如果你要使用此標籤上的細分規則. 如果不選下面的條件將被忽略"
+msgstr "勾選此項, 如果您要使用此標籤上的細分規則. 如果不選下面的條件將被忽略"
 
 #. module: crm
 #: field:crm.segmentation,state:0
@@ -1453,7 +1453,7 @@ msgstr "分類"
 #. module: crm
 #: constraint:crm.case.section:0
 msgid "Error ! You cannot create recursive Sales team."
-msgstr "錯誤！你不能建立循環引用的的銷售團隊"
+msgstr "錯誤！您不能建立循環引用的的銷售團隊"
 
 #. module: crm
 #: selection:crm.opportunity2phonecall,action:0
@@ -1481,7 +1481,7 @@ msgid ""
 "mainly used by the sales manager in order to do the periodic review with the "
 "teams of the sales pipeline."
 msgstr ""
-"商機分析給你隨時訪問商機的資訊如：預期收入、計劃成本、錯過的最後時限或者每個商機的互動次數。這個報表主要給銷售經理定期審查這團隊裡的業務人員。"
+"商機分析給您隨時訪問商機的資訊如：預期收入、計劃成本、錯過的最後時限或者每個商機的互動次數。這個報表主要給銷售經理定期審查這團隊裡的業務人員。"
 
 #. module: crm
 #: field:crm.case.categ,name:0
@@ -2342,7 +2342,7 @@ msgid ""
 "on their phone calls. You can group or filter the information according to "
 "several criteria and drill down the information, by adding more groups in "
 "the report."
-msgstr "在這報表中，你能分析你的銷售團隊在電訪上的業績。你能在報表新增更多的群組以根據數個條件來分類或篩選資訊並深入分析資訊。"
+msgstr "在這報表中，您能分析您的銷售團隊在電訪上的業績。您能在報表新增更多的群組以根據數個條件來分類或篩選資訊並深入分析資訊。"
 
 #. module: crm
 #: field:crm.case.stage,fold:0

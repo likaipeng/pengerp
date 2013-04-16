@@ -89,7 +89,7 @@ msgstr "西班牙文 (PY) / Español (PY)"
 msgid ""
 "Helps you manage your projects and tasks by tracking them, generating "
 "plannings, etc..."
-msgstr "幫助你管理專案，追蹤任務，生成計劃"
+msgstr "幫助您管理專案，追蹤任務，生成計劃"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_point_of_sale

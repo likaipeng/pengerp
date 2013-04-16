@@ -194,7 +194,7 @@ msgstr "已確認明細不能再做任何更改."
 #. module: account_bank_statement_extensions
 #: view:cancel.statement.line:0
 msgid "Are you sure you want to cancel the selected Bank Statement lines ?"
-msgstr "你確定要刪除選定的銀行對帳單明細 ?"
+msgstr "您確定要刪除選定的銀行對帳單明細 ?"
 
 #. module: account_bank_statement_extensions
 #: report:bank.statement.balance.report:0
@@ -264,7 +264,7 @@ msgstr "搜尋銀行交易"
 #. module: account_bank_statement_extensions
 #: view:confirm.statement.line:0
 msgid "Are you sure you want to confirm the selected Bank Statement lines ?"
-msgstr "你確定要確認所選定的銀行對帳單明細 ?"
+msgstr "您確定要確認所選定的銀行對帳單明細 ?"
 
 #. module: account_bank_statement_extensions
 #: help:account.bank.statement.line,globalisation_id:0

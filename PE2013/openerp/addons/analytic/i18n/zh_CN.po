@@ -10,7 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2013-03-07 08:37+0000\n"
 "PO-Revision-Date: 2012-12-21 23:00+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language-Team: Chinese (Simplified) <lkp@likaipeng.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -149,7 +149,7 @@ msgstr "未读消息"
 #. module: analytic
 #: constraint:account.analytic.account:0
 msgid "Error! You cannot create recursive analytic accounts."
-msgstr "错误！你不能循环创建辅助核算项"
+msgstr "错误！您不能循环创建辅助核算项"
 
 #. module: analytic
 #: field:account.analytic.account,company_id:0
@@ -193,7 +193,7 @@ msgid ""
 "currencies, for example."
 msgstr ""
 "如果选择公司，请注意保持成本科目货币与公司货币一致。\n"
-"针对视图类型的成本科目，你可以把公司字段留空，并修改币种。这样你就可以把多个公司不同货币的成本科目合并起来。"
+"针对视图类型的成本科目，您可以把公司字段留空，并修改币种。这样您就可以把多个公司不同货币的成本科目合并起来。"
 
 #. module: analytic
 #: field:account.analytic.account,message_is_follower:0

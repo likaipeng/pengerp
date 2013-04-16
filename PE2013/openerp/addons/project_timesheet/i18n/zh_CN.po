@@ -10,7 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2013-03-07 08:38+0000\n"
 "PO-Revision-Date: 2013-01-07 14:36+0000\n"
 "Last-Translator: 盈通 ccdos <ccdos@163.com>\n"
-"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language-Team: Chinese (Simplified) <lkp@likaipeng.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -43,7 +43,7 @@ msgstr "有关的时间ID"
 msgid ""
 "You cannot delete a partner which is assigned to project, but you can "
 "uncheck the active box."
-msgstr "你不能删除被指派给项目的合作伙伴，但你能不选中“可用”。"
+msgstr "您不能删除被指派给项目的合作伙伴，但您能不选中“可用”。"
 
 #. module: project_timesheet
 #: model:ir.model,name:project_timesheet.model_project_task_work
@@ -55,7 +55,7 @@ msgstr "任务进度"
 #, python-format
 msgid ""
 "You cannot select a Analytic Account which is in Close or Cancelled state."
-msgstr "你不能选择关闭或者取消状态的辅助核算项"
+msgstr "您不能选择关闭或者取消状态的辅助核算项"
 
 #. module: project_timesheet
 #: view:report.timesheet.task.user:0
@@ -93,7 +93,7 @@ msgstr ""
 "<p class=\"oe_view_nocontent_create\">\n"
 "               单击添加 客户合同 联系人。\n"
 "              </p><p>\n"
-"                为了跟踪开票进程，你将在这里找到跟客户项目相关的合同.\n"
+"                为了跟踪开票进程，您将在这里找到跟客户项目相关的合同.\n"
 "              </p>\n"
 "            "
 
@@ -230,8 +230,8 @@ msgid ""
 "            "
 msgstr ""
 "<p>\n"
-"                你可以在这里找到为了合同而产生的计工单和采购，并可以由此重开发票给客人。\n"
-"                如果你要记录新的任务到发票，你必须使用计工单菜单替代。\n"
+"                您可以在这里找到为了合同而产生的计工单和采购，并可以由此重开发票给客人。\n"
+"                如果您要记录新的任务到发票，您必须使用计工单菜单替代。\n"
 "              </p>\n"
 "            "
 
@@ -288,13 +288,13 @@ msgstr "report.timesheet.task.user"
 #. module: project_timesheet
 #: model:process.transition,note:project_timesheet.process_transition_taskencoding0
 msgid "Encode how much time u spent on your task"
-msgstr "输入你在此任务上花费的工时"
+msgstr "输入您在此任务上花费的工时"
 
 #. module: project_timesheet
 #: code:addons/project_timesheet/project_timesheet.py:85
 #, python-format
 msgid "Please define employee for user \"%s\". You must create one."
-msgstr "请为用户 \"%s\"定义员工。你必须创建一个。"
+msgstr "请为用户 \"%s\"定义员工。您必须创建一个。"
 
 #. module: project_timesheet
 #: model:ir.model,name:project_timesheet.model_res_partner
@@ -401,7 +401,7 @@ msgstr "月份"
 msgid ""
 "<p class=\"oe_view_nocontent_create\">Record your timesheets for the project "
 "'%s'.</p>"
-msgstr "<p class=\"oe_view_nocontent_create\">记录你为项目所做的计工单 '%s'.</p>"
+msgstr "<p class=\"oe_view_nocontent_create\">记录您为项目所做的计工单 '%s'.</p>"
 
 #. module: project_timesheet
 #: field:report.timesheet.task.user,timesheet_hrs:0

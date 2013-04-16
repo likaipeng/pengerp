@@ -10,7 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2013-03-07 08:38+0000\n"
 "PO-Revision-Date: 2012-12-21 23:00+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language-Team: Chinese (Simplified) <lkp@likaipeng.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -36,7 +36,7 @@ msgstr "分组..."
 #. module: crm_helpdesk
 #: help:crm.helpdesk,email_from:0
 msgid "Destination email for email gateway"
-msgstr ""
+msgstr "邮件网关的目标邮件"
 
 #. module: crm_helpdesk
 #: selection:crm.helpdesk.report,month:0
@@ -106,7 +106,7 @@ msgstr "已取消"
 #. module: crm_helpdesk
 #: help:crm.helpdesk,message_unread:0
 msgid "If checked new messages require your attention."
-msgstr "如果要求你关注新消息，勾选此项"
+msgstr "如果要求您关注新消息，勾选此项"
 
 #. module: crm_helpdesk
 #: model:ir.actions.act_window,name:crm_helpdesk.action_report_crm_helpdesk
@@ -128,7 +128,7 @@ msgstr "关联"
 #. module: crm_helpdesk
 #: field:crm.helpdesk,date_action_next:0
 msgid "Next Action"
-msgstr "下一动作"
+msgstr "下一步行动"
 
 #. module: crm_helpdesk
 #: help:crm.helpdesk,message_summary:0
@@ -275,7 +275,7 @@ msgstr "无主题"
 #. module: crm_helpdesk
 #: view:crm.helpdesk:0
 msgid "Cancel Case"
-msgstr ""
+msgstr "取消服务请求"
 
 #. module: crm_helpdesk
 #: view:crm.helpdesk:0
@@ -283,6 +283,7 @@ msgid ""
 "Helpdesk requests that are assigned to me or to one of the sale teams I "
 "manage"
 msgstr ""
+"分配给我的或者我所管理的销售团队的成员的服务台请求。"
 
 #. module: crm_helpdesk
 #: view:crm.helpdesk.report:0
@@ -297,7 +298,7 @@ msgstr "所有暂停的服务请求"
 #. module: crm_helpdesk
 #: view:crm.helpdesk:0
 msgid "Close Case"
-msgstr ""
+msgstr "关闭服务请求"
 
 #. module: crm_helpdesk
 #: view:crm.helpdesk.report:0
@@ -452,6 +453,15 @@ msgid ""
 "              </p>\n"
 "            "
 msgstr ""
+"<p class=\"oe_view_nocontent_create\">\n"
+"                点击创建新的客户服务和支持请求。\n"
+"              </p><p>\n"
+"                服务台和支持功能允许您跟踪管理您的产品售后问题处理情况。\n"
+"              </p><p>\n"
+"                使用 PengERP 的客户问题管理系统来跟踪管理您的售后支持工作。售后问题可以关联到邮件网关：\n"
+"                新的邮件可以创建客户问题，每一个问题都将自动获取与之关联的客户的问题处理情况。\n"
+"              </p>\n"
+"            "
 
 #. module: crm_helpdesk
 #: field:crm.helpdesk,planned_revenue:0
@@ -494,6 +504,7 @@ msgid ""
 "Responsible sales team. Define Responsible user and Email account for mail "
 "gateway."
 msgstr ""
+"负责的销售团队。为邮件网关定义负责人用户和邮件账号。"
 
 #. module: crm_helpdesk
 #: selection:crm.helpdesk.report,month:0
@@ -656,6 +667,10 @@ msgid ""
 "        \n"
 "If the case needs to be reviewed then the status is set to 'Pending'."
 msgstr ""
+"当服务请求创建时，状态为'草稿'。\n"
+"如果该服务请求在处理中，则状态变为'启动'。\n"
+"当服务请求结束，状态为变为'完成'。\n"
+"如果服务请求需要被审查，则状态变为'待处理'。"
 
 #. module: crm_helpdesk
 #: help:crm.helpdesk,message_ids:0
@@ -667,7 +682,7 @@ msgstr "信息和通讯记录"
 msgid ""
 "Create and manage helpdesk categories to better manage and classify your "
 "support requests."
-msgstr "创建和管理服务台类型去更好管理和分类你的支持的请求"
+msgstr "创建和管理服务台类型去更好管理和分类您的支持的请求"
 
 #. module: crm_helpdesk
 #: view:crm.helpdesk:0
@@ -695,7 +710,7 @@ msgstr "销售团队"
 #. module: crm_helpdesk
 #: field:crm.helpdesk,date_action_last:0
 msgid "Last Action"
-msgstr "最近动作"
+msgstr "最近行动"
 
 #. module: crm_helpdesk
 #: view:crm.helpdesk:0

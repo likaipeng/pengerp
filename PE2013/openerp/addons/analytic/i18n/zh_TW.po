@@ -192,7 +192,7 @@ msgid ""
 "currencies, for example."
 msgstr ""
 "如果選擇公司，請注意保持成本科目貨幣與公司貨幣一致。\n"
-"針對視圖類型的成本科目，你可以把公司字段留空，並修改幣種。這樣你就可以把多個公司不同貨幣的成本科目合併起來。"
+"針對視圖類型的成本科目，您可以把公司字段留空，並修改幣種。這樣您就可以把多個公司不同貨幣的成本科目合併起來。"
 
 #. module: analytic
 #: field:account.analytic.account,message_is_follower:0

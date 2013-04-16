@@ -10,7 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2013-03-07 08:37+0000\n"
 "PO-Revision-Date: 2012-12-21 23:00+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language-Team: Chinese (Simplified) <lkp@likaipeng.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -109,7 +109,7 @@ msgstr "可库存的物料或消耗品"
 #: help:mrp.production,message_unread:0
 #: help:mrp.production.workcenter.line,message_unread:0
 msgid "If checked new messages require your attention."
-msgstr "如果要求你关注新消息，勾选此项"
+msgstr "如果要求您关注新消息，勾选此项"
 
 #. module: mrp
 #: help:mrp.routing.workcenter,cycle_nbr:0
@@ -256,7 +256,7 @@ msgstr ""
 "<p class=\"oe_view_nocontent_create\">\n"
 "               单击 创建工艺路线.\n"
 "              </p><p>\n"
-"                工艺路线允许你建立和管理为生产产品而在工作中心进行的 生产操作. \n"
+"                工艺路线允许您建立和管理为生产产品而在工作中心进行的 生产操作. \n"
 "                他们附加在定义了所需原材料的BOM中。\n"
 "              </p>\n"
 "            "
@@ -341,7 +341,7 @@ msgstr "产品生产"
 #. module: mrp
 #: constraint:mrp.bom:0
 msgid "Error ! You cannot create recursive BoM."
-msgstr "错误！你不能创建循环引用的物料清单。"
+msgstr "错误！您不能创建循环引用的物料清单。"
 
 #. module: mrp
 #: model:ir.model,name:mrp.model_mrp_routing_workcenter
@@ -400,7 +400,7 @@ msgstr "数量"
 msgid ""
 "Fill this product to easily track your production costs in the analytic "
 "accounting."
-msgstr "填入产品将更容易在辅助核算中跟踪你的生产成本。"
+msgstr "填入产品将更容易在辅助核算中跟踪您的生产成本。"
 
 #. module: mrp
 #: field:mrp.workcenter,product_id:0
@@ -495,7 +495,7 @@ msgstr ""
 "                点击创建一个新属性。\n"
 "              </p><p>\n"
 "                当同样的产品有不同的生产方式时，这里创建的属性就被用于选择制造产品的合适的物料清单。\n"
-"                你可以为每一个物料清单分配多个属性。\n"
+"                您可以为每一个物料清单分配多个属性。\n"
 "                当销售人员创建销售订单时，他们可以将销售订单与多个属性相关联，系统将按照需求自动选\n"
 "		 择要使用的物料清单进(BoM)。\n"
 "              </p>\n"
@@ -526,7 +526,7 @@ msgid ""
 "Keep empty if you produce at the location where the finished products are "
 "needed.Set a location if you produce at a fixed location. This can be a "
 "partner location if you subcontract the manufacturing operations."
-msgstr "如果你在本地生产这成品你需要留空"
+msgstr "如果您在本地生产这成品您需要留空"
 
 #. module: mrp
 #: view:board.board:0
@@ -647,7 +647,7 @@ msgid ""
 "                This installs the module stock_no_autopicking."
 msgstr ""
 "这个模块允许内部调拨处理提供原料给生产订单.\n"
-"                例如，管理你的供应商的生产制造（分包）.\n"
+"                例如，管理您的供应商的生产制造（分包）.\n"
 "                要做到这点，设置被分包的组装产品为\"No Auto-Picking\"\n"
 "                并且把供应商库位放进组装操作的工艺路线.\n"
 "                这要安装模块 stock_no_autopicking."
@@ -781,7 +781,7 @@ msgid ""
 "                    * Product Attributes.\n"
 "                This installs the module product_manufacturer."
 msgstr ""
-"允许你定义产品的下面内容：\n"
+"允许您定义产品的下面内容：\n"
 "               *生产商\n"
 "               *生产商产品名称\n"
 "               *生产商产品代码\n"
@@ -878,7 +878,7 @@ msgstr "补货规则"
 msgid ""
 "Fill this only if you want automatic analytic accounting entries on "
 "production orders."
-msgstr "如果你要自动在生成订单进行辅助核算，只需填入这里"
+msgstr "如果您要自动在生成订单进行辅助核算，只需填入这里"
 
 #. module: mrp
 #: view:mrp.production:0
@@ -919,7 +919,7 @@ msgstr "等待原材料的制造订单"
 msgid ""
 "The Product Unit of Measure you chose has a different category than in the "
 "product form."
-msgstr "你选择的计量单位跟产品表单的计量单位在不同的类别。"
+msgstr "您选择的计量单位跟产品表单的计量单位在不同的类别。"
 
 #. module: mrp
 #: model:ir.model,name:mrp.model_mrp_production
@@ -943,7 +943,7 @@ msgid ""
 "products on BoMs !"
 msgstr ""
 "所有的产品数量必须大于0。\n"
-"如果你要在BOM上面管理额外的产品，你要安装mrp_byproduct模块。"
+"如果您要在BOM上面管理额外的产品，您要安装mrp_byproduct模块。"
 
 #. module: mrp
 #: view:mrp.production:0
@@ -1383,7 +1383,7 @@ msgstr "移库单"
 msgid ""
 "Bill of Materials allow you to define the list of required raw materials to "
 "make a finished product."
-msgstr "BOM 允许你定义生产成品所需原料的列表。"
+msgstr "BOM 允许您定义生产成品所需原料的列表。"
 
 #. module: mrp
 #: code:addons/mrp/mrp.py:375
@@ -1509,7 +1509,7 @@ msgid ""
 "                within your work centers in order to produce a product. They "
 "are attached to bills of materials\n"
 "                that will define the required raw materials."
-msgstr "工艺路线允许你创建并管理制造工序。为了生产产品，这些工序被分配到工作中心。我们在定义原材料的BoM里可以设置工艺路线。"
+msgstr "工艺路线允许您创建并管理制造工序。为了生产产品，这些工序被分配到工作中心。我们在定义原材料的BoM里可以设置工艺路线。"
 
 #. module: mrp
 #: view:report.workcenter.load:0
@@ -1581,7 +1581,7 @@ msgstr "完成"
 #. module: mrp
 #: view:product.product:0
 msgid "When you sell this product, PengERP will trigger"
-msgstr "当你卖出这个产品时，Openerp 将触发"
+msgstr "当您卖出这个产品时，Openerp 将触发"
 
 #. module: mrp
 #: field:mrp.production,origin:0
@@ -1645,7 +1645,7 @@ msgstr ""
 "                该功能用于创建可以分配给物料清单和销售订单的属性组。属性组允许系统按照销\n"
 "		 售人员的销售订单中所选择的属性自动选择合适的物料清单。\n"
 "              </p><p>\n"
-"                例如，在属性组 \"保修期\"中，你可以有两个属性：,\n"
+"                例如，在属性组 \"保修期\"中，您可以有两个属性：,\n"
 "                1 年保修期;\n"
 "		 2 年保修期.\n"
 "		 依据销售订单中选择的属性，系统将使用与之相匹配的物料清单安排生产计划。\n"
@@ -1832,7 +1832,7 @@ msgid ""
 "This allows to add state, date_start,date_stop in production order operation "
 "lines (in the \"Work Centers\" tab).\n"
 "                This installs the module mrp_operations."
-msgstr "这允许你在生产指令操作行增加状态，开始日期，结束日期 （在“工作中心”标签）"
+msgstr "这允许您在生产指令操作行增加状态，开始日期，结束日期 （在“工作中心”标签）"
 
 #. module: mrp
 #: code:addons/mrp/mrp.py:737
@@ -1841,8 +1841,8 @@ msgid ""
 "You are going to consume total %s quantities of \"%s\".\n"
 "But you can only consume up to total %s quantities."
 msgstr ""
-"你要消耗总计 %s 的 \"%s\"。\n"
-"可是你最高只能消耗 %s 。"
+"您要消耗总计 %s 的 \"%s\"。\n"
+"可是您最高只能消耗 %s 。"
 
 #. module: mrp
 #: model:process.transition,note:mrp.process_transition_bom0
@@ -2093,7 +2093,7 @@ msgstr ""
 "<p class=\"oe_view_nocontent_create\">\n"
 "                点击创建BoM。\n"
 "              </p><p>\n"
-"                BoM允许你为制造一个产品而定义一组原材料；\n"
+"                BoM允许您为制造一个产品而定义一组原材料；\n"
 "                生产可通过生产订单或者产品包装来完成。\n"
 "              </p><p>\n"
 "                PengERP使用这些BoM，依据需求自动给出生产订单建议。\n"
@@ -2123,7 +2123,7 @@ msgid ""
 "                With this module: A + B + C -> D + E.\n"
 "                This installs the module mrp_byproduct."
 msgstr ""
-"你可以在BoM里配置副产品。\n"
+"您可以在BoM里配置副产品。\n"
 "                不安装该模块，只能做到: A + B + C -> D.\n"
 "                安装该模块后，可以做到: A + B + C -> D + E.\n"
 "                为此需要安装模块 mrp_byproduct."
@@ -2207,8 +2207,8 @@ msgid ""
 "You are going to produce total %s quantities of \"%s\".\n"
 "But you can only produce up to total %s quantities."
 msgstr ""
-"你要生产 %s 的 ”%s“。\n"
-"可你最多只能生产 %s"
+"您要生产 %s 的 ”%s“。\n"
+"可您最多只能生产 %s"
 
 #. module: mrp
 #: model:process.node,note:mrp.process_node_stockproduct0
@@ -2356,7 +2356,7 @@ msgid ""
 "product, it will be sold and shipped as a set of components, instead of "
 "being produced."
 msgstr ""
-"如果副产品被用在几个产品中，创建它自己的BoM就非常有用。如果你不要为副产品分割生产订单，，选择 "
+"如果副产品被用在几个产品中，创建它自己的BoM就非常有用。如果您不要为副产品分割生产订单，，选择 "
 "虚件作为BoM类型。如果虚件BoM被用在根产品上面，那么将作为一套组件销售和发运，而不是被生产。"
 
 #. module: mrp

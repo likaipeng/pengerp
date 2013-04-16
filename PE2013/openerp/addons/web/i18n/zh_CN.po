@@ -10,7 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2013-03-07 08:39+0000\n"
 "PO-Revision-Date: 2012-12-22 07:26+0000\n"
 "Last-Translator: 盈通 ccdos <ccdos@163.com>\n"
-"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language-Team: Chinese (Simplified) <lkp@likaipeng.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -59,7 +59,7 @@ msgstr "小于等于"
 #: code:addons/web/static/src/js/chrome.js:408
 #, python-format
 msgid "Please enter your previous password"
-msgstr "请输入你以前的密码："
+msgstr "请输入您以前的密码："
 
 #. module: web
 #. openerp-web
@@ -82,7 +82,7 @@ msgstr "更改主控密码"
 #: code:addons/web/static/src/js/chrome.js:507
 #, python-format
 msgid "Do you really want to delete the database: %s ?"
-msgstr "你确信要删除数据库: %s ?"
+msgstr "您确信要删除数据库: %s ?"
 
 #. module: web
 #. openerp-web
@@ -161,7 +161,7 @@ msgstr "文件"
 #: code:addons/web/controllers/main.py:822
 #, python-format
 msgid "You cannot leave any password empty."
-msgstr "你不能让任何密码为空。"
+msgstr "您不能让任何密码为空。"
 
 #. module: web
 #. openerp-web
@@ -596,7 +596,7 @@ msgstr "打印工作流"
 #: code:addons/web/static/src/js/chrome.js:411
 #, python-format
 msgid "Please confirm your new password"
-msgstr "请确认你的新密码"
+msgstr "请确认您的新密码"
 
 #. module: web
 #. openerp-web
@@ -1548,7 +1548,7 @@ msgstr "关闭"
 #, python-format
 msgid ""
 "You may not believe it,<br />but the application is actually loading..."
-msgstr "也许你不相信，<br />但是这个应用真的还在加载...."
+msgstr "也许您不相信，<br />但是这个应用真的还在加载...."
 
 #. module: web
 #. openerp-web
@@ -1626,6 +1626,13 @@ msgstr "删除数据库"
 #, python-format
 msgid "Powered by"
 msgstr "选择自由，选择"
+
+#. module: web
+#. openerp-web
+#: code:addons/web/static/src/xml/base.xml:82
+#, python-format
+msgid "LKP"
+msgstr "凯鹏"
 
 #. module: web
 #. openerp-web
@@ -2469,7 +2476,7 @@ msgstr "ID："
 #: code:addons/web/static/src/xml/base.xml:873
 #, python-format
 msgid "Only you"
-msgstr "仅用于你个人"
+msgstr "仅用于您个人"
 
 #. module: web
 #. openerp-web
@@ -2547,7 +2554,7 @@ msgstr "特殊："
 #, python-format
 msgid ""
 "The old password you provided is incorrect, your password was not changed."
-msgstr "你提供的原密码是错误的，密码没有改变"
+msgstr "您提供的原密码是错误的，密码没有改变"
 
 #. module: web
 #. openerp-web

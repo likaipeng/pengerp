@@ -10,7 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2013-03-07 08:39+0000\n"
 "PO-Revision-Date: 2012-12-21 23:00+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language-Team: Chinese (Simplified) <lkp@likaipeng.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -29,12 +29,12 @@ msgid ""
 "Minimum Required Answer you                                     entered is "
 "greater than the number of answer.                                      "
 "Please use a number that is smaller than %d."
-msgstr "你输入最小需要的答案数大于答案的总数。请用小于%d的数量。"
+msgstr "您输入最小需要的答案数大于答案的总数。请用小于%d的数量。"
 
 #. module: survey
 #: view:survey.question.wiz:0
 msgid "Your Messages"
-msgstr "你的消息"
+msgstr "您的消息"
 
 #. module: survey
 #: field:survey.question,comment_valid_type:0
@@ -181,7 +181,7 @@ msgid ""
 "#Required Answer you entered                                     is greater "
 "than the number of answer.                                     Please use a "
 "number that is smaller than %d."
-msgstr "你输入的需要的答案数大于答案的总数。请用小于%d的数量。"
+msgstr "您输入的需要的答案数大于答案的总数。请用小于%d的数量。"
 
 #. module: survey
 #: field:survey.question,tot_resp:0
@@ -205,7 +205,7 @@ msgid ""
 "Maximum Required Answer you                                     entered for "
 "your maximum is greater than the number of answer.                           "
 "           Please use a number that is smaller than %d."
-msgstr "你输入用于最多答案数的最多需要的答案数大于答案的总数。请用小于%d的数量。"
+msgstr "您输入用于最多答案数的最多需要的答案数大于答案的总数。请用小于%d的数量。"
 
 #. module: survey
 #: selection:survey.question,type:0
@@ -224,7 +224,7 @@ msgstr "为现有用户发送提醒"
 msgid ""
 "Maximum Required Answer you entered for your maximum is greater than the "
 "number of answer. Please use a number that is smaller than %d."
-msgstr "你输入用于最多答案数的最多需要的答案数大于答案的总数。请用小于%d的数量。"
+msgstr "您输入用于最多答案数的最多需要的答案数大于答案的总数。请用小于%d的数量。"
 
 #. module: survey
 #: model:ir.model,name:survey.model_survey_question
@@ -379,7 +379,7 @@ msgstr "菜单选项"
 msgid ""
 "You must enter one or more menu choices                                 in "
 "column heading."
-msgstr "你必须在列首输入一个或多个菜单选项"
+msgstr "您必须在列首输入一个或多个菜单选项"
 
 #. module: survey
 #: selection:survey.question,required_type:0
@@ -490,7 +490,7 @@ msgstr "未验证注释内容"
 #: code:addons/survey/survey.py:532
 #, python-format
 msgid "You must enter one or more menu choices in column heading."
-msgstr "你必须在列首输入一个或者多个菜单选择"
+msgstr "您必须在列首输入一个或者多个菜单选择"
 
 #. module: survey
 #: selection:survey.question,comment_valid_type:0
@@ -652,7 +652,7 @@ msgstr "错误消息"
 #: code:addons/survey/wizard/survey_answer.py:124
 #, python-format
 msgid "You cannot answer this survey more than %s times."
-msgstr "你不能回答这个调查超过 %s 次。"
+msgstr "您不能回答这个调查超过 %s 次。"
 
 #. module: survey
 #: field:survey.request,date_deadline:0
@@ -712,7 +712,7 @@ msgid ""
 "Maximum Required Answer you                                     entered for "
 "your maximum is greater than the number of answer.                           "
 "          Please use a number that is smaller than %d."
-msgstr "你输入的最多需要的答案数大于答案数。请用小于%d的数字。"
+msgstr "您输入的最多需要的答案数大于答案数。请用小于%d的数字。"
 
 #. module: survey
 #: view:survey:0
@@ -737,7 +737,7 @@ msgstr "选项"
 #: code:addons/survey/survey.py:436
 #, python-format
 msgid "You must enter one or more Answers for question \"%s\" of page %s."
-msgstr "你必须为提问 \"%s\" 输入一个或者多个答案（ %s页）。"
+msgstr "您必须为提问 \"%s\" 输入一个或者多个答案（ %s页）。"
 
 #. module: survey
 #: view:survey:0
@@ -834,7 +834,7 @@ msgstr "问题"
 #. module: survey
 #: help:survey,response_user:0
 msgid "Set to one if  you require only one Answer per user"
-msgstr "如果你需要每个用户只提供一份答案，把它设为1"
+msgstr "如果您需要每个用户只提供一份答案，把它设为1"
 
 #. module: survey
 #: code:addons/survey/survey.py:424
@@ -842,7 +842,7 @@ msgstr "如果你需要每个用户只提供一份答案，把它设为1"
 #, python-format
 msgid ""
 "You must enter one or more column headings for question \"%s\" of page %s."
-msgstr "你必须为提问 \"%s\" 输入一个或者多个列首（ %s页）。"
+msgstr "您必须为提问 \"%s\" 输入一个或者多个列首（ %s页）。"
 
 #. module: survey
 #: model:ir.model,name:survey.model_res_users
@@ -861,7 +861,7 @@ msgstr "消息"
 msgid ""
 "You must enter one or more menu                                 choices in "
 "column heading (white spaces not allowed)."
-msgstr "你必须在列首 输入一个或者多个菜单选择（不允许空白）。"
+msgstr "您必须在列首 输入一个或者多个菜单选择（不允许空白）。"
 
 #. module: survey
 #: field:survey.question,maximum_req_ans:0
@@ -1161,7 +1161,7 @@ msgstr "忽略"
 msgid ""
 "You must enter one or more menu choices in column heading (white spaces not "
 "allowed)."
-msgstr "你必须在列首 输入一个或者多个菜单选择（不允许空白）。"
+msgstr "您必须在列首 输入一个或者多个菜单选择（不允许空白）。"
 
 #. module: survey
 #: field:survey.print,paper_size:0
@@ -1353,7 +1353,7 @@ msgstr "已开始的文件总数"
 msgid ""
 "#Required Answer you entered is greater than the number of answer. Please "
 "use a number that is smaller than %d."
-msgstr "你输入的回复#大于回复的总数。请使用小于%d的数。"
+msgstr "您输入的回复#大于回复的总数。请使用小于%d的数。"
 
 #. module: survey
 #: help:survey,max_response_limit:0
@@ -1432,7 +1432,7 @@ msgstr "发送邀请"
 #: code:addons/survey/wizard/survey_selection.py:80
 #, python-format
 msgid "You cannot give response for this survey more than %s times."
-msgstr "你不能为回答这个调查多于 %s次。"
+msgstr "您不能为回答这个调查多于 %s次。"
 
 #. module: survey
 #: view:survey.question:0
@@ -1497,7 +1497,7 @@ msgstr "选择供应商"
 #: code:addons/survey/wizard/survey_answer.py:992
 #, python-format
 msgid "You cannot select same answer more than one time.'"
-msgstr "你不能选择相同的答案多余1次"
+msgstr "您不能选择相同的答案多余1次"
 
 #. module: survey
 #: code:addons/survey/survey.py:685
@@ -1511,7 +1511,7 @@ msgstr "无法复制资源！"
 msgid ""
 "Minimum Required Answer you entered is greater than the number of answer. "
 "Please use a number that is smaller than %d."
-msgstr "你输入的最少需要的答复大于答复总数。请用小于%d的数。"
+msgstr "您输入的最少需要的答复大于答复总数。请用小于%d的数。"
 
 #. module: survey
 #: view:survey:0
@@ -1541,7 +1541,7 @@ msgid ""
 "#Required Answer you entered is                                     greater "
 "than the number of answer.                                    Please use a "
 "number that is smaller than %d."
-msgstr "你输入的需要的答复#大于答复数量。请用小于%d的数。"
+msgstr "您输入的需要的答复#大于答复数量。请用小于%d的数。"
 
 #. module: survey
 #: selection:survey.print,paper_size:0
@@ -1640,7 +1640,7 @@ msgid ""
 "Minimum Required Answer                                     you entered is "
 "greater than the number of answer.                                    Please "
 "use a number that is smaller than %d."
-msgstr "你输入的最少需要的答复数大于答复总数。请用小于%d的数。"
+msgstr "您输入的最少需要的答复数大于答复总数。请用小于%d的数。"
 
 #. module: survey
 #: field:survey.answer,menu_choice:0
@@ -1765,7 +1765,7 @@ msgstr "表格(Table)"
 #: code:addons/survey/wizard/survey_answer.py:117
 #, python-format
 msgid "You cannot answer because the survey is not open."
-msgstr "你不能回答，因为调查还没开放。"
+msgstr "您不能回答，因为调查还没开放。"
 
 #. module: survey
 #: field:survey.question,comment_minimum_date:0

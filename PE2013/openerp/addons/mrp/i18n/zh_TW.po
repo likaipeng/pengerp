@@ -377,7 +377,7 @@ msgstr "數量"
 msgid ""
 "Fill this product to easily track your production costs in the analytic "
 "accounting."
-msgstr "填入此產品以便在分析會計中追蹤你的生產成本"
+msgstr "填入此產品以便在分析會計中追蹤您的生產成本"
 
 #. module: mrp
 #: field:mrp.workcenter,product_id:0

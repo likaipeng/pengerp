@@ -10,7 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2013-03-07 08:38+0000\n"
 "PO-Revision-Date: 2012-12-21 23:00+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language-Team: Chinese (Simplified) <lkp@likaipeng.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -56,9 +56,9 @@ msgid ""
 "                            plugins for your preferred email application."
 msgstr ""
 "PengERP允许从收到的Email 自动创建线索（或者其他单据）\n"
-"    你能自动通过Openerp使用 POP/IMAP 账户同\n"
-"    步 Email，为你 的服务器直接集成Email脚本，\n"
-"    或者通过插件，为你首选的Email 程序手动推送\n"
+"    您能自动通过Openerp使用 POP/IMAP 账户同\n"
+"    步 Email，为您 的服务器直接集成Email脚本，\n"
+"    或者通过插件，为您首选的Email 程序手动推送\n"
 "     email到Openerp。"
 
 #. module: base_setup
@@ -173,7 +173,7 @@ msgstr "允许 Outlook 插件"
 msgid ""
 "You can use this wizard to change the terminologies for customers in the "
 "whole application."
-msgstr "你用这个向导能在整个系统中用其他称谓来标识客户"
+msgstr "您用这个向导能在整个系统中用其他称谓来标识客户"
 
 #. module: base_setup
 #: selection:base.setup.terminology,partner:0
@@ -213,14 +213,14 @@ msgid ""
 "The public portal is accessible only if you are in a single database mode. "
 "You can\n"
 "                                    launch the PengERP Server with the option"
-msgstr "只用当你在 单数据库 模式时，公共门户才是可以访问的。你能用此选项运行 PengERP服务器。"
+msgstr "只用当您在 单数据库 模式时，公共门户才是可以访问的。您能用此选项运行 PengERP服务器。"
 
 #. module: base_setup
 #: view:base.config.settings:0
 msgid ""
 "You will find more options in your company details: address for the header "
 "and footer, overdue payments texts, etc."
-msgstr "你能在你的公司明细里找到多个选项：用于页首和页脚的地址，逾期支付文本等"
+msgstr "您能在您的公司明细里找到多个选项：用于页首和页脚的地址，逾期支付文本等"
 
 #. module: base_setup
 #: model:ir.model,name:base_setup.model_sale_config_settings
@@ -230,7 +230,7 @@ msgstr "sale.config.settings"
 #. module: base_setup
 #: field:base.setup.terminology,partner:0
 msgid "How do you call a Customer"
-msgstr "你如何称呼您的客户"
+msgstr "您如何称呼您的客户"
 
 #. module: base_setup
 #: view:base.config.settings:0
@@ -243,7 +243,7 @@ msgid ""
 "                                    read your company news, check his "
 "projects,\n"
 "                                    etc."
-msgstr "当你发送单据给客户（报价单，发票），你的可能能登录，获取他单据，阅读你的公司新闻，检查他的项目等。"
+msgstr "当您发送单据给客户（报价单，发票），您的可能能登录，获取他单据，阅读您的公司新闻，检查他的项目等。"
 
 #. module: base_setup
 #: model:ir.model,name:base_setup.model_base_setup_terminology
@@ -271,7 +271,7 @@ msgid ""
 "                Partner from the selected emails.\n"
 "                This installs the module plugin_thunderbird."
 msgstr ""
-"插件允许把你的email和附件存档到Openerp对象。你能选择一个业务伙伴、或者线索，并 选择邮件存为 .eml 文件 附加到在选中记录的附件中。\n"
+"插件允许把您的email和附件存档到Openerp对象。您能选择一个业务伙伴、或者线索，并 选择邮件存为 .eml 文件 附加到在选中记录的附件中。\n"
 "\n"
 "为此要安装模块 plugin_thunderbird."
 
@@ -302,7 +302,7 @@ msgid ""
 "                email into an PengERP mail message with attachments.\n"
 "                This installs the module plugin_outlook."
 msgstr ""
-"Outlook 插件允许你把 邮件和它附件添加到你选择对象里。 你能选择一个业务伙伴或者线索 对象，并且把选择的邮件存档到一个带附件的 Openerp "
+"Outlook 插件允许您把 邮件和它附件添加到您选择对象里。 您能选择一个业务伙伴或者线索 对象，并且把选择的邮件存档到一个带附件的 Openerp "
 "邮件消息中。\n"
 "为此要安装模块plugin_outlook."
 
@@ -352,7 +352,7 @@ msgstr "集成社交网络"
 #. module: base_setup
 #: help:base.config.settings,module_portal:0
 msgid "Give your customers access to their documents."
-msgstr "让你的客户访问他们的单据"
+msgstr "让您的客户访问他们的单据"
 
 #. module: base_setup
 #: view:base.config.settings:0

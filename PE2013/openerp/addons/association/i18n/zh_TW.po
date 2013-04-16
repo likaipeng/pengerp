@@ -111,7 +111,7 @@ msgstr "讓您能夠創建維基(wiki)頁面和頁面組來追蹤業務知識並
 msgid ""
 "Helps you manage your projects and tasks by tracking them, generating "
 "plannings, etc..."
-msgstr "幫助你管理專案，追蹤任務，生成計劃"
+msgstr "幫助您管理專案，追蹤任務，生成計劃"
 
 #. module: association
 #: model:ir.model,name:association.model_profile_association_config_install_modules_wizard

@@ -10,7 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2013-03-07 08:37+0000\n"
 "PO-Revision-Date: 2012-12-21 23:00+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language-Team: Chinese (Simplified) <lkp@likaipeng.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -146,7 +146,7 @@ msgstr "根据计工单"
 #: code:addons/hr_timesheet_sheet/hr_timesheet_sheet.py:397
 #, python-format
 msgid "You cannot modify an entry in a confirmed timesheet."
-msgstr "你不能修改已提交工时表中的条目。"
+msgstr "您不能修改已提交工时表中的条目。"
 
 #. module: hr_timesheet_sheet
 #: view:hr.timesheet.report:0
@@ -203,7 +203,7 @@ msgstr "请创建一个员工并将其它与该用户关联起来。"
 #, python-format
 msgid ""
 "You cannot enter an attendance date outside the current timesheet dates."
-msgstr "你不能输入走出当前工时表日期范围的出勤日期。"
+msgstr "您不能输入走出当前工时表日期范围的出勤日期。"
 
 #. module: hr_timesheet_sheet
 #: code:addons/hr_timesheet_sheet/hr_timesheet_sheet.py:205
@@ -221,8 +221,8 @@ msgid ""
 "the user and can be validated by his manager. If required, as defined on the "
 "project, you can generate the invoices based on the timesheet."
 msgstr ""
-"用\"我的计工单\"菜单开启您的计工单所以您能在系统预定你的活动。用相同方式，您能记录您的考勤（签入/签出）同时记录在不同项目的工作时间。在公司定义的期末"
-"，确认用户的计工单和经由经理使其生效。如果需要，可以定义为一个项目，你能给这计工单开发票。"
+"用\"我的计工单\"菜单开启您的计工单所以您能在系统预定您的活动。用相同方式，您能记录您的考勤（签入/签出）同时记录在不同项目的工作时间。在公司定义的期末"
+"，确认用户的计工单和经由经理使其生效。如果需要，可以定义为一个项目，您能给这计工单开发票。"
 
 #. module: hr_timesheet_sheet
 #: field:hr_timesheet_sheet.sheet,message_ids:0
@@ -296,7 +296,7 @@ msgstr ""
 msgid ""
 "In order to create a timesheet for this employee, you must assign it to a "
 "user."
-msgstr "要创建该员工的工时表，你就必须把它分配给一个用户。"
+msgstr "要创建该员工的工时表，您就必须把它分配给一个用户。"
 
 #. module: hr_timesheet_sheet
 #: model:process.node,note:hr_timesheet_sheet.process_node_attendance0
@@ -557,7 +557,7 @@ msgid ""
 "You will be able to register your working hours and\n"
 "                        activities."
 msgstr ""
-"你将可以记录你的工时和活动。"
+"您将可以记录您的工时和活动。"
 
 #. module: hr_timesheet_sheet
 #: view:hr.timesheet.current.open:0
@@ -628,7 +628,7 @@ msgstr ""
 "<p class=\"oe_view_nocontent_create\">\n"
 "                新的待审核工时表。\n"
 "              </p><p>\n"
-"                你必须每天都记录工时表并且在周末提交工时表。工时表一旦提交就需要经理审核。\n"
+"                您必须每天都记录工时表并且在周末提交工时表。工时表一旦提交就需要经理审核。\n"
 "              </p><p>\n"
 "                Timesheets can also be invoiced to customers, depending on "
 "the\n"
@@ -763,7 +763,7 @@ msgstr "总计"
 #: code:addons/hr_timesheet_sheet/hr_timesheet_sheet.py:215
 #, python-format
 msgid "You cannot delete a timesheet which have attendance entries."
-msgstr "你不能删除有考勤记录的工时表。"
+msgstr "您不能删除有考勤记录的工时表。"
 
 #. module: hr_timesheet_sheet
 #: view:hr_timesheet_sheet.sheet:0
@@ -777,7 +777,7 @@ msgid ""
 "You cannot have 2 timesheets that overlap!\n"
 "You should use the menu 'My Timesheet' to avoid this problem."
 msgstr ""
-"你不能有两个叠加的工时表！请使用'我的工时表' 来避免类似的问题。\n"
+"您不能有两个叠加的工时表！请使用'我的工时表' 来避免类似的问题。\n"
 
 #. module: hr_timesheet_sheet
 #: view:hr_timesheet_sheet.sheet:0
@@ -807,7 +807,7 @@ msgstr "查找辅助核算项"
 #: code:addons/hr_timesheet_sheet/hr_timesheet_sheet.py:428
 #, python-format
 msgid "You cannot modify an entry in a confirmed timesheet"
-msgstr "你不能修改确认后的工时表明细"
+msgstr "您不能修改确认后的工时表明细"
 
 #. module: hr_timesheet_sheet
 #: help:res.company,timesheet_max_difference:0
@@ -839,7 +839,7 @@ msgid ""
 "You cannot have 2 timesheets that overlap!\n"
 "Please use the menu 'My Current Timesheet' to avoid this problem."
 msgstr ""
-"你不能有两个叠加的工时表！请使用'我的工时表' 来避免类似的问题。\n"
+"您不能有两个叠加的工时表！请使用'我的工时表' 来避免类似的问题。\n"
 
 #. module: hr_timesheet_sheet
 #: view:hr.timesheet.current.open:0
@@ -939,7 +939,7 @@ msgstr "计工单明细"
 #: code:addons/hr_timesheet_sheet/hr_timesheet_sheet.py:213
 #, python-format
 msgid "You cannot delete a timesheet which is already confirmed."
-msgstr "你无法删除已经确认的工时表。"
+msgstr "您无法删除已经确认的工时表。"
 
 #. module: hr_timesheet_sheet
 #: view:hr.timesheet.report:0
@@ -1010,7 +1010,7 @@ msgstr "差异"
 #: code:addons/hr_timesheet_sheet/hr_timesheet_sheet.py:64
 #, python-format
 msgid "You cannot duplicate a timesheet."
-msgstr "你不能复制工时表。"
+msgstr "您不能复制工时表。"
 
 #. module: hr_timesheet_sheet
 #: selection:hr_timesheet_sheet.sheet,state_attendance:0
@@ -1036,7 +1036,7 @@ msgid ""
 "            "
 msgstr ""
 "<p>\n"
-"                该报表分析系统人力资源模块创建的工时表。它反映了员工的整体出勤情况，你也可以借助于搜索工具自由的组合。\n"
+"                该报表分析系统人力资源模块创建的工时表。它反映了员工的整体出勤情况，您也可以借助于搜索工具自由的组合。\n"
 "              </p>\n"
 "            "
 
@@ -1048,7 +1048,7 @@ msgstr "员工"
 #. module: hr_timesheet_sheet
 #: constraint:hr.analytic.timesheet:0
 msgid "You cannot modify an entry in a Confirmed/Done timesheet !"
-msgstr "你不能修改已确认或者完成的工时表中的明细！"
+msgstr "您不能修改已确认或者完成的工时表中的明细！"
 
 #. module: hr_timesheet_sheet
 #: model:process.node,note:hr_timesheet_sheet.process_node_timesheet0

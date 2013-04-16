@@ -10,7 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2013-03-07 08:38+0000\n"
 "PO-Revision-Date: 2013-01-04 11:31+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language-Team: Chinese (Simplified) <lkp@likaipeng.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -70,7 +70,7 @@ msgstr "添加谷歌文档..."
 msgid ""
 "This is the id of the template document, on google side. You can find it "
 "thanks to its URL:"
-msgstr "这是位于Google端的模板文档的 ID. 你可以通过其网址找到它:"
+msgstr "这是位于Google端的模板文档的 ID. 您可以通过其网址找到它:"
 
 #. module: google_docs
 #: model:ir.model,name:google_docs.model_google_docs_config
@@ -84,7 +84,7 @@ msgstr "配置Google文档模板"
 msgid ""
 "The user google credentials are not set yet. Contact your administrator for "
 "help."
-msgstr "用户 google 用户授权尚未被设定. 联系你的管理员以获得帮助."
+msgstr "用户 google 用户授权尚未被设定. 联系您的管理员以获得帮助."
 
 #. module: google_docs
 #: view:google.docs.config:0
@@ -102,7 +102,7 @@ msgstr ""
 #, python-format
 msgid ""
 "Your resource id is not correct. You can find the id in the google docs URL."
-msgstr "你的资源 id 不正确. 你可以在 Google 文档的URL中找到它."
+msgstr "您的资源 id 不正确. 您可以在 Google 文档的URL中找到它."
 
 #. module: google_docs
 #: code:addons/google_docs/google_docs.py:153
@@ -122,7 +122,7 @@ msgstr "Google 文档错误!"
 #: code:addons/google_docs/google_docs.py:83
 #, python-format
 msgid "Check your google configuration in Users/Users/Synchronization tab."
-msgstr "在Users/Users/Synchronization 标签中检查你的google 配置."
+msgstr "在Users/Users/Synchronization 标签中检查您的google 配置."
 
 #. module: google_docs
 #: model:ir.ui.menu,name:google_docs.menu_gdocs_config

@@ -10,7 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2013-03-07 08:38+0000\n"
 "PO-Revision-Date: 2012-12-21 23:00+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language-Team: Chinese (Simplified) <lkp@likaipeng.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -23,6 +23,7 @@ msgid ""
 "This stage is not visible, for example in status bar or kanban view, when "
 "there are no records in that stage to display."
 msgstr ""
+"当阶段中没有记录要显示时，该阶段是不可见的，例如在状态栏或者看板视图。"
 
 #. module: crm_claim
 #: field:crm.claim.report,nbr:0
@@ -50,7 +51,7 @@ msgstr "允许配置接收邮件服务器，并从接收的邮件里创建索赔
 #. module: crm_claim
 #: model:ir.model,name:crm_claim.model_crm_claim_stage
 msgid "Claim stages"
-msgstr ""
+msgstr "索赔阶段"
 
 #. module: crm_claim
 #: selection:crm.claim.report,month:0
@@ -91,6 +92,12 @@ msgid ""
 "              </p>\n"
 "            "
 msgstr ""
+"<p class=\"oe_view_nocontent_create\">\n"
+"                点击创建索赔分类。\n"
+"              </p><p>\n"
+"                创建索赔分类以便更好的管理和完善您的索赔管理。\n"
+"              </p>\n"
+"            "
 
 #. module: crm_claim
 #: view:crm.claim.report:0
@@ -149,7 +156,7 @@ msgstr "预防措施"
 #. module: crm_claim
 #: help:crm.claim,message_unread:0
 msgid "If checked new messages require your attention."
-msgstr "如果要求你关注新消息，勾选此项"
+msgstr "如果要求您关注新消息，勾选此项"
 
 #. module: crm_claim
 #: field:crm.claim.report,date_closed:0
@@ -270,7 +277,7 @@ msgstr "最低"
 #. module: crm_claim
 #: field:crm.claim,action_next:0
 msgid "Next Action"
-msgstr "下一动作"
+msgstr "下一步行动"
 
 #. module: crm_claim
 #: view:crm.claim.report:0
@@ -295,7 +302,7 @@ msgstr "已拒绝"
 #. module: crm_claim
 #: field:crm.claim,date_action_next:0
 msgid "Next Action Date"
-msgstr "下一动作日期"
+msgstr "下一步行动日期"
 
 #. module: crm_claim
 #: model:ir.actions.act_window,help:crm_claim.action_report_crm_claim
@@ -336,7 +343,7 @@ msgstr "日期"
 #. module: crm_claim
 #: help:crm.claim,email_from:0
 msgid "Destination email for email gateway."
-msgstr ""
+msgstr "邮件网关的目标邮件"
 
 #. module: crm_claim
 #: code:addons/crm_claim/crm_claim.py:194
@@ -356,7 +363,7 @@ msgstr ""
 #. module: crm_claim
 #: view:crm.claim:0
 msgid "Settle"
-msgstr ""
+msgstr "处理完毕"
 
 #. module: crm_claim
 #: model:ir.ui.menu,name:crm_claim.menu_claim_stage_view
@@ -427,7 +434,7 @@ msgstr "索赔年份"
 msgid ""
 "If you check this field, this stage will be proposed by default on each "
 "sales team. It will not assign this stage to existing teams."
-msgstr "如果你勾选了这里，这个阶段会作为每个销售团队的默认阶段。对已有的销售团队无效。"
+msgstr "如果您勾选了这里，这个阶段会作为每个销售团队的默认阶段。对已有的销售团队无效。"
 
 #. module: crm_claim
 #: field:crm.claim,categ_id:0
@@ -491,7 +498,7 @@ msgstr "客户抱怨"
 #. module: crm_claim
 #: view:crm.claim.stage:0
 msgid "Claim Stage"
-msgstr ""
+msgstr "索赔阶段"
 
 #. module: crm_claim
 #: view:crm.claim:0
@@ -525,7 +532,7 @@ msgstr "普通"
 #. module: crm_claim
 #: help:crm.claim.stage,sequence:0
 msgid "Used to order stages. Lower is better."
-msgstr ""
+msgstr "用于对阶段排序，越低越好。"
 
 #. module: crm_claim
 #: selection:crm.claim.report,month:0
@@ -567,6 +574,13 @@ msgid ""
 "              </p>\n"
 "            "
 msgstr ""
+"<p class=\"oe_view_nocontent_create\">\n"
+"                点击创建索赔处理流程中的阶段。\n"
+"              </p><p>\n"
+"                您可以创建索赔阶段以便于归类进入系统中的每一种索赔的状态。\n"
+"                这些阶段定义了解决索赔的必需的所有步骤.\n"
+"              </p>\n"
+"            "
 
 #. module: crm_claim
 #: help:crm.claim,state:0
@@ -604,6 +618,7 @@ msgid ""
 "Responsible sales team. Define Responsible user and Email account for mail "
 "gateway."
 msgstr ""
+"负责的销售团队。为邮件网关定义负责人用户和邮件账号。"
 
 #. module: crm_claim
 #: selection:crm.claim.report,month:0
@@ -624,7 +639,7 @@ msgstr "索赔日期"
 #. module: crm_claim
 #: field:crm.claim,message_summary:0
 msgid "Summary"
-msgstr ""
+msgstr "汇总"
 
 #. module: crm_claim
 #: model:ir.actions.act_window,name:crm_claim.crm_claim_categ_action
@@ -634,7 +649,7 @@ msgstr "索赔分类"
 #. module: crm_claim
 #: field:crm.claim.stage,case_default:0
 msgid "Common to All Teams"
-msgstr ""
+msgstr "所有团队通用"
 
 #. module: crm_claim
 #: view:crm.claim:0
@@ -673,7 +688,7 @@ msgstr "索赔"
 #. module: crm_claim
 #: view:crm.claim.report:0
 msgid "My Company"
-msgstr ""
+msgstr "我的公司"
 
 #. module: crm_claim
 #: view:crm.claim.report:0
@@ -769,7 +784,7 @@ msgstr "决定采取的行动"
 #. module: crm_claim
 #: field:crm.claim.stage,case_refused:0
 msgid "Refused stage"
-msgstr ""
+msgstr "拒绝阶段"
 
 #. module: crm_claim
 #: model:ir.actions.act_window,help:crm_claim.crm_case_categ_claim0
@@ -779,7 +794,7 @@ msgid ""
 "history for a claim (emails sent, intervention type and so on). Claims may "
 "automatically be linked to an email address using the mail gateway module."
 msgstr ""
-"记录和跟踪你客户的索赔，索赔可以链接到一个或很多销售订单中。你可以发送带附件的邮件和保留一个索赔的所有日志（邮件发送，介入类型等）。索赔可以自动链接到电子"
+"记录和跟踪您客户的索赔，索赔可以链接到一个或很多销售订单中。您可以发送带附件的邮件和保留一个索赔的所有日志（邮件发送，介入类型等）。索赔可以自动链接到电子"
 "邮件使用的网关。"
 
 #. module: crm_claim
@@ -826,22 +841,22 @@ msgstr "我的业务"
 #. module: crm_claim
 #: model:crm.claim.stage,name:crm_claim.stage_claim2
 msgid "Settled"
-msgstr ""
+msgstr "处理完毕"
 
 #. module: crm_claim
 #: help:crm.claim,message_ids:0
 msgid "Messages and communication history"
-msgstr ""
+msgstr "消息和通信记录"
 
 #. module: crm_claim
 #: field:sale.config.settings,fetchmail_claim:0
 msgid "Create claims from incoming mails"
-msgstr ""
+msgstr "为接收到的邮件创建索赔单"
 
 #. module: crm_claim
 #: field:crm.claim.stage,sequence:0
 msgid "Sequence"
-msgstr ""
+msgstr "队列"
 
 #. module: crm_claim
 #: view:crm.claim:0
@@ -876,8 +891,9 @@ msgid ""
 "Link between stages and sales teams. When set, this limitate the current "
 "stage to the selected sales teams."
 msgstr ""
+"阶段和销售团队之间的关联。当设置后，会将当前阶段限制到选中的销售团队。"
 
 #. module: crm_claim
 #: help:crm.claim.stage,case_refused:0
 msgid "Refused stages are specific stages for done."
-msgstr ""
+msgstr "拒绝阶段是一个特殊的完成阶段。"

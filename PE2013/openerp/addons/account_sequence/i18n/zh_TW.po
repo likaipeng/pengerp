@@ -147,4 +147,4 @@ msgstr "帳簿"
 #. module: account_sequence
 #: view:account.sequence.installer:0
 msgid "You can enhance the Account Sequence Application by installing ."
-msgstr "你可以用安裝的方式來擴充會計序列應用程式"
+msgstr "您可以用安裝的方式來擴充會計序列應用程式"

@@ -10,7 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2013-03-07 08:37+0000\n"
 "PO-Revision-Date: 2012-12-21 23:00+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language-Team: Chinese (Simplified) <lkp@likaipeng.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -123,7 +123,7 @@ msgstr "保存 RML 文件"
 #: field:base.report.file.sxw,file_sxw:0
 #: field:base.report.file.sxw,file_sxw_upload:0
 msgid "Your .SXW file"
-msgstr "你的.SXW文件"
+msgstr "您的.SXW文件"
 
 #. module: base_report_designer
 #: view:base_report_designer.installer:0
@@ -186,4 +186,4 @@ msgstr "ir.actions.report.xml"
 #. module: base_report_designer
 #: view:base.report.sxw:0
 msgid "Select your report"
-msgstr "选择你的报表"
+msgstr "选择您的报表"

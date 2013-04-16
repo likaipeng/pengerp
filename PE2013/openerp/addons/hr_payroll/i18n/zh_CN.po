@@ -10,7 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2013-03-07 08:37+0000\n"
 "PO-Revision-Date: 2012-12-21 23:00+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language-Team: Chinese (Simplified) <lkp@likaipeng.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -231,7 +231,7 @@ msgstr "其它信息"
 #. module: hr_payroll
 #: field:hr.config.settings,module_hr_payroll_account:0
 msgid "Link your payroll to accounting system"
-msgstr "连接你的工资单到会计系统"
+msgstr "连接您的工资单到会计系统"
 
 #. module: hr_payroll
 #: help:hr.payslip.line,amount_select:0
@@ -357,7 +357,7 @@ msgstr "适用这个规则的最大金额"
 msgid ""
 "Applied this rule for calculation if condition is true. You can specify "
 "condition like basic > 1000."
-msgstr "如果表达式为真，适用这个规则。你可以输入条件，例如 basic > 1000。"
+msgstr "如果表达式为真，适用这个规则。您可以输入条件，例如 basic > 1000。"
 
 #. module: hr_payroll
 #: report:contribution.register.lines:0
@@ -515,7 +515,7 @@ msgstr "警告！"
 msgid ""
 "If the active field is set to false, it will allow you to hide the salary "
 "rule without removing it."
-msgstr "如果去掉了“激活”这个字段上的勾，你可以不必删除就停用这个工资规则。"
+msgstr "如果去掉了“激活”这个字段上的勾，您可以不必删除就停用这个工资规则。"
 
 #. module: hr_payroll
 #: field:hr.payslip,state:0
@@ -1156,7 +1156,7 @@ msgid ""
 "This will be used to compute the % fields values; in general it is on basic, "
 "but you can also use categories code fields in lowercase as a variable names "
 "(hra, ma, lta, etc.) and the variable basic."
-msgstr "这个规则将用于计算%字段的值；一般来说是基数，你也可以用小写的分类编号作为一个变量名（hra，ma，lta等）作为可变的基数。"
+msgstr "这个规则将用于计算%字段的值；一般来说是基数，您也可以用小写的分类编号作为一个变量名（hra，ma，lta等）作为可变的基数。"
 
 #. module: hr_payroll
 #: selection:hr.contract,schedule_pay:0

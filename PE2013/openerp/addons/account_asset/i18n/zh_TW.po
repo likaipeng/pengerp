@@ -141,7 +141,7 @@ msgstr "折舊明細"
 #. module: account_asset
 #: help:account.asset.asset,salvage_value:0
 msgid "It is the amount you plan to have that you cannot depreciate."
-msgstr "這是你已計劃好的金額，你可以不折舊。"
+msgstr "這是您已計劃好的金額，您可以不折舊。"
 
 #. module: account_asset
 #: help:account.asset.asset,method_period:0
@@ -685,7 +685,7 @@ msgstr "名稱"
 msgid ""
 "Check this if you want to automatically confirm the assets of this category "
 "when created by invoices."
-msgstr "當你在建立發票時，如果你想要自動確認固定資產類別，必須先檢查這個"
+msgstr "當您在建立發票時，如果您想要自動確認固定資產類別，必須先檢查這個"
 
 #. module: account_asset
 #: field:asset.asset.report,name:0

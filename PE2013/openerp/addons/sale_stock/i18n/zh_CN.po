@@ -10,7 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2013-03-07 08:39+0000\n"
 "PO-Revision-Date: 2012-12-21 23:00+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language-Team: Chinese (Simplified) <lkp@likaipeng.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -55,7 +55,7 @@ msgid ""
 "Here is a proposition of quantities according to the packaging:\n"
 "EAN: %s Quantity: %s Type of ul: %s"
 msgstr ""
-"你选择了 %d 单位的数量。但它不兼容选定的包装。\n"
+"您选择了 %d 单位的数量。但它不兼容选定的包装。\n"
 "这是对应该包装的建议数量：EAN: %s ，  数量: %s， 单位类型: %s"
 
 #. module: sale_stock
@@ -83,7 +83,7 @@ msgstr ""
 #, python-format
 msgid ""
 "You must first cancel all delivery order(s) attached to this sales order."
-msgstr "你必须先取消这个销售订单附加的所有发运单。"
+msgstr "您必须先取消这个销售订单附加的所有发运单。"
 
 #. module: sale_stock
 #: model:process.transition,name:sale_stock.process_transition_saleprocurement0
@@ -119,7 +119,7 @@ msgstr "运送方式"
 msgid ""
 "You cannot make an advance on a sales order                      that is "
 "defined as 'Automatic Invoice after delivery'."
-msgstr "你不能给定义为“发运后开票的”销售单进行预付款操作。"
+msgstr "您不能给定义为“发运后开票的”销售单进行预付款操作。"
 
 #. module: sale_stock
 #: model:ir.ui.menu,name:sale_stock.menu_action_shop_form
@@ -355,7 +355,7 @@ msgstr "采购已下销售单的物料"
 #: help:sale.order,picking_policy:0
 msgid ""
 "Pick 'Deliver each product when available' if you allow partial delivery."
-msgstr "如果你允许部分交付， 选择‘每个产品可用时发运’"
+msgstr "如果您允许部分交付， 选择‘每个产品可用时发运’"
 
 #. module: sale_stock
 #: code:addons/sale_stock/sale_stock.py:206
@@ -389,7 +389,7 @@ msgstr "订单行上面的产品属性"
 #: help:sale.config.settings,default_order_policy:0
 msgid ""
 "You can generate invoices based on sales orders or based on shippings."
-msgstr "你可以根据销售订单或送货单生成发票。"
+msgstr "您可以根据销售订单或送货单生成发票。"
 
 #. module: sale_stock
 #: model:ir.model,name:sale_stock.model_sale_report
@@ -412,7 +412,7 @@ msgid ""
 "lines.\n"
 "                This installs the modules project_timesheet and project_mrp."
 msgstr ""
-"让你为特定时间和人员 传输项目管理的任务条目到工时单，进行创建、编辑和删除之一的操作。并自动从需求单明细创建项目任务。\n"
+"让您为特定时间和人员 传输项目管理的任务条目到工时单，进行创建、编辑和删除之一的操作。并自动从需求单明细创建项目任务。\n"
 "为此要安装模块project_timesheet 和project_mrp。"
 
 #. module: sale_stock
@@ -478,8 +478,8 @@ msgid ""
 "In order to delete a confirmed sales order, you must cancel it.\n"
 "To do so, you must first cancel related picking for delivery orders."
 msgstr ""
-"为了删除已经确认的销售单，你必须取消它。\n"
-"要做到这点，你必须首先取消发运单关联的提货单。"
+"为了删除已经确认的销售单，您必须取消它。\n"
+"要做到这点，您必须首先取消发运单关联的提货单。"
 
 #. module: sale_stock
 #: field:sale.order.line,number_packages:0
@@ -510,7 +510,7 @@ msgstr "销售预付款发票"
 #: code:addons/sale_stock/sale_stock.py:497
 #, python-format
 msgid "You must first cancel stock moves attached to this sales order line."
-msgstr "你必须先取消所有属于此销售订单明细上的库存调拨。"
+msgstr "您必须先取消所有属于此销售订单明细上的库存调拨。"
 
 #. module: sale_stock
 #: code:addons/sale_stock/sale_stock.py:535
@@ -583,7 +583,7 @@ msgid ""
 "You plan to sell %.2f %s but you only have %.2f %s available !\n"
 "The real stock is %.2f %s. (without reservations)"
 msgstr ""
-"你计划销售 %.2f %s 但是只要 %.2f %s 是有效的 ！\n"
+"您计划销售 %.2f %s 但是只要 %.2f %s 是有效的 ！\n"
 "实际库存有 %.2f %s。 （没有预订）"
 
 #. module: sale_stock

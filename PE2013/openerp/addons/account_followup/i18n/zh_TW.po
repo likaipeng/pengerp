@@ -642,7 +642,7 @@ msgstr ""
 #: help:account_followup.print,date:0
 msgid ""
 "This field allow you to select a forecast date to plan your follow-ups"
-msgstr "此欄位，讓你選擇一個計劃催款的預測日期"
+msgstr "此欄位，讓您選擇一個計劃催款的預測日期"
 
 #. module: account_followup
 #: field:account_followup.print,date:0
@@ -1080,7 +1080,7 @@ msgstr ""
 msgid ""
 "Do not change message text, if you want to send email in partner language, "
 "or configure from company"
-msgstr "不要改變訊息文字，如果你想要在公司用業務夥伴的語言或設置發送電子郵件"
+msgstr "不要改變訊息文字，如果您想要在公司用業務夥伴的語言或設置發送電子郵件"
 
 #. module: account_followup
 #: view:account_followup.followup.line:0

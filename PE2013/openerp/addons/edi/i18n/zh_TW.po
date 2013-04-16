@@ -68,7 +68,7 @@ msgid ""
 "The document you are trying to import requires the PengERP `%s` application. "
 "You can install it by connecting as the administrator and opening the "
 "configuration assistant."
-msgstr "你要匯入的文件需要PengERP的 %s 模組。你可以用管理員使用者安裝並打開配置精靈。"
+msgstr "您要匯入的文件需要PengERP的 %s 模組。您可以用管理員使用者安裝並打開配置精靈。"
 
 #. module: edi
 #: code:addons/edi/models/edi.py:47

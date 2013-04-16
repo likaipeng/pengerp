@@ -69,7 +69,7 @@ msgstr "country_id"
 msgid ""
 "The IBAN does not seem to be correct. You should have entered something like "
 "this %s"
-msgstr "此IBAN似乎不正確。你應該輸入像 %s 的值。"
+msgstr "此IBAN似乎不正確。您應該輸入像 %s 的值。"
 
 #. module: base_iban
 #: field:res.partner.bank,iban:0

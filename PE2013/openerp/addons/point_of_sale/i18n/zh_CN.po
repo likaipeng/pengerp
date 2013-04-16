@@ -10,7 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2013-03-07 08:37+0000\n"
 "PO-Revision-Date: 2012-12-21 23:00+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language-Team: Chinese (Simplified) <lkp@likaipeng.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -48,7 +48,7 @@ msgstr ""
 "              </p><p>\n"
 "                产品分类用于在触摸屏终端界面浏览产品。\n"
 "              </p><p>\n"
-"                你如果您给分类放置一张图片，触摸屏终端界面的布局将会自动调整。\n"
+"                您如果您给分类放置一张图片，触摸屏终端界面的布局将会自动调整。\n"
 "                我们建议在小于(1024x768)分辨率的终端界面上不要设置分类图片。\n"
 "              </p>\n"
 "            "
@@ -1009,7 +1009,7 @@ msgid ""
 "You have to select a pricelist in the sale form !\n"
 "Please set one before choosing a product."
 msgstr ""
-"你必须在销售窗口选择一条报价单！\n"
+"您必须在销售窗口选择一条报价单！\n"
 "请在选择某个产品之前设置它。"
 
 #. module: point_of_sale
@@ -1272,7 +1272,7 @@ msgstr "欢迎"
 msgid ""
 "You do not have any open cash register. You must create a payment method or "
 "open a cash register."
-msgstr "你尚未打开任何收银机,，你必须创建一个付款方式 或者打开收银机。"
+msgstr "您尚未打开任何收银机,，您必须创建一个付款方式 或者打开收银机。"
 
 #. module: point_of_sale
 #: view:report.sales.by.margin.pos:0
@@ -2618,7 +2618,7 @@ msgid ""
 "The system will open all cash registers, so that you can start recording "
 "payments. We suggest you to control the opening balance of each register, "
 "using their CashBox tab."
-msgstr "系统将打开所用钱箱，以便开始收银。我们建议你在钱箱标签页盘点一下期初现金。"
+msgstr "系统将打开所用钱箱，以便开始收银。我们建议您在钱箱标签页盘点一下期初现金。"
 
 #. module: point_of_sale
 #: view:pos.order:0
@@ -2952,7 +2952,7 @@ msgstr "开启收银机"
 #. module: point_of_sale
 #: field:account.journal,amount_authorized_diff:0
 msgid "Amount Authorized Difference"
-msgstr ""
+msgstr "授权差额数"
 
 #. module: point_of_sale
 #. openerp-web
@@ -3237,7 +3237,7 @@ msgstr "只有新的或被取消的销售流水可以删除"
 msgid ""
 "There are pending operations that could not be saved into the database, are "
 "you sure you want to exit?"
-msgstr "数据库中有不能保存的暂停操作，你确认要退出？"
+msgstr "数据库中有不能保存的暂停操作，您确认要退出？"
 
 #. module: point_of_sale
 #: model:product.template,name:point_of_sale.coca_regular_50cl_product_template
@@ -3308,7 +3308,7 @@ msgstr "新建"
 #. module: point_of_sale
 #: view:pos.open.statement:0
 msgid "Do you want to open cash registers?"
-msgstr "你要打开收银机吗?"
+msgstr "您要打开收银机吗?"
 
 #. module: point_of_sale
 #: model:product.template,name:point_of_sale.perrier_50cl_product_template

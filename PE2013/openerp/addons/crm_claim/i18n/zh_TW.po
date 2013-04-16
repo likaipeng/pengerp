@@ -779,7 +779,7 @@ msgid ""
 "history for a claim (emails sent, intervention type and so on). Claims may "
 "automatically be linked to an email address using the mail gateway module."
 msgstr ""
-"記錄和追蹤你客戶的索賠，索賠可以連結到一個或很多銷售訂單中。你可以發送帶附件的郵件和保留一個索賠的所有日誌（郵件發送，介入類型等）。索賠可以自動連結到電子"
+"記錄和追蹤您客戶的索賠，索賠可以連結到一個或很多銷售訂單中。您可以發送帶附件的郵件和保留一個索賠的所有日誌（郵件發送，介入類型等）。索賠可以自動連結到電子"
 "郵件使用的閘道。"
 
 #. module: crm_claim

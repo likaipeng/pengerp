@@ -229,7 +229,7 @@ msgstr ""
 msgid ""
 "Number of time you spent on the analytic account (from timesheet). It "
 "computes quantities on all journal of type 'general'."
-msgstr "你在這個成本科目上花費的時間總數（數據來自工時表）。僅計算類型為“普通”的憑證簿。"
+msgstr "您在這個成本科目上花費的時間總數（數據來自工時表）。僅計算類型為“普通”的憑證簿。"
 
 #. module: account_analytic_analysis
 #: view:account.analytic.account:0
@@ -693,7 +693,7 @@ msgstr "剩餘的收入"
 msgid ""
 "If invoice from analytic account, the remaining amount you can invoice to "
 "the customer based on the total costs."
-msgstr "如果是輔助核算項目的發票, 剩餘金額你能給客戶開基於總成本的發票"
+msgstr "如果是輔助核算項目的發票, 剩餘金額您能給客戶開基於總成本的發票"
 
 #. module: account_analytic_analysis
 #: field:account_analytic_analysis.summary.month,unit_amount:0

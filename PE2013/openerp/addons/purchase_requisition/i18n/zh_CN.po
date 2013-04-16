@@ -10,7 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2013-03-07 08:38+0000\n"
 "PO-Revision-Date: 2012-12-22 07:21+0000\n"
 "Last-Translator: 盈通 ccdos <ccdos@163.com>\n"
-"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language-Team: Chinese (Simplified) <lkp@likaipeng.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -53,9 +53,9 @@ msgstr ""
 "            单击开始请购单流程。 \n"
 "          </p><p>\n"
 "           请购单是询价单的前面一步，在请购单（采购招标）\n"
-"           中，你能记录你要购买的产品，并产生给供应商的\n"
-"           询价单。谈判后，一旦你复审了所有供应商的 出\n"
-"           价，你能很准一部分，并取消其他的。\n"
+"           中，您能记录您要购买的产品，并产生给供应商的\n"
+"           询价单。谈判后，一旦您复审了所有供应商的 出\n"
+"           价，您能很准一部分，并取消其他的。\n"
 "          </p>\n"
 "        "
 
@@ -262,7 +262,7 @@ msgstr "询价详情"
 msgid ""
 "You have already one %s purchase order for this partner, you must cancel "
 "this purchase order to create a new quotation."
-msgstr "你对这个供应商已经有个一个 %s 采购单 ,  你必须取消采购订单再创建新的请购单."
+msgstr "您对这个供应商已经有个一个 %s 采购单 ,  您必须取消采购订单再创建新的请购单."
 
 #. module: purchase_requisition
 #: view:purchase.requisition:0
@@ -374,7 +374,7 @@ msgstr "采购申请业务伙伴"
 #. module: purchase_requisition
 #: help:purchase.requisition,message_unread:0
 msgid "If checked new messages require your attention."
-msgstr "如果要求你关注新消息，勾选此项"
+msgstr "如果要求您关注新消息，勾选此项"
 
 #. module: purchase_requisition
 #: report:purchase.requisition:0

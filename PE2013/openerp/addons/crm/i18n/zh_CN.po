@@ -23,7 +23,7 @@ msgstr "线索"
 #. module: crm
 #: help:sale.config.settings,fetchmail_lead:0
 msgid "Allows you to configure your incoming mail server, and create leads from incoming emails."
-msgstr "允许你设置接收邮件服务器，并从收到的邮件中创建线索"
+msgstr "允许您设置接收邮件服务器，并从收到的邮件中创建线索"
 
 #. module: crm
 #: code:addons/crm/crm_lead.py:884
@@ -357,7 +357,7 @@ msgid "<p class=\"oe_view_nocontent_create\">\n"
 msgstr "<p class=\"oe_view_nocontent_create\">\n"
 "                单击以便创建一个关联到此客户的商机。\n"
 "              </p><p>\n"
-"                使用商机来跟踪你的销售漏斗，把握潜在销售机会并且更好地预测未来产值。\n"
+"                使用商机来跟踪您的销售漏斗，把握潜在销售机会并且更好地预测未来产值。\n"
 "              </p><p>\n"
 "               您可以从商机中安排会面和电话沟通，并把商机转换为报价单、附加到相关文档、跟踪所有讨论和更多功能。\n"
 "              </p>\n"
@@ -887,7 +887,7 @@ msgstr "警告！"
 #: help:crm.lead,message_unread:0
 #: help:crm.phonecall,message_unread:0
 msgid "If checked new messages require your attention."
-msgstr "如果要求你关注新消息，勾选此项"
+msgstr "如果要求您关注新消息，勾选此项"
 
 #. module: crm
 #: field:crm.lead,day_open:0
@@ -1078,7 +1078,7 @@ msgstr "阶段"
 #. module: crm
 #: help:sale.config.settings,module_crm_helpdesk:0
 msgid "Allows you to communicate with Customer,  process Customer query, and provide better help and support. This installs the module crm_helpdesk."
-msgstr "安装 crm_helpdesk 模块能够允许你与客户沟通，处理客户查询，并且提供更好的帮助与支持。"
+msgstr "安装 crm_helpdesk 模块能够允许您与客户沟通，处理客户查询，并且提供更好的帮助与支持。"
 
 #. module: crm
 #: view:crm.lead:0
@@ -1177,12 +1177,12 @@ msgstr "预期结束日期"
 #. module: crm
 #: help:crm.case.section,active:0
 msgid "If the active field is set to true, it will allow you to hide the sales team without removing it."
-msgstr "如果有效字段设为true，它将允许你忽略销售团队在外面删除它。"
+msgstr "如果有效字段设为true，它将允许您忽略销售团队在外面删除它。"
 
 #. module: crm
 #: help:crm.case.stage,case_default:0
 msgid "If you check this field, this stage will be proposed by default on each sales team. It will not assign this stage to existing teams."
-msgstr "如果你勾选了这里，这个阶段会作为每个销售团队的默认阶段。对已有的销售团队无效。"
+msgstr "如果您勾选了这里，这个阶段会作为每个销售团队的默认阶段。对已有的销售团队无效。"
 
 #. module: crm
 #: help:crm.case.stage,type:0
@@ -1198,7 +1198,7 @@ msgstr "线索已创建"
 #. module: crm
 #: help:crm.segmentation,sales_purchase_active:0
 msgid "Check if you want to use this tab as part of the segmentation rule. If not checked, the criteria beneath will be ignored"
-msgstr "勾选此项, 如果你要使用此标签上的细分规则. 如果不选下面的标准将被忽略"
+msgstr "勾选此项, 如果您要使用此标签上的细分规则. 如果不选下面的标准将被忽略"
 
 #. module: crm
 #: field:crm.segmentation,state:0
@@ -1405,7 +1405,7 @@ msgstr "分类"
 #. module: crm
 #: constraint:crm.case.section:0
 msgid "Error ! You cannot create recursive Sales team."
-msgstr "错误！你不能创建递归的销售团队"
+msgstr "错误！您不能创建递归的销售团队"
 
 #. module: crm
 #: selection:crm.opportunity2phonecall,action:0
@@ -1427,7 +1427,7 @@ msgstr "电话访问"
 #. module: crm
 #: model:ir.actions.act_window,help:crm.action_report_crm_opportunity
 msgid "Opportunities Analysis gives you an instant access to your opportunities with information such as the expected revenue, planned cost, missed deadlines or the number of interactions per opportunity. This report is mainly used by the sales manager in order to do the periodic review with the teams of the sales pipeline."
-msgstr "商机分析给你随时访问商机的信息如：预期收入、计划成本、错过的最后时限或者每个商机的互动次数。这个报表主要给销售经理定期审查这团队里的业务员。"
+msgstr "商机分析给您随时访问商机的信息如：预期收入、计划成本、错过的最后时限或者每个商机的互动次数。这个报表主要给销售经理定期审查这团队里的业务员。"
 
 #. module: crm
 #: field:crm.case.categ,name:0
@@ -2134,7 +2134,7 @@ msgid "<p class=\"oe_view_nocontent_create\">\n"
 msgstr "<p class=\"oe_view_nocontent_create\">\n"
 "            单击输入一个电话计划 \n"
 "          </p><p>\n"
-"            PengERP 能让你为你的团队成员安排电话计划\n"
+"            PengERP 能让您为您的团队成员安排电话计划\n"
 "            并跟踪去电情况。\n"
 "          </p><p>  \n"
 "            可以用导入功能批量添加 要\n"
@@ -2259,7 +2259,7 @@ msgstr "结束日期"
 #. module: crm
 #: model:ir.actions.act_window,help:crm.action_report_crm_phonecall
 msgid "From this report, you can analyse the performance of your sales team, based on their phone calls. You can group or filter the information according to several criteria and drill down the information, by adding more groups in the report."
-msgstr "在这报表中，你能分析你的销售团队在电话访问上的业绩。你能根据几个标准和向下钻取数据组织或过滤信息。它能在报表中加入更多的组。"
+msgstr "在这报表中，您能分析您的销售团队在电话访问上的业绩。您能根据几个标准和向下钻取数据组织或过滤信息。它能在报表中加入更多的组。"
 
 #. module: crm
 #: field:crm.case.stage,fold:0
@@ -2357,7 +2357,7 @@ msgstr "<p class=\"oe_view_nocontent_create\">\n"
 "            新建一个线索。\n"
 "          </p><p>\n"
 "            在确定是商机或者客户之前，用线索来管理联系人信息\n"
-"            可以是一张你收到的 名片\n"
+"            可以是一张您收到的 名片\n"
 "            网站上别人留的联系方式, 或者一个潜在客户列表\n"
 "            文件等。\n"
 "          </p><p>\n"
@@ -2436,7 +2436,7 @@ msgstr "<p class=\"oe_view_nocontent_create\">\n"
 "            与某个客户的沟通历史以提醒 其他\n"
 "            团队成员.\n"
 "          </p><p>\n"
-"            要对这个来电的请求继续跟进, 你可以安排 一次\n"
+"            要对这个来电的请求继续跟进, 您可以安排 一次\n"
 "            去电，会面或者新建一个商机。\n"
 "          </p>\n"
 "        "
@@ -2492,8 +2492,8 @@ msgstr "<p class=\"oe_view_nocontent_create\">\n"
 "                单击新建线索分类.\n"
 "              </p><p>\n"
 "                按贵公司的销售行为创建特定的分类\n"
-"                可以更好地分以你的线索和 商机。\n"
-"                这些分类可以表示你的产品结构\n"
+"                可以更好地分以您的线索和 商机。\n"
+"                这些分类可以表示您的产品结构\n"
 "                或者不同的销售类型。\n"
 "              </p>\n"
 "            "

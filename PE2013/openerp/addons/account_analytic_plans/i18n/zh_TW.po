@@ -65,7 +65,7 @@ msgstr "輔助核算計劃"
 #: view:analytic.plan.create.model:0
 msgid ""
 "This distribution model has been saved.You will be able to reuse it later."
-msgstr "此分配模式已儲存，你將可以稍後使用它。"
+msgstr "此分配模式已儲存，您將可以稍後使用它。"
 
 #. module: account_analytic_plans
 #: model:ir.model,name:account_analytic_plans.model_account_analytic_plan_instance_line

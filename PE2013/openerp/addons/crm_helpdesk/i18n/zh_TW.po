@@ -667,7 +667,7 @@ msgstr ""
 msgid ""
 "Create and manage helpdesk categories to better manage and classify your "
 "support requests."
-msgstr "建立和管理客服類型去更好管理和分類你的需求協助"
+msgstr "建立和管理客服類型去更好管理和分類您的需求協助"
 
 #. module: crm_helpdesk
 #: view:crm.helpdesk:0

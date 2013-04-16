@@ -10,7 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2013-03-07 08:37+0000\n"
 "PO-Revision-Date: 2013-02-18 12:27+0000\n"
 "Last-Translator: 盈通 ccdos <ccdos@163.com>\n"
-"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language-Team: Chinese (Simplified) <lkp@likaipeng.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -238,7 +238,7 @@ msgstr "用下列公式计算：最大工时 - 总工作时间"
 msgid ""
 "Number of time you spent on the analytic account (from timesheet). It "
 "computes quantities on all journal of type 'general'."
-msgstr "你在这个成本科目上花费的时间总数（数据来自计工单）。仅计算类型为“普通”的凭证簿。"
+msgstr "您在这个成本科目上花费的时间总数（数据来自计工单）。仅计算类型为“普通”的凭证簿。"
 
 #. module: account_analytic_analysis
 #: view:account.analytic.account:0
@@ -540,6 +540,13 @@ msgid ""
 "                </p>\n"
 "            "
 msgstr ""
+"<p class=\"oe_view_nocontent_create\">\n"
+"                    点击创建新的合同。\n"
+"                </p><p>\n"
+"                    使用合同来跟踪任务、问题、工时表或者基于工作完成、花费和（或者）销售订单的开发票工作。\n"
+"                    对于合同的续签，PengERP系统会给相关销售人员（或者负责人）自动发出提示消息。\n"
+"                </p>\n"
+"            "
 
 #. module: account_analytic_analysis
 #: field:account.analytic.account,toinvoice_total:0
@@ -702,7 +709,7 @@ msgstr "剩余的收入"
 msgid ""
 "If invoice from analytic account, the remaining amount you can invoice to "
 "the customer based on the total costs."
-msgstr "如果是辅助核算项目的发票, 剩余金额你能给客户开基于总成本的发票"
+msgstr "如果是辅助核算项目的发票, 剩余金额您能给客户开基于总成本的发票"
 
 #. module: account_analytic_analysis
 #: field:account_analytic_analysis.summary.month,unit_amount:0

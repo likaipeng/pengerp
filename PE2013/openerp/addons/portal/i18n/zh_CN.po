@@ -10,7 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2013-03-07 08:38+0000\n"
 "PO-Revision-Date: 2012-12-21 23:00+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language-Team: Chinese (Simplified) <lkp@likaipeng.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -39,7 +39,7 @@ msgid ""
 msgstr ""
 "在下表中选择哪些联系人应该属于门户。\n"
 "                        每一个被选中的联系人的邮件地址必须是有效的和唯一的。\n"
-"                        如果有需要，你可以在列表中直接更改联系人的邮件地址。"
+"                        如果有需要，您可以在列表中直接更改联系人的邮件地址。"
 
 #. module: portal
 #: model:mail.group,name:portal.company_jobs
@@ -170,7 +170,7 @@ msgstr "待办事项"
 #, python-format
 msgid ""
 "You must have an email address in your User Preferences to send emails."
-msgstr "你的个人设置里必须要输入电子邮件地址才能发送邮件"
+msgstr "您的个人设置里必须要输入电子邮件地址才能发送邮件"
 
 #. module: portal
 #: model:ir.actions.client,name:portal.action_jobs
@@ -211,7 +211,7 @@ msgstr "可以向其中添加或者从中删除用户的门户。"
 #: code:addons/portal/wizard/share_wizard.py:38
 #, python-format
 msgid "Users you already shared with"
-msgstr "你已经分享的用户"
+msgstr "您已经分享的用户"
 
 #. module: portal
 #: model:ir.actions.client,help:portal.action_jobs
@@ -249,7 +249,7 @@ msgstr "门户"
 #: code:addons/portal/wizard/portal_wizard.py:34
 #, python-format
 msgid "Your PengERP account at %(company)s"
-msgstr "你在 %(company)s 的PengERP帐号"
+msgstr "您在 %(company)s 的PengERP帐号"
 
 #. module: portal
 #: model:res.groups,name:portal.group_anonymous

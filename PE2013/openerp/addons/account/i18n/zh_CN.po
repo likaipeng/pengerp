@@ -10,7 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2013-03-07 08:37+0000\n"
 "PO-Revision-Date: 2013-03-07 06:14+0000\n"
 "Last-Translator: 盈通 ccdos <ccdos@163.com>\n"
-"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language-Team: Chinese (Simplified) <lkp@likaipeng.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -341,7 +341,7 @@ msgid ""
 "You can set up here the format you want this record to be displayed. If you "
 "leave the automatic formatting, it will be computed based on the financial "
 "reports hierarchy (auto-computed field 'level')."
-msgstr "这里可以设置你想要记录显示格式.如果保留自动,它将基于财务报告结构计算(自动计算字段\"level\")"
+msgstr "这里可以设置您想要记录显示格式.如果保留自动,它将基于财务报告结构计算(自动计算字段\"level\")"
 
 #. module: account
 #: field:account.config.settings,group_multi_currency:0
@@ -352,7 +352,7 @@ msgstr "允许多种货币"
 #: code:addons/account/account_invoice.py:74
 #, python-format
 msgid "You must define an analytic journal of type '%s'!"
-msgstr "你必须定义一个类型为 '%s'的成本凭证簿！"
+msgstr "您必须定义一个类型为 '%s'的成本凭证簿！"
 
 #. module: account
 #: selection:account.entries.report,month:0
@@ -367,7 +367,7 @@ msgstr "6"
 #: code:addons/account/wizard/account_automatic_reconcile.py:148
 #, python-format
 msgid "You must select accounts to reconcile."
-msgstr "你必须选择要核销的账簿 。"
+msgstr "您必须选择要核销的账簿 。"
 
 #. module: account
 #: help:account.config.settings,group_analytic_accounting:0
@@ -735,7 +735,7 @@ msgstr "账簿的会计期间"
 #: constraint:account.move:0
 msgid ""
 "You cannot create more than one move per period on a centralized journal."
-msgstr "在每个会计期间，你不可以创建1个以上的总分类凭证"
+msgstr "在每个会计期间，您不可以创建1个以上的总分类凭证"
 
 #. module: account
 #: help:account.tax,account_analytic_paid_id:0
@@ -786,7 +786,7 @@ msgstr "重开"
 #. module: account
 #: view:account.use.model:0
 msgid "Are you sure you want to create entries?"
-msgstr "你确定创建分录?"
+msgstr "您确定创建分录?"
 
 #. module: account
 #: code:addons/account/account_invoice.py:1330
@@ -1242,7 +1242,7 @@ msgstr ""
 "<p class=\"oe_view_nocontent_create\">\n"
 "                点击创建现金记录。\n"
 "              </p><p>\n"
-"                现金记录功能允许你管理你的现金分类账中的现金项目。该功能提供了一种每天跟踪现金支付\n"
+"                现金记录功能允许您管理您的现金分类账中的现金项目。该功能提供了一种每天跟踪现金支付\n"
 "		 的便捷方式。\n"
 "              </p>\n"
 "            "
@@ -1893,7 +1893,7 @@ msgstr "该向导将改变发票的币种"
 msgid ""
 "Select a configuration package to setup automatically your\n"
 "                        taxes and chart of accounts."
-msgstr "选择一个配置包来自动化安装你的税和科目表"
+msgstr "选择一个配置包来自动化安装您的税和科目表"
 
 #. module: account
 #: view:account.analytic.account:0
@@ -1911,7 +1911,7 @@ msgstr "税申报单"
 msgid ""
 "If the active field is set to False, it will allow you to hide the journal "
 "period without removing it."
-msgstr "如果此字段设置为False，你可以让他隐藏而不删除它。"
+msgstr "如果此字段设置为False，您可以让他隐藏而不删除它。"
 
 #. module: account
 #: field:account.report.general.ledger,sortby:0
@@ -1989,7 +1989,7 @@ msgstr "发票已核准"
 #. module: account
 #: field:account.config.settings,module_account_check_writing:0
 msgid "Pay your suppliers by check"
-msgstr "用支票支付你的供应商"
+msgstr "用支票支付您的供应商"
 
 #. module: account
 #: field:account.move.line.reconcile,credit:0
@@ -2014,7 +2014,7 @@ msgid ""
 msgstr ""
 "这个菜单基于发票或者支付打印一个纳税申报。选择财务年度的一个或几个会计期间。\r\n"
 "纳税申报需要的信息由Openerp自动从发票（或者在有些国家是付款单）生成。数据是实时更新的。\r\n"
-"这非常有用，他使你任何时间可预览 在月份（或季度）的开始和结束欠了多少税。"
+"这非常有用，他使您任何时间可预览 在月份（或季度）的开始和结束欠了多少税。"
 
 #. module: account
 #: code:addons/account/account.py:409
@@ -2088,7 +2088,7 @@ msgstr ""
 "<p class=\"oe_view_nocontent_create\">\n"
 "                单击创建一张新的供应商发票。\n"
 "              </p><p>\n"
-"               你可以根据从你的供应商处所采购或收到的货物来管理发票。PengERP也可以根据采购订单或者收据自动生成一张发票草稿。\n"
+"               您可以根据从您的供应商处所采购或收到的货物来管理发票。PengERP也可以根据采购订单或者收据自动生成一张发票草稿。\n"
 "              </p>\n"
 "            "
 
@@ -2120,7 +2120,7 @@ msgstr "关闭会计期间"
 msgid ""
 "This journal already contains items for this period, therefore you cannot "
 "modify its company field."
-msgstr "账簿已经包含了这个会计区间的项目，因此你不嫩修改它的公司字段"
+msgstr "账簿已经包含了这个会计区间的项目，因此您不嫩修改它的公司字段"
 
 #. module: account
 #: model:ir.actions.act_window,name:account.action_project_account_analytic_line_form
@@ -2153,9 +2153,9 @@ msgstr ""
 "                点击创建银行对账单。\n"
 "              </p><p>\n"
 "                银行对账单是在一定的时间期限内银行账户所发生的所有金融交易的汇总。\n"
-"                你会定期的从你的开户银行收到对账单。\n"
+"                您会定期的从您的开户银行收到对账单。\n"
 "              </p><p>\n"
-"                PengERP 允许你用与之相关的销售或者采购发票直接核销账表。\n"
+"                PengERP 允许您用与之相关的销售或者采购发票直接核销账表。\n"
 "              </p>\n"
 "            "
 
@@ -2307,7 +2307,7 @@ msgid ""
 "The selected account of your Journal Entry forces to provide a secondary "
 "currency. You should remove the secondary currency on the account or select "
 "a multi-currency view on the journal."
-msgstr "凭证上的科目要求输入一个外币。你可以在科目设置中去掉这个外币或在凭证簿设置上选择一个支持多币种的输入界面。"
+msgstr "凭证上的科目要求输入一个外币。您可以在科目设置中去掉这个外币或在凭证簿设置上选择一个支持多币种的输入界面。"
 
 #. module: account
 #: view:account.invoice:0
@@ -2337,7 +2337,7 @@ msgstr "斜体（小一些）"
 msgid ""
 "If you want the journal should be control at opening/closing, check this "
 "option"
-msgstr "如果你要这个分类账在开启和结账时被控制，选中此项。"
+msgstr "如果您要这个分类账在开启和结账时被控制，选中此项。"
 
 #. module: account
 #: view:account.bank.statement:0
@@ -2424,7 +2424,7 @@ msgstr "30天"
 #: code:addons/account/account_cash_statement.py:256
 #, python-format
 msgid "You do not have rights to open this %s journal !"
-msgstr "你没有权限打开 %s 分类账。"
+msgstr "您没有权限打开 %s 分类账。"
 
 #. module: account
 #: model:res.groups,name:account.group_supplier_inv_check_total
@@ -2649,7 +2649,7 @@ msgstr "财务结构"
 #: code:addons/account/account_move_line.py:578
 #, python-format
 msgid "You cannot create journal items on a closed account %s %s."
-msgstr "你不能在关闭的科目%s %s 上面创建分类账分录。"
+msgstr "您不能在关闭的科目%s %s 上面创建分类账分录。"
 
 #. module: account
 #: field:account.period.close,sure:0
@@ -3066,7 +3066,7 @@ msgstr "选择的发票不能被确认，因为它们不是“草稿”或者“
 #: code:addons/account/account.py:1062
 #, python-format
 msgid "You should choose the periods that belong to the same company."
-msgstr "你要选择属于同一个公司的会计区间"
+msgstr "您要选择属于同一个公司的会计区间"
 
 #. module: account
 #: model:ir.actions.act_window,name:account.action_report_account_sales_tree_all
@@ -3079,7 +3079,7 @@ msgstr "销售科目"
 #: code:addons/account/account.py:1411
 #, python-format
 msgid "You cannot delete a posted journal entry \"%s\"."
-msgstr "你不能删除已经登帐的分类账分录\"%s\"."
+msgstr "您不能删除已经登帐的分类账分录\"%s\"."
 
 #. module: account
 #: view:account.invoice:0
@@ -3113,7 +3113,7 @@ msgstr "这个分类账已经包含了分录，因此不能修改他的公司字
 msgid ""
 "You need an Opening journal with centralisation checked to set the initial "
 "balance."
-msgstr "你需要一个打开的分类账，集中设置初始余额。"
+msgstr "您需要一个打开的分类账，集中设置初始余额。"
 
 #. module: account
 #: model:ir.actions.act_window,name:account.action_tax_code_list
@@ -3345,7 +3345,7 @@ msgid ""
 "software system you may have to use the rate at date. Incoming transactions "
 "always use the rate at date."
 msgstr ""
-"将选择要兑换货币的当前汇率。在大多数国家法定为“平均”，但只有少数软件系统能够管理。 所以如果你要导入另一个软件系统，你可能需要使用当日汇率。"
+"将选择要兑换货币的当前汇率。在大多数国家法定为“平均”，但只有少数软件系统能够管理。 所以如果您要导入另一个软件系统，您可能需要使用当日汇率。"
 
 #. module: account
 #: code:addons/account/account.py:2640
@@ -3679,7 +3679,7 @@ msgid ""
 "You cannot create an invoice on a centralized journal. Uncheck the "
 "centralized counterpart box in the related journal from the configuration "
 "menu."
-msgstr "你不能在汇总账簿上面创建发票。在配置菜单中 相关的 分类账簿表单里不要选中“合并对方科目”。"
+msgstr "您不能在汇总账簿上面创建发票。在配置菜单中 相关的 分类账簿表单里不要选中“合并对方科目”。"
 
 #. module: account
 #: field:account.bank.statement,balance_start:0
@@ -3866,7 +3866,7 @@ msgstr ""
 "<p class=\"oe_view_nocontent_create\">\n"
 "                点击创建一张客户发票。\n"
 "              </p><p>\n"
-"                PengERP的电子发票系统允许你方便快捷地收取客户付款。客户可以通过电子邮件获取发票，\n"
+"                PengERP的电子发票系统允许您方便快捷地收取客户付款。客户可以通过电子邮件获取发票，\n"
 "		 也可以在线支付并且（或者）将发票导入到他们自己的系统中。\n"
 "              </p><p>\n"
 "                与客户的讨论将自动显示在每一张发票的下方。\n"
@@ -4409,7 +4409,7 @@ msgstr "显示科目列表"
 #. module: account
 #: view:account.state.open:0
 msgid "(Invoice should be unreconciled if you want to open it)"
-msgstr "(如果你想打开它发票要反核销)"
+msgstr "(如果您想打开它发票要反核销)"
 
 #. module: account
 #: field:account.tax,account_analytic_collected_id:0
@@ -4535,9 +4535,9 @@ msgstr ""
 "<p class=\"oe_view_nocontent_create\">\n"
 "            点击设置一个新的银行账户。\n"
 "          </p><p>\n"
-"            配置你公司的银行账户，并选择那些需要在报表页脚显示的账户。\n"
+"            配置您公司的银行账户，并选择那些需要在报表页脚显示的账户。\n"
 "          </p><p>\n"
-"            如果你使用PengERP的会计应用，那么依据这些数据将自动创建账簿和科目。\n"
+"            如果您使用PengERP的会计应用，那么依据这些数据将自动创建账簿和科目。\n"
 "          </p>\n"
 "        "
 
@@ -4595,7 +4595,7 @@ msgstr "月份"
 #: code:addons/account/account.py:668
 #, python-format
 msgid "You cannot change the code of account which contains journal items!"
-msgstr "你不能修改已包含科目的账簿！"
+msgstr "您不能修改已包含科目的账簿！"
 
 #. module: account
 #: field:account.config.settings,purchase_sequence_prefix:0
@@ -4708,7 +4708,7 @@ msgstr "月度"
 #. module: account
 #: help:account.analytic.balance,empty_acc:0
 msgid "Check if you want to display Accounts with 0 balance too."
-msgstr "检查,如果你想显示平衡科目"
+msgstr "检查,如果您想显示平衡科目"
 
 #. module: account
 #: field:account.move.reconcile,opening_reconciliation:0
@@ -4838,7 +4838,7 @@ msgstr "税率模板"
 #. module: account
 #: sql_constraint:account.period:0
 msgid "The name of the period must be unique per company!"
-msgstr "每个公司的财务期间名称须唯一"
+msgstr "每个公司的会计期间名称须唯一"
 
 #. module: account
 #: help:wizard.multi.charts.accounts,currency_id:0
@@ -4862,7 +4862,7 @@ msgid ""
 "wizard that generate Chart of Accounts from templates, this is useful when "
 "you want to generate accounts of this template only when loading its child "
 "template."
-msgstr "如果你不想在根据模版生成科目表的向导里用这个模版，不要勾选这个字段。用于你仅需要在用到本模版的子模板时才生成这个模版的会计科目。"
+msgstr "如果您不想在根据模版生成科目表的向导里用这个模版，不要勾选这个字段。用于您仅需要在用到本模版的子模板时才生成这个模版的会计科目。"
 
 #. module: account
 #: view:account.use.model:0
@@ -4941,7 +4941,7 @@ msgstr "编号"
 #. module: account
 #: view:cash.box.out:0
 msgid "Describe why you take money from the cash register:"
-msgstr "描述一下你为什么要从现金登记簿中支取现金："
+msgstr "描述一下您为什么要从现金登记簿中支取现金："
 
 #. module: account
 #: selection:account.invoice,state:0
@@ -5260,7 +5260,7 @@ msgstr "现金管理"
 #: field:account.analytic.inverted.balance,date2:0
 #: field:account.analytic.journal.report,date2:0
 msgid "End of period"
-msgstr "结束会计期间"
+msgstr "会计期间关闭于"
 
 #. module: account
 #: model:process.node,note:account.process_node_supplierpaymentorder0
@@ -5454,7 +5454,7 @@ msgid ""
 "This boolean helps you to choose if you want to propose to the user to "
 "encode the sale and purchase rates or choose from list of taxes. This last "
 "choice assumes that the set of tax defined on this template is complete"
-msgstr "这个选项用于确定你是否希望提示用户输入销售和采购的税率，或者是从下拉列表选择税。这是设置税模版的最后一步。"
+msgstr "这个选项用于确定您是否希望提示用户输入销售和采购的税率，或者是从下拉列表选择税。这是设置税模版的最后一步。"
 
 #. module: account
 #: view:account.financial.report:0
@@ -5767,7 +5767,7 @@ msgstr "待支付"
 #: view:account.config.settings:0
 #: model:ir.ui.menu,name:account.menu_analytic_accounting
 msgid "Analytic Accounting"
-msgstr "辅助核算会计"
+msgstr "辅助核算项"
 
 #. module: account
 #: help:account.payment.term.line,value:0
@@ -6047,7 +6047,7 @@ msgstr "固定金额"
 #: code:addons/account/account_move_line.py:1059
 #, python-format
 msgid "You cannot change the tax, you should remove and recreate lines."
-msgstr "你不能修改税，你需要删去并且重建这一行"
+msgstr "您不能修改税，您需要删去并且重建这一行"
 
 #. module: account
 #: model:ir.actions.act_window,name:account.action_account_automatic_reconcile
@@ -6196,7 +6196,7 @@ msgid ""
 "From this view, have an analysis of your different financial accounts. The "
 "document shows your debit and credit taking in consideration some criteria "
 "you can choose by using the search tool."
-msgstr "在这个界面上，你可以对不同的科目做分析。按照您输入的条件出具报表显示这些科目的借贷方发生额。"
+msgstr "在这个界面上，您可以对不同的科目做分析。按照您输入的条件出具报表显示这些科目的借贷方发生额。"
 
 #. module: account
 #: help:account.partner.reconcile.process,progress:0
@@ -6280,7 +6280,7 @@ msgstr "期末余额根据期初余额和本期发生额计算。"
 #. module: account
 #: field:account.journal,loss_account_id:0
 msgid "Loss Account"
-msgstr ""
+msgstr "亏损科目"
 
 #. module: account
 #: field:account.tax,account_collected_id:0
@@ -6315,7 +6315,7 @@ msgstr "天数"
 msgid ""
 "You cannot validate this journal entry because account \"%s\" does not "
 "belong to chart of accounts \"%s\"."
-msgstr "你不能核准这个分类账分录，因为科目 \"%s\" 不属于科目表 \"%s\"."
+msgstr "您不能核准这个分类账分录，因为科目 \"%s\" 不属于科目表 \"%s\"."
 
 #. module: account
 #: view:account.financial.report:0
@@ -6499,7 +6499,7 @@ msgstr ""
 "<p class=\"oe_view_nocontent_create\">\n"
 "                点击创建供应商的退款记录。\n"
 "              </p><p>\n"
-"                不需要手工创建供应商退款，你可以从供应商 发票生成退款，并且将它们直接关联。\n"
+"                不需要手工创建供应商退款，您可以从供应商 发票生成退款，并且将它们直接关联。\n"
 "              </p>\n"
 "            "
 
@@ -6523,7 +6523,7 @@ msgid ""
 "encode the sales and purchase rates or use the usual m2o fields. This last "
 "choice assumes that the set of tax defined for the chosen template is "
 "complete"
-msgstr "这个选项用于确定你是否希望提示用户输入销售和采购的税率，或者是打开税选择列表。这是设置税模版的最后一步。"
+msgstr "这个选项用于确定您是否希望提示用户输入销售和采购的税率，或者是打开税选择列表。这是设置税模版的最后一步。"
 
 #. module: account
 #: report:account.vat.declaration:0
@@ -6674,7 +6674,7 @@ msgstr "权益"
 #. module: account
 #: field:account.journal,internal_account_id:0
 msgid "Internal Transfers Account"
-msgstr ""
+msgstr "内部周转科目"
 
 #. module: account
 #: code:addons/account/wizard/pos_box.py:33
@@ -6824,7 +6824,7 @@ msgid ""
 "This wizard will generate the end of year journal entries of selected fiscal "
 "year. Note that you can run this wizard many times for the same fiscal year: "
 "it will simply replace the old opening entries with the new ones."
-msgstr "此向导将生成选定会计年度的年结凭证。注意你可以针对相同年度多次运行这个向导：新生成的凭证会覆盖原有凭证。"
+msgstr "此向导将生成选定会计年度的年结凭证。注意您可以针对相同年度多次运行这个向导：新生成的凭证会覆盖原有凭证。"
 
 #. module: account
 #: model:ir.ui.menu,name:account.menu_finance_bank_and_cash
@@ -6856,7 +6856,7 @@ msgstr "非强制创建"
 msgid ""
 "You cannot change the owner company of an account that already contains "
 "journal items."
-msgstr "你不能修改已经存在凭证的公司帐户。"
+msgstr "您不能修改已经存在凭证的公司帐户。"
 
 #. module: account
 #: report:account.invoice:0
@@ -7191,7 +7191,7 @@ msgid ""
 "If you selected to filter by date or period, this field allow you to add a "
 "row to display the amount of debit/credit/balance that precedes the filter "
 "you've set."
-msgstr "如果你选择了按日期或期间筛选，可以用这个字段按所选条件添加一行显示借方、贷方、余额。"
+msgstr "如果您选择了按日期或期间筛选，可以用这个字段按所选条件添加一行显示借方、贷方、余额。"
 
 #. module: account
 #: view:account.bank.statement:0
@@ -7448,7 +7448,7 @@ msgid ""
 "creditors for the past month, past two months, and so on. "
 msgstr ""
 "业务伙伴过期试算表是某个时间段内应收账款的详细的报表。打开这个报表后请输入公司名称、会计期间、分析的时间段（按天）。PengERP会按期间计算应收账款余额"
-"。如果你输入了30天，PengERP生成业务伙伴前一个月，再前一个月的金额。 "
+"。如果您输入了30天，PengERP生成业务伙伴前一个月，再前一个月的金额。 "
 
 #. module: account
 #: field:account.invoice,origin:0
@@ -7484,7 +7484,7 @@ msgstr "会计报表"
 #. module: account
 #: field:account.analytic.line,currency_id:0
 msgid "Account Currency"
-msgstr ""
+msgstr "记账货币"
 
 #. module: account
 #: report:account.invoice:0
@@ -7526,12 +7526,12 @@ msgstr "税模板"
 #. module: account
 #: view:account.journal.select:0
 msgid "Are you sure you want to open Journal Entries?"
-msgstr "你确定要显示这个凭证簿的会计凭证么？"
+msgstr "您确定要显示这个凭证簿的会计凭证么？"
 
 #. module: account
 #: view:account.state.open:0
 msgid "Are you sure you want to open this invoice ?"
-msgstr "你确定要打开这发票?"
+msgstr "您确定要打开这发票?"
 
 #. module: account
 #: field:account.chart.template,property_account_expense_opening:0
@@ -7921,7 +7921,7 @@ msgid ""
 "few new accounts (You don't need to define the whole structure that is "
 "common to both several times)."
 msgstr ""
-"这个可选字段的功能是，你可以把一个科目模版链接到另一个与当前根所属模版不一样的科目模版。这样你就可以扩展另一个科目模版，只需要定义本模板里要新增的会计科目"
+"这个可选字段的功能是，您可以把一个科目模版链接到另一个与当前根所属模版不一样的科目模版。这样您就可以扩展另一个科目模版，只需要定义本模板里要新增的会计科目"
 "即可，不用全部重来。"
 
 #. module: account
@@ -8207,7 +8207,7 @@ msgstr "钱箱账明细"
 #. module: account
 #: field:account.installer,charts:0
 msgid "Accounting Package"
-msgstr ""
+msgstr "会计科目模板"
 
 #. module: account
 #: report:account.third_party_ledger:0
@@ -8375,7 +8375,7 @@ msgstr "相关业务伙伴"
 #: code:addons/account/account_invoice.py:1434
 #, python-format
 msgid "You must first select a partner !"
-msgstr "你必须首先选择一个业务伙伴!"
+msgstr "您必须首先选择一个业务伙伴!"
 
 #. module: account
 #: field:account.invoice,comment:0
@@ -8630,7 +8630,7 @@ msgstr "期末结余"
 #. module: account
 #: field:account.journal,centralisation:0
 msgid "Centralized Counterpart"
-msgstr ""
+msgstr "共同对手方"
 
 #. module: account
 #: help:account.move.line,blocked:0
@@ -8742,7 +8742,7 @@ msgid ""
 "process after having resolved the eventual exceptions it may have created."
 msgstr ""
 "这个按钮只在发票的状态是‘已付款’的时候才显示（意味着发票已经全部核销了），只读字段‘已核销’却是没有勾选的（实际上不应该这样）。换句话说，这张发票被反核"
-"销了，不应该在‘已付款’状态。你应该单击这个按钮来更改发票状态到‘未付款’。这样解决了异常问题后就可以按正常流程继续处理这张发票了。"
+"销了，不应该在‘已付款’状态。您应该单击这个按钮来更改发票状态到‘未付款’。这样解决了异常问题后就可以按正常流程继续处理这张发票了。"
 
 #. module: account
 #: model:ir.actions.act_window,help:account.action_account_journal_form
@@ -8934,7 +8934,7 @@ msgstr "打印"
 #. module: account
 #: view:account.period.close:0
 msgid "Are you sure?"
-msgstr "你确定吗?"
+msgstr "您确定吗?"
 
 #. module: account
 #: view:account.journal:0
@@ -9151,8 +9151,8 @@ msgid ""
 "accounts that are typically more credited than debited and that you would "
 "like to print as positive amounts in your reports; e.g.: Income account."
 msgstr ""
-"对于贷方发生额大于借方发生额的会计科目，你希望在打印报表时显示余额的绝对值，你可以对科目的余额取反；例如：收入科目。对于借方发生额大于贷方发生额的会计科目"
-"，你希望在打印报表时显示余额的绝对值，你可以对科目的余额取反；例如：费用科目。"
+"对于贷方发生额大于借方发生额的会计科目，您希望在打印报表时显示余额的绝对值，您可以对科目的余额取反；例如：收入科目。对于借方发生额大于贷方发生额的会计科目"
+"，您希望在打印报表时显示余额的绝对值，您可以对科目的余额取反；例如：费用科目。"
 
 #. module: account
 #: field:res.partner,contract_ids:0
@@ -9943,7 +9943,7 @@ msgstr "辅助核算项"
 #. module: account
 #: view:account.installer:0
 msgid "Configure your Fiscal Year"
-msgstr ""
+msgstr "配置您的会计年度"
 
 #. module: account
 #: field:account.period,name:0
@@ -10788,7 +10788,7 @@ msgid ""
 "            "
 msgstr ""
 "<p class=\"oe_view_nocontent_create\">\n"
-"                请选择你要填写的会计期和分类账。\n"
+"                请选择您要填写的会计期和分类账。\n"
 "              </p><p>\n"
 "                会计师使用该视图来快速地记录PengERP系统中的会计项目。\n"
 "              </p>\n"
